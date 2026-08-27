@@ -1,0 +1,18 @@
+---
+title: "Effects of the Basic Pension Reform on Consumption and Labor Supply of the Elderly"
+date: 2026-01-01
+year: 2026
+category: manuscripts
+venue: "KDI Journal of Economic Policy"
+excerpt: "This paper studies how the Basic Pension reform affects the consumption and labor supply of elderly households in South Korea."
+citation_text: 'Cho, Minsoo & Son, Hyelim (2026). "Effects of the Basic Pension Reform on Consumption and Labor Supply of the Elderly." KDI Journal of Economic Policy, 48(3).'
+---
+
+<h1 class="page__title">Effects of the Basic Pension Reform on Consumption and Labor Supply of the Elderly</h1>
+<p class="page__meta">Published in <i>KDI Journal of Economic Policy</i>, 2026</p>
+
+<div class="page__content">
+
+<p class="page__cite">Recommended citation: Cho, Minsoo & Son, Hyelim (2026). "Effects of the Basic Pension Reform on Consumption and Labor Supply of the Elderly." <i>KDI Journal of Economic Policy</i>, 48(3).</p>
+
+</div>

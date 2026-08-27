@@ -1,0 +1,18 @@
+---
+title: "Mathematical Economics"
+date: 2020-08-01
+year: "2020–2022"
+type: "Teaching Assistant"
+venue: "University of Seoul"
+location: "Seoul, S. Korea"
+excerpt: ""
+---
+
+<h1 class="page__title">Mathematical Economics</h1>
+<p class="page__meta">Teaching Assistant, University of Seoul, Fall 2020 – Spring 2022</p>
+
+<div class="page__content">
+
+Teaching Assistant for Mathematical Economics at the University of Seoul.
+
+</div>

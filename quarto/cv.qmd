@@ -28,32 +28,23 @@ listing:
 
 <div class="page__content">
 
+<p><a href="/files/CV_260827.pdf" class="btn">Download Full CV (PDF)</a></p>
+
 ## Education
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-## Work experience
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Florida State University** — Florida, USA
 
-## Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D., Economics — August 2023 – present
+* M.S., Economics — January 2025
+
+**University of Seoul** — Seoul, S. Korea
+
+* M.A., Economics — February 2023 (Advisor: Dr. Hyelim Son)
+* B.A., Economics — August 2020
+
+## Fields of Interest
+
+Public Economics, Labor Economics, Health Economics, Urban Economics
 
 ## Publications
 
@@ -70,7 +61,32 @@ listing:
 :::{#cv-teaching}
 :::
 
-## Service and leadership
-* Currently signed in to 43 different slack teams
+## Honors & Awards
+
+* Excellence Award, KLIPS Academic Conference, 2022
+* Graduate Dean's Award, Social Problem-solving Competition, University of Seoul, 2022
+* 3rd Award, University of Seoul College of Political Science and Economics Academic Conference, 2019
+
+## Research Experience
+
+**University of Seoul** — Seoul, S. Korea
+
+* Research Assistant, Professor Hyelim Son — February 2021 – June 2023
+* Research Assistant, Professor Sungwhee Shin — June 2022 – May 2023
+* Research Assistant, Professor Donggyu Yi, *Financial Analysis of National Biodiversity Strategy* — November 2022 – June 2023
+* Research Assistant, Professor Donggyu Yi, *Preliminary Feasibility Analysis for Hydrogen Mobility Cluster* (Korea Institute of Public Finance) — November 2021 – November 2022
+* Research Assistant, Professor Chul-Woo Kwon, *Preliminary Feasibility Analysis for Daejeon Southwest Sports Town* (Korea Research Institute for Local Administration) — December 2020 – July 2021
+
+## Conference and Seminar Presentations
+
+* Southern Economic Association Annual Meetings, Houston, TX — scheduled, November 2026
+
+## Work Experience
+
+* Military Service, S. Korea — 2015–2016
+
+## Computer Skills
+
+Stata, LaTeX, R
 
 </div>

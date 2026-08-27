@@ -1,0 +1,18 @@
+---
+title: "Principles of Microeconomics"
+date: 2023-08-01
+year: "2023–2025"
+type: "Teaching Assistant"
+venue: "Florida State University"
+location: "Florida, USA"
+excerpt: ""
+---
+
+<h1 class="page__title">Principles of Microeconomics</h1>
+<p class="page__meta">Teaching Assistant, Florida State University, Fall 2023 – Fall 2024, Fall 2025</p>
+
+<div class="page__content">
+
+Teaching Assistant for Principles of Microeconomics at Florida State University.
+
+</div>

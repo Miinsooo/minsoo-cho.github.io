@@ -1,0 +1,18 @@
+---
+title: "Principles of Macroeconomics"
+date: 2023-08-02
+year: "2023–2026"
+type: "Teaching Assistant"
+venue: "Florida State University"
+location: "Florida, USA"
+excerpt: ""
+---
+
+<h1 class="page__title">Principles of Macroeconomics</h1>
+<p class="page__meta">Teaching Assistant, Florida State University, Fall 2023 – Spring 2025, Spring 2026</p>
+
+<div class="page__content">
+
+Teaching Assistant for Principles of Macroeconomics at Florida State University.
+
+</div>

@@ -1,0 +1,18 @@
+---
+title: "Microeconomics"
+date: 2021-01-01
+year: "2021"
+type: "Teaching Assistant"
+venue: "University of Seoul"
+location: "Seoul, S. Korea"
+excerpt: ""
+---
+
+<h1 class="page__title">Microeconomics</h1>
+<p class="page__meta">Teaching Assistant, University of Seoul, Spring 2021</p>
+
+<div class="page__content">
+
+Teaching Assistant for Microeconomics at the University of Seoul.
+
+</div>

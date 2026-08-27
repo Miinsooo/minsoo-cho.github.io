@@ -1,0 +1,18 @@
+---
+title: "Econometrics I (Ph.D.)"
+date: 2024-08-01
+year: "2024, 2026"
+type: "Teaching Assistant"
+venue: "Florida State University"
+location: "Florida, USA"
+excerpt: ""
+---
+
+<h1 class="page__title">Econometrics I (Ph.D.)</h1>
+<p class="page__meta">Teaching Assistant, Florida State University, Fall 2024, Fall 2026</p>
+
+<div class="page__content">
+
+Teaching Assistant for the Ph.D.-level Econometrics I course at Florida State University.
+
+</div>
