@@ -1,0 +1,20 @@
+---
+title: "Final-offer Arbitration and Successive Elimination of Weakly Dominated Offers"
+date: 2024-05-02
+year: 2024
+category: manuscripts
+venue: "Journal of Economic Research"
+excerpt: "An analysis of final-offer arbitration mechanisms and the process of successive elimination of weakly dominated offers in negotiation games."
+citation_text: 'Shin, Sungwhee., Choi, Kiho., Cho, Minsoo. (2025). "Final-offer Arbitration and Successive Elimination of Weakly Dominated Offers." Journal of Economic Research, Volume(Issue), pages.'
+paperurl: "https://kiss.kstudy.com/Detail/Ar?key=4093777"
+---
+
+<h1 class="page__title">Final-offer Arbitration and Successive Elimination of Weakly Dominated Offers</h1>
+<p class="page__meta">Published in <i>Journal of Economic Research</i>, 2024</p>
+
+<div class="page__content">
+
+<p class="page__cite">Recommended citation: Shin, Sungwhee., Choi, Kiho., Cho, Minsoo. (2025). "Final-offer Arbitration and Successive Elimination of Weakly Dominated Offers." <i>Journal of Economic Research</i>, Volume(Issue), pages.<br/>
+<a href="https://kiss.kstudy.com/Detail/Ar?key=4093777">Download Paper</a></p>
+
+</div>

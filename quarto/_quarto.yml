@@ -10,9 +10,9 @@ project:
     - "posts/"
 
 website:
-  title: "Your Name / Site Title"
-  description: "Your Name's academic portfolio"
-  site-url: "https://academicpages.github.io"
+  title: "Minsoo Cho"
+  description: "Ph.D. student in Economics, Florida State University"
+  site-url: "https://minsoocho.com"
   favicon: images/favicon.svg
   page-navigation: false
   repo-actions: []

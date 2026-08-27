@@ -1,0 +1,20 @@
+---
+title: "Analysis of Success Determinants in the Movie Screening Market: A Survival Analysis Using Seoul Data [In Korean]"
+date: 2022-12-31
+year: 2022
+category: manuscripts
+venue: "Journal of Social Science, 48(3), 33–49"
+excerpt: "This study analyzes the determinants of box-office survival among films released in the Seoul market using survival analysis (log-logistic AFT model)."
+citation_text: 'Ohk, Hyunmin, Cho, Minsoo, & Jun, Bonggul (2022). "Analysis of Success Determinants in the Movie Screening Market: A Survival Analysis Using Seoul Data." Journal of Social Science, 48(3), 33–49.'
+paperurl: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002912978"
+---
+
+<h1 class="page__title">Analysis of Success Determinants in the Movie Screening Market: A Survival Analysis Using Seoul Data [In Korean]</h1>
+<p class="page__meta">Published in <i>Journal of Social Science, 48(3), 33–49</i>, 2022</p>
+
+<div class="page__content">
+
+<p class="page__cite">Recommended citation: Ohk, Hyunmin, Cho, Minsoo, & Jun, Bonggul (2022). "Analysis of Success Determinants in the Movie Screening Market: A Survival Analysis Using Seoul Data." <i>Journal of Social Science</i>, 48(3), 33–49.<br/>
+<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002912978">Download Paper</a></p>
+
+</div>

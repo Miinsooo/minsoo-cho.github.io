@@ -2,7 +2,7 @@
 title: "Paper Title Number 4"
 date: 2024-02-17
 year: 2024
-category: conferences
+category: working
 venue: "GitHub Journal of Bugs"
 excerpt: "This paper is about fixing template issue #693."
 citation_text: 'Your Name, You. (2024). "Paper Title Number 3." <i>GitHub Journal of Bugs</i>. 1(3).'

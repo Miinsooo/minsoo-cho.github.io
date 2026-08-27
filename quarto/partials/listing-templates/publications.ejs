@@ -1,11 +1,11 @@
 <%
 var categories = [
-  { key: "books", title: "Books" },
   { key: "manuscripts", title: "Journal Articles" },
+  { key: "working", title: "Working Papers" },
   { key: "conferences", title: "Conference Papers" }
 ];
 %>
-<div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=PS_CX0AAAAAJ">my Google Scholar profile</a>.</div>
+<div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=L4TO0ZYAAAAJ">my Google Scholar profile</a>.</div>
 <% categories.forEach(function (cat) {
   var catItems = items.filter(function (i) { return i.category === cat.key; });
   if (catItems.length) { %>

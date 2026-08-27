@@ -1,0 +1,20 @@
+---
+title: "The Effects of Working Conditions on Divorce Among Wage-earning Couples: Focus on Dual-income Households [In Korean]"
+date: 2022-12-31
+year: 2022
+category: manuscripts
+venue: "Korea Review of Applied Economics"
+excerpt: "This study examines how working hours and employment conditions affect the likelihood of divorce among dual-income wage-earning couples in Korea."
+citation_text: 'Ok, H., Park, M., & Cho, M. (2022). Effects of working conditions on divorce among wage-earning couples: Focus on dual-income households. Korea Review of Applied Economics, 24(4), 27–50.'
+paperurl: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002914851"
+---
+
+<h1 class="page__title">The Effects of Working Conditions on Divorce Among Wage-earning Couples: Focus on Dual-income Households [In Korean]</h1>
+<p class="page__meta">Published in <i>Korea Review of Applied Economics</i>, 2022</p>
+
+<div class="page__content">
+
+<p class="page__cite">Recommended citation: Ok, H., Park, M., & Cho, M. (2022). Effects of working conditions on divorce among wage-earning couples: Focus on dual-income households. <i>Korea Review of Applied Economics</i>, 24(4), 27–50.<br/>
+<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002914851">Download Paper</a></p>
+
+</div>
