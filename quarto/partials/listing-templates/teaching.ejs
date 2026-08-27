@@ -13,7 +13,7 @@ var schools = ["Florida State University", "University of Seoul"];
 <ul class="course-list">
 <% schoolItems.forEach(function (item) { %>
   <li>
-    <% if (item.eval_rating) { %><%= item.title %><% } else { %><a href="/<%- item.outputHref %>"><%= item.title %></a><% } %>
+    <%= item.title %>
     <span class="course-list__period"><%= item.year %></span>
   </li>
 <% }) %>
