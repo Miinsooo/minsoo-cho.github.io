@@ -1,0 +1,478 @@
+/* ==========================================================================
+   Academic Pages (Minimal Mistakes) look-alike theme for Quarto
+   Ported from the Jekyll site's _sass/theme/_default_{light,dark}.scss
+   and _sass/layout/*.scss
+   ========================================================================== */
+
+/* ---- typography / sizing tokens ---- */
+:root {
+  --sans-serif: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  --serif: Georgia, Times, serif;
+  --monospace: Monaco, Consolas, "Lucida Console", monospace;
+
+  --type-size-1: 2.441em;
+  --type-size-2: 1.953em;
+  --type-size-3: 1.563em;
+  --type-size-4: 1.25em;
+  --type-size-5: 1em;
+  --type-size-6: 0.75em;
+  --type-size-7: 0.6875em;
+
+  --border-radius: 4px;
+  --masthead-height: 62px;
+  --sidebar-width: 250px;
+  --content-max-width: 1280px;
+  --large: 925px;
+  --sidebar-min: 1024px;
+
+  /* ---- light theme (default) ---- */
+  --global-base-color: #7a8288;
+  --global-bg-color: #fff;
+  --global-footer-bg-color: #f2f3f3;
+  --global-border-color: #f0f1f1;
+  --global-dark-border-color: #bdc1c4;
+  --global-code-background-color: #fafafa;
+  --global-code-text-color: #313436;
+  --global-fig-caption-color: #77797d;
+  --global-link-color: #52adc8;
+  --global-link-color-hover: #235f6e;
+  --global-link-color-visited: #639faf;
+  --global-masthead-link-color: #494e52;
+  --global-masthead-link-color-hover: #5c6266;
+  --global-text-color: #494e52;
+  --global-text-color-light: #bdc1c4;
+  --global-thead-color: #f2f3f3;
+}
+
+html[data-theme="dark"] {
+  --global-base-color: #474747;
+  --global-bg-color: #474747;
+  --global-footer-bg-color: #474747;
+  --global-border-color: #bdc1c4;
+  --global-dark-border-color: #dadada;
+  --global-code-background-color: #fafafa;
+  --global-code-text-color: #313436;
+  --global-fig-caption-color: #bdc1c4;
+  --global-link-color: #0ea1c5;
+  --global-link-color-hover: #0b7994;
+  --global-link-color-visited: #4ab9d4;
+  --global-masthead-link-color: #ffffff;
+  --global-masthead-link-color-hover: #dadada;
+  --global-text-color: #ffffff;
+  --global-text-color-light: #f3f3f3;
+  --global-thead-color: #ededed;
+}
+
+/* ==========================================================================
+   BASE
+   ========================================================================== */
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  padding: 0;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+  font-family: var(--sans-serif);
+  font-size: 16px;
+  line-height: 1.5;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  font-family: var(--sans-serif);
+  font-weight: bold;
+  line-height: 1.2;
+  color: var(--global-text-color);
+}
+
+h1 { font-size: var(--type-size-2); }
+h2 { font-size: var(--type-size-3); }
+h3 { font-size: var(--type-size-4); }
+h4, h5, h6 { font-size: var(--type-size-5); }
+
+p, li, dl { font-size: 1em; }
+
+p { margin: 0 0 1.3em; }
+
+a {
+  color: var(--global-link-color);
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+a:visited { color: var(--global-link-color-visited); }
+
+a:hover, a:active {
+  color: var(--global-link-color-hover);
+  outline: 0;
+}
+
+img { max-width: 100%; border-radius: var(--border-radius); vertical-align: middle; }
+
+code, pre {
+  font-family: var(--monospace);
+  color: var(--global-code-text-color);
+  background: var(--global-code-background-color);
+  font-size: var(--type-size-6);
+}
+
+code { padding: 0.1em 0.3em; border-radius: var(--border-radius); }
+
+pre { padding: 1em; overflow-x: auto; border-radius: var(--border-radius); }
+
+pre code { background: transparent; padding: 0; }
+
+hr {
+  margin: 1.5em 0;
+  border: 0;
+  border-top: 1px solid var(--global-border-color);
+}
+
+blockquote {
+  margin: 1em 0;
+  padding-left: 1em;
+  border-left: 4px solid var(--global-border-color);
+  color: var(--global-fig-caption-color);
+  font-family: var(--serif);
+}
+
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: var(--type-size-6); }
+
+thead { background-color: var(--global-thead-color); }
+
+th, td { padding: 0.5em 0.75em; border-bottom: 1px solid var(--global-border-color); text-align: left; }
+
+.btn {
+  display: inline-block;
+  margin-bottom: 0.25em;
+  padding: 0.5em 1em;
+  border: 0;
+  border-radius: var(--border-radius);
+  background-color: var(--global-link-color);
+  color: #fff !important;
+  font-family: var(--sans-serif);
+  font-size: var(--type-size-6);
+  font-weight: bold;
+  text-decoration: none !important;
+}
+
+.btn:hover { background-color: var(--global-link-color-hover); }
+
+/* quarto's own title block / anchors we don't use */
+#title-block-header,
+.quarto-title-block,
+a.anchorjs-link { display: none !important; }
+
+/* ==========================================================================
+   MASTHEAD
+   ========================================================================== */
+
+.masthead {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: var(--masthead-height);
+  background: var(--global-bg-color);
+  border-bottom: 1px solid var(--global-border-color);
+  z-index: 20;
+}
+
+.masthead__inner-wrap {
+  max-width: var(--content-max-width);
+  height: 100%;
+  margin: 0 auto;
+  padding: 0 1em;
+  display: flex;
+  align-items: center;
+}
+
+.masthead__menu nav {
+  width: 100%;
+}
+
+.masthead__menu ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.masthead__menu-item {
+  display: block;
+  white-space: nowrap;
+}
+
+.masthead__menu-item a {
+  display: block;
+  padding: 0.5em 0.75em;
+  color: var(--global-masthead-link-color);
+  font-family: var(--sans-serif);
+  font-size: var(--type-size-6);
+  text-decoration: none;
+}
+
+.masthead__menu-item a:hover { color: var(--global-masthead-link-color-hover); }
+
+.masthead__menu-item--lg {
+  font-weight: 700;
+  margin-right: auto;
+}
+
+.masthead__menu-item--lg a {
+  font-size: var(--type-size-5);
+  padding-left: 0;
+}
+
+#theme-toggle a {
+  cursor: pointer;
+  font-size: var(--type-size-4);
+}
+
+/* ==========================================================================
+   MAIN LAYOUT / SIDEBAR
+   ========================================================================== */
+
+#main {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding: calc(var(--masthead-height) + 1.5em) 1em 2em;
+  display: block;
+}
+
+@media screen and (min-width: 925px) {
+  #main {
+    display: flex;
+    align-items: flex-start;
+    gap: 2em;
+  }
+}
+
+.sidebar {
+  margin-bottom: 2em;
+}
+
+@media screen and (min-width: 925px) {
+  .sidebar {
+    flex: 0 0 var(--sidebar-width);
+    width: var(--sidebar-width);
+    position: sticky;
+    top: calc(var(--masthead-height) + 1.5em);
+    max-height: calc(100vh - var(--masthead-height) - 2em);
+    overflow-y: auto;
+  }
+}
+
+.sidebar h3 { font-size: var(--type-size-5); }
+
+.sidebar p, .sidebar li {
+  font-family: var(--sans-serif);
+  font-size: var(--type-size-6);
+  line-height: 1.5;
+}
+
+.author__avatar img {
+  display: block;
+  width: 150px;
+  max-width: 100%;
+  border-radius: 50%;
+  padding: 5px;
+  border: 1px solid var(--global-border-color);
+}
+
+.author__content { margin-top: 1em; }
+
+.author__name {
+  margin: 0.5em 0;
+  font-family: var(--sans-serif);
+  font-size: var(--type-size-5);
+}
+
+.author__pronouns { margin: 0; color: var(--global-text-color-light); }
+
+.author__bio { margin: 0.5em 0 1em; }
+
+.author__urls-wrapper .btn { display: none; }
+
+.author__urls.social-icons {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.author__urls.social-icons li {
+  padding: 0.2em 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.author__urls.social-icons a {
+  color: var(--global-text-color);
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.author__urls.social-icons a:hover { color: var(--global-link-color); }
+
+.icon-pad-right { width: 1.1em; text-align: center; }
+
+.content-area {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+/* ==========================================================================
+   PAGE (single item)
+   ========================================================================== */
+
+.page__title {
+  margin-top: 0;
+  line-height: 1.2;
+  font-size: var(--type-size-2);
+}
+
+.page__meta, .page__date {
+  color: var(--global-text-color-light);
+  font-size: var(--type-size-6);
+  margin: 0 0 0.5em;
+}
+
+.page__content h2 {
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.page__content a { text-decoration: underline; }
+
+.page__cite {
+  font-size: var(--type-size-6);
+  margin-top: 2em;
+}
+
+/* ==========================================================================
+   ARCHIVE / LISTING
+   ========================================================================== */
+
+.archive-heading {
+  font-size: var(--type-size-2);
+  margin-top: 0;
+}
+
+.archive__subtitle {
+  margin: 1.4em 0 0.5em;
+  padding-bottom: 0.5em;
+  font-size: var(--type-size-5);
+  color: var(--global-text-color-light);
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.archive__item {
+  margin-bottom: 1.75em;
+  padding-bottom: 1.75em;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.archive__item:last-child { border-bottom: 0; }
+
+.archive__item-title {
+  margin: 0 0 0.25em;
+  font-size: var(--type-size-4);
+}
+
+.archive__item-title a { text-decoration: none; }
+
+.archive__item-title a:hover { text-decoration: underline; }
+
+.archive__item-meta {
+  margin: 0 0 0.4em;
+  font-size: var(--type-size-6);
+  color: var(--global-text-color-light);
+}
+
+.archive__item-excerpt {
+  margin: 0.25em 0 0;
+  font-size: var(--type-size-6);
+}
+
+.archive__item-cite {
+  margin: 0.5em 0 0;
+  font-size: var(--type-size-6);
+  color: var(--global-text-color-light);
+}
+
+.archive__item-cite a { margin-right: 0.5em; }
+
+.wordwrap { margin-bottom: 1em; }
+
+/* compact CV listing */
+.cv-list {
+  list-style: none;
+  margin: 0 0 1.5em;
+  padding: 0;
+}
+
+.cv-list li {
+  padding: 0.25em 0;
+  font-size: var(--type-size-6);
+}
+
+/* ==========================================================================
+   FOOTER
+   ========================================================================== */
+
+.page__footer {
+  border-top: 1px solid var(--global-dark-border-color);
+  background-color: var(--global-footer-bg-color);
+  color: var(--global-text-color-light);
+  margin-top: 3em;
+}
+
+.page__footer footer {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding: 1.5em 1em;
+}
+
+.page__footer a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.page__footer a:hover { text-decoration: underline; }
+
+.page__footer-follow ul {
+  margin: 0 0 0.5em;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+}
+
+.page__footer-follow li {
+  font-size: var(--type-size-6);
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.page__footer-copyright {
+  font-size: var(--type-size-7);
+}
+
+.d-none { display: none !important; }
+
+.quarto-listing-container-custom .list { margin: 0; }
+
+@media screen and (max-width: 600px) {
+  .masthead__menu-item a { padding: 0.4em 0.5em; font-size: var(--type-size-7); }
+}

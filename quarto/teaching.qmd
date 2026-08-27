@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+listing:
+  id: teaching-listing
+  contents: teaching
+  type: custom
+  template: partials/listing-templates/teaching.ejs
+  sort: "date desc"
+  page-size: 100
+  fields: [title, date, type, venue, excerpt, year]
+---
+
+<h1 class="page__title">Teaching</h1>
+
+:::{#teaching-listing}
+:::

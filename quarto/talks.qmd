@@ -1,0 +1,16 @@
+---
+title: "Talks"
+listing:
+  id: talks-listing
+  contents: talks
+  type: custom
+  template: partials/listing-templates/talks.ejs
+  sort: "date desc"
+  page-size: 100
+  fields: [title, date, type, venue, excerpt, year]
+---
+
+<h1 class="page__title">Talks</h1>
+
+:::{#talks-listing}
+:::

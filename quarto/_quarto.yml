@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "publications/"
+    - "talks/"
+    - "teaching/"
+    - "portfolio/"
+    - "posts/"
+
+website:
+  title: "Your Name / Site Title"
+  description: "Your Name's academic portfolio"
+  site-url: "https://academicpages.github.io"
+  favicon: images/favicon.svg
+  page-navigation: false
+  repo-actions: []
+
+format:
+  html:
+    theme: none
+    css: styles.css
+    title-block-banner: false
+    page-layout: full
+    toc: false
+    anchor-sections: false
+    smooth-scroll: false
+    include-in-header:
+      - partials/head-extra.html
+    include-before-body:
+      - partials/masthead.html
+      - partials/sidebar-open.html
+    include-after-body:
+      - partials/footer.html
+
+editor: source

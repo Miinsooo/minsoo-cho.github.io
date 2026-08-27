@@ -1,0 +1,16 @@
+---
+title: "Blog Posts"
+listing:
+  id: posts-listing
+  contents: posts
+  type: custom
+  template: partials/listing-templates/posts.ejs
+  sort: "date desc"
+  page-size: 100
+  fields: [title, date, excerpt]
+---
+
+<h1 class="page__title">Blog Posts</h1>
+
+:::{#posts-listing}
+:::

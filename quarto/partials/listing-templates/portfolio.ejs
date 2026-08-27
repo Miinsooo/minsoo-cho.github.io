@@ -1,0 +1,6 @@
+<% items.forEach(function (item) { %>
+<div class="archive__item">
+  <h2 class="archive__item-title"><a href="/<%- item.outputHref %>"><%= item.title %></a></h2>
+  <% if (item.excerpt) { %><p class="archive__item-excerpt"><%= item.excerpt %></p><% } %>
+</div>
+<% }) %>

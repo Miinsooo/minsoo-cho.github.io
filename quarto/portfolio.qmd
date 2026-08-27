@@ -1,0 +1,16 @@
+---
+title: "Portfolio"
+listing:
+  id: portfolio-listing
+  contents: portfolio
+  type: custom
+  template: partials/listing-templates/portfolio.ejs
+  sort: "title asc"
+  page-size: 100
+  fields: [title, excerpt]
+---
+
+<h1 class="page__title">Portfolio</h1>
+
+:::{#portfolio-listing}
+:::

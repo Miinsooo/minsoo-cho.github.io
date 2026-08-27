@@ -1,0 +1,16 @@
+---
+title: "Publications"
+listing:
+  id: publications-listing
+  contents: publications
+  type: custom
+  template: partials/listing-templates/publications.ejs
+  sort: "date desc"
+  page-size: 100
+  fields: [title, date, venue, category, excerpt, citation_text, paperurl, slidesurl, bibtexurl, year]
+---
+
+<h1 class="page__title">Publications</h1>
+
+:::{#publications-listing}
+:::

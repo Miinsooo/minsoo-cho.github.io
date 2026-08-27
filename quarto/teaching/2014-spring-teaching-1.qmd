@@ -1,0 +1,24 @@
+---
+title: "Teaching experience 1"
+date: 2014-01-01
+year: 2014
+type: "Undergraduate course"
+venue: "University 1, Department"
+location: "City, Country"
+excerpt: ""
+---
+
+<h1 class="page__title">Teaching experience 1</h1>
+<p class="page__meta">Undergraduate course, University 1, Department, 2014</p>
+
+<div class="page__content">
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+## Heading 1
+
+## Heading 2
+
+## Heading 3
+
+</div>

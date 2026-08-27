@@ -1,0 +1,11 @@
+---
+title: "Page Not Found"
+---
+
+<h1 class="page__title">Page Not Found</h1>
+
+<div class="page__content">
+
+Sorry, but the page you were trying to view does not exist.
+
+</div>
