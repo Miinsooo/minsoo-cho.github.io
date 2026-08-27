@@ -376,6 +376,39 @@ a.anchorjs-link { display: none !important; }
   border-bottom: 1px solid var(--global-border-color);
 }
 
+.archive__school {
+  margin: 1.2em 0 0.5em;
+  font-size: var(--type-size-5);
+  font-family: var(--sans-serif);
+}
+
+.course-list {
+  list-style: none;
+  margin: 0 0 1.5em;
+  padding: 0;
+}
+
+.course-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 1em;
+  padding: 0.4em 0;
+  border-bottom: 1px solid var(--global-border-color);
+  font-size: var(--type-size-6);
+}
+
+.course-list li:last-child { border-bottom: 0; }
+
+.course-list a { text-decoration: none; }
+
+.course-list a:hover { text-decoration: underline; }
+
+.course-list__period {
+  flex-shrink: 0;
+  color: var(--global-text-color-light);
+  white-space: nowrap;
+}
+
 .archive__item {
   margin-bottom: 1.75em;
   padding-bottom: 1.75em;

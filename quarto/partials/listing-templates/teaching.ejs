@@ -1,7 +1,24 @@
-<% items.forEach(function (item) { %>
-<div class="archive__item">
-  <h2 class="archive__item-title"><a href="/<%- item.outputHref %>"><%= item.title %></a></h2>
-  <p class="archive__item-meta"><%= item.type %>, <i><%= item.venue %></i>, <%= item.year %></p>
-  <% if (item.excerpt) { %><p class="archive__item-excerpt"><%= item.excerpt %></p><% } %>
-</div>
+<%
+var types = ["Instructor of Record", "Teaching Assistant"];
+var schools = ["Florida State University", "University of Seoul"];
+%>
+<% types.forEach(function (type) {
+  var typeItems = items.filter(function (i) { return i.type === type; });
+  if (typeItems.length) { %>
+<h2 class="archive__subtitle"><%= type %></h2>
+<% schools.forEach(function (school) {
+    var schoolItems = typeItems.filter(function (i) { return i.venue === school; });
+    if (schoolItems.length) { %>
+<h3 class="archive__school"><%= school %></h3>
+<ul class="course-list">
+<% schoolItems.forEach(function (item) { %>
+  <li>
+    <a href="/<%- item.outputHref %>"><%= item.title %></a>
+    <span class="course-list__period"><%= item.year %></span>
+  </li>
+<% }) %>
+</ul>
+<% } %>
+<% }) %>
+<% } %>
 <% }) %>
