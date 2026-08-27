@@ -14,7 +14,11 @@ paperurl: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.k
 
 <div class="page__content">
 
+## Abstract
+
+This study examined the determinants that affect divorce by conducting Cox proportional hazards survival analysis on 1,516 dual-income wage worker couples who married after 1970. We use the Korea Labor and Income Panel Study (KLIPS) from 1998 (first wave) to 2021 (twenty-fourth wave) and the Korean Working Conditions Survey (KWCS) from 2006 (first wave) to 2020 (sixth wave). We find that husband's working hours, overtime work, and full-time work, and wife's working hours are statistically significant on their divorce. When husband's average working hours per week increase by 1 hour, the probability of divorce increases by about 5.8%. Likewise, when wife's average working hours per week increase by 1 hour, the probability of divorce increases by about 6.4%. We obtain consistent results with the sample including the self-employed. These results suggest that long working hours in Korea are related to the divorce rate.
+
 <p class="page__cite">Recommended citation: Ok, H., Park, M., & Cho, M. (2022). Effects of working conditions on divorce among wage-earning couples: Focus on dual-income households. <i>Korea Review of Applied Economics</i>, 24(4), 27–50.<br/>
-<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002914851">Download Paper</a></p>
+<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002914851">Link</a></p>
 
 </div>

@@ -13,9 +13,9 @@ var categories = [
 <% catItems.forEach(function (item) { %>
 <div class="archive__item">
   <h2 class="archive__item-title"><a href="/<%- item.outputHref %>"><%= item.title %></a></h2>
-  <p class="archive__item-meta">Published in <i><%= item.venue %></i>, <%= item.year %></p>
+  <% if (item.category !== "working") { %><p class="archive__item-meta">Published in <i><%= item.venue %></i>, <%= item.year %></p><% } %>
   <% if (item.excerpt) { %><p class="archive__item-excerpt"><%= item.excerpt %></p><% } %>
-  <% if (item.citation_text) { %><p class="archive__item-cite">Recommended citation: <%= item.citation_text %><br/><% if (item.paperurl) { %><a href="<%- item.paperurl %>">Download Paper</a><% } %><% if (item.slidesurl) { %> | <a href="<%- item.slidesurl %>">Download Slides</a><% } %><% if (item.bibtexurl) { %> | <a href="<%- item.bibtexurl %>">Download Bibtex</a><% } %></p><% } %>
+  <% if (item.citation_text) { %><p class="archive__item-cite">Recommended citation: <%= item.citation_text %><br/><% if (item.paperurl) { %><a href="<%- item.paperurl %>">Link</a><% } %><% if (item.slidesurl) { %> | <a href="<%- item.slidesurl %>">Download Slides</a><% } %><% if (item.bibtexurl) { %> | <a href="<%- item.bibtexurl %>">Download Bibtex</a><% } %></p><% } %>
 </div>
 <% }) %>
 <% } %>

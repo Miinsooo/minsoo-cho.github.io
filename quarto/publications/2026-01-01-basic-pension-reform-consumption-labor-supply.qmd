@@ -13,6 +13,10 @@ citation_text: 'Cho, Minsoo & Son, Hyelim (2026). "Effects of the Basic Pension 
 
 <div class="page__content">
 
+## Abstract
+
+This study examines the effects of South Korea's Basic Pension reform on the consumption and labor supply of the elderly. Using data from the Korea Welfare Panel Study (KoWePS) spanning the years 2009 to 2018, and by applying the difference-in-differences methodology, we find that the increase in pension benefits has had a small positive effect on household consumption but no significant impact on overall employment. However, we observe a decline in full-time employment and total work hours among the elderly. Additionally, a triple-difference analysis shows that the labor supply reduction is concentrated among low-educated elderly women, highlighting important heterogeneity in policy responses to the pension reform.
+
 <p class="page__cite">Recommended citation: Cho, Minsoo & Son, Hyelim (2026). "Effects of the Basic Pension Reform on Consumption and Labor Supply of the Elderly." <i>KDI Journal of Economic Policy</i>, 48(3).</p>
 
 </div>

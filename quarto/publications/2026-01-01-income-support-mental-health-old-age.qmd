@@ -5,14 +5,12 @@ year: 2026
 category: working
 venue: "Working Paper"
 excerpt: "This paper examines whether income support from South Korea's Basic Pension program improves mental health among older adults."
-citation_text: "Cho, Minsoo & Son, Hyelim. \"Income Support and Mental Health in Old-Age: Evidence from South Korea's Basic Pension.\" Working Paper."
 ---
 
 <h1 class="page__title">Income Support and Mental Health in Old-Age: Evidence from South Korea's Basic Pension</h1>
-<p class="page__meta">Working Paper</p>
 
 <div class="page__content">
 
-<p class="page__cite">Recommended citation: Cho, Minsoo & Son, Hyelim. "Income Support and Mental Health in Old-Age: Evidence from South Korea's Basic Pension." Working Paper.</p>
+This paper examines whether income support from South Korea's Basic Pension program improves mental health among older adults.
 
 </div>

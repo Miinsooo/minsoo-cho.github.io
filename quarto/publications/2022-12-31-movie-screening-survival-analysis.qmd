@@ -5,7 +5,7 @@ year: 2022
 category: manuscripts
 venue: "Journal of Social Science, 48(3), 33–49"
 excerpt: "This study analyzes the determinants of box-office survival among films released in the Seoul market using survival analysis (log-logistic AFT model)."
-citation_text: 'Ohk, Hyunmin, Cho, Minsoo, & Jun, Bonggul (2022). "Analysis of Success Determinants in the Movie Screening Market: A Survival Analysis Using Seoul Data." Journal of Social Science, 48(3), 33–49.'
+citation_text: 'Ok, Hyunmin, Cho, Minsoo, & Chun, Bonggeul (2022). "Analysis of Success Determinants in the Movie Screening Market: A Survival Analysis Using Seoul Data." Journal of Social Science, 48(3), 33–49.'
 paperurl: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002912978"
 ---
 
@@ -14,7 +14,11 @@ paperurl: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.k
 
 <div class="page__content">
 
-<p class="page__cite">Recommended citation: Ohk, Hyunmin, Cho, Minsoo, & Jun, Bonggul (2022). "Analysis of Success Determinants in the Movie Screening Market: A Survival Analysis Using Seoul Data." <i>Journal of Social Science</i>, 48(3), 33–49.<br/>
-<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002912978">Download Paper</a></p>
+## Abstract
+
+This study examined determinants affecting the screening period in the Korean movie screening market by using survival analysis. The movie score and the number of movie screens at the release day of a movie were statistically significant by using the survival analysis of log-logistic accelerated failure time model with 2,003 movies that are released in the Korean movie screening market in the period of 2007.1.1. ~ 2019.12.31. We identified that the consumer power is increasing while the supplier power is decreasing. Also, we found that the factors influencing the screening period differ by the genres of movies.
+
+<p class="page__cite">Recommended citation: Ok, Hyunmin, Cho, Minsoo, & Chun, Bonggeul (2022). "Analysis of Success Determinants in the Movie Screening Market: A Survival Analysis Using Seoul Data." <i>Journal of Social Science</i>, 48(3), 33–49.<br/>
+<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002912978">Link</a></p>
 
 </div>

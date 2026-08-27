@@ -5,7 +5,7 @@ year: 2024
 category: manuscripts
 venue: "Journal of Economic Research"
 excerpt: "An analysis of final-offer arbitration mechanisms and the process of successive elimination of weakly dominated offers in negotiation games."
-citation_text: 'Shin, Sungwhee., Choi, Kiho., Cho, Minsoo. (2025). "Final-offer Arbitration and Successive Elimination of Weakly Dominated Offers." Journal of Economic Research, Volume(Issue), pages.'
+citation_text: 'Shin, Sungwhee., Choi, Kiho., Cho, Minsoo. (2024). "Final-offer Arbitration and Successive Elimination of Weakly Dominated Offers." Journal of Economic Research, 29(1), 77-112.'
 paperurl: "https://kiss.kstudy.com/Detail/Ar?key=4093777"
 ---
 
@@ -14,7 +14,11 @@ paperurl: "https://kiss.kstudy.com/Detail/Ar?key=4093777"
 
 <div class="page__content">
 
-<p class="page__cite">Recommended citation: Shin, Sungwhee., Choi, Kiho., Cho, Minsoo. (2025). "Final-offer Arbitration and Successive Elimination of Weakly Dominated Offers." <i>Journal of Economic Research</i>, Volume(Issue), pages.<br/>
-<a href="https://kiss.kstudy.com/Detail/Ar?key=4093777">Download Paper</a></p>
+## Abstract
+
+We analyze the final-offer salary arbitration when the parties have perfect information on the evaluation of the arbitrator. We use a discrete model in which the parties offer discrete numbers. We apply the criterion of successive elimination of weakly dominated offers to identify the final outcomes. We found that attitudes toward risk affected outcomes. When parties are risk-averse, the outcome of the arbitration is equal to the arbitrator's evaluation. When the parties are risk-neutral or weakly risk-loving, the outcome diverges slightly from the arbitrator's evaluation. When parties are strongly risk-loving, the outcomes are dispersed over a wide range of offers.
+
+<p class="page__cite">Recommended citation: Shin, Sungwhee., Choi, Kiho., Cho, Minsoo. (2024). "Final-offer Arbitration and Successive Elimination of Weakly Dominated Offers." <i>Journal of Economic Research</i>, 29(1), 77-112.<br/>
+<a href="https://kiss.kstudy.com/Detail/Ar?key=4093777">Link</a></p>
 
 </div>
