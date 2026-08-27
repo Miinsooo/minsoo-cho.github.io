@@ -1,7 +1,7 @@
 ---
 title: "Principles of Microeconomics"
 date: 2023-08-01
-year: "2023–2025"
+year: "Fall 2023 – Fall 2024, Fall 2025"
 type: "Teaching Assistant"
 venue: "Florida State University"
 location: "Florida, USA"

@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Econometrics"
 date: 2025-08-01
-year: "2025–2026"
+year: "Fall 2025, Fall 2026"
 type: "Teaching Assistant"
 venue: "Florida State University"
 location: "Florida, USA"

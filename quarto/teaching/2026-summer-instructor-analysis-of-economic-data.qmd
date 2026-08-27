@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Economic Data"
 date: 2026-06-01
-year: "2026"
+year: "Summer 2026"
 type: "Instructor of Record"
 venue: "Florida State University"
 location: "Florida, USA"

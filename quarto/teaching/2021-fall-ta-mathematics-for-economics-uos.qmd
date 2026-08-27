@@ -1,7 +1,7 @@
 ---
 title: "Mathematics for Economics"
 date: 2021-08-01
-year: "2021"
+year: "Fall 2021"
 type: "Teaching Assistant"
 venue: "University of Seoul"
 location: "Seoul, S. Korea"

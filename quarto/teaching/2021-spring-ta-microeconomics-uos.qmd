@@ -1,7 +1,7 @@
 ---
 title: "Microeconomics"
 date: 2021-01-01
-year: "2021"
+year: "Spring 2021"
 type: "Teaching Assistant"
 venue: "University of Seoul"
 location: "Seoul, S. Korea"

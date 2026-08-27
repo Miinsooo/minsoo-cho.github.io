@@ -1,7 +1,7 @@
 ---
 title: "Econometrics I (Ph.D.)"
 date: 2024-08-01
-year: "2024, 2026"
+year: "Fall 2024, Fall 2026"
 type: "Teaching Assistant"
 venue: "Florida State University"
 location: "Florida, USA"
