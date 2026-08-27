@@ -4,12 +4,8 @@ title: "Minsoo Cho"
 
 <div class="page__content">
 
-I am a Ph.D. candidate in Economics at Florida State University, where I also earned my M.S. in Economics. Before FSU, I completed my M.A. and B.A. in Economics at the University of Seoul, advised by Dr. Hyelim Son.
+I am a fourth-year Economics Ph.D. student at Florida State University.
 
-My research sits at the intersection of public, labor, and health economics, with a focus on how income support programs shape the well-being of older adults. My current work studies the effects of South Korea's Basic Pension reform on the consumption, labor supply, and mental health of elderly recipients.
-
-My broader research interests extend to applied microeconomics more generally — from labor market outcomes such as divorce among dual-income couples to survival analysis in the movie screening market — reflecting a continued interest in using empirical methods to answer questions with real policy relevance.
-
-Alongside my research, I have taught and assisted courses in microeconomics, macroeconomics, and econometrics at both Florida State University and the University of Seoul.
+I am interested in the field of public economics, labor economics, health economics, and urban economics.
 
 </div>
