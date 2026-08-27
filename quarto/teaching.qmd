@@ -7,7 +7,7 @@ listing:
   template: partials/listing-templates/teaching.ejs
   sort: "date desc"
   page-size: 100
-  fields: [title, date, type, venue, excerpt, year]
+  fields: [title, date, type, venue, excerpt, year, eval_section_size, eval_response_rate, eval_rating, eval_comments]
 ---
 
 <h1 class="page__title">Teaching</h1>

@@ -6,6 +6,13 @@ type: "Instructor of Record"
 venue: "Florida State University"
 location: "Florida, USA"
 excerpt: ""
+eval_section_size: 7
+eval_response_rate: "57.14%"
+eval_rating: "4.81"
+eval_comments:
+  - "Thank you for being probably the best Professor I've had so far at FSU, and I truly enjoyed your class. Previously always hated going to class because of how closed off most of the Professors have been, but you've been extremely helpful in making this a great semester. Thank you, and hope all goes well for you in the future, Professor Minsoo!"
+  - "He's extremely helpful in not only explaining what we are learning but will show us examples and go over practice problems to reinforce our knowledge."
+  - "I loved how he did tutoring, and that most of his hw was able to help me better understand the information. He also tried to make sure his students understood the work, showing great care for them."
 ---
 
 <h1 class="page__title">Analysis of Economic Data</h1>
