@@ -4,6 +4,7 @@ date: 2026-01-01
 year: 2026
 category: working
 venue: "Working Paper"
+coauthors: "with Hyelim Son"
 excerpt: "This paper examines whether income support from South Korea's Basic Pension program improves mental health among older adults."
 ---
 
