@@ -6,8 +6,6 @@ type: "Instructor of Record"
 venue: "Florida State University"
 location: "Florida, USA"
 excerpt: ""
-eval_section_size: 7
-eval_response_rate: "57.14%"
 eval_rating: "4.81"
 eval_comments:
   - "Thank you for being probably the best Professor I've had so far at FSU, and I truly enjoyed your class. Previously always hated going to class because of how closed off most of the Professors have been, but you've been extremely helpful in making this a great semester. Thank you, and hope all goes well for you in the future, Professor Minsoo!"
@@ -24,14 +22,7 @@ Instructor of Record for Analysis of Economic Data at Florida State University.
 
 ## Teaching Evaluation
 
-**Analysis of Economic Data** (FSU, Summer 2026) — Section size: 7 students
-
-| Metric | Value |
-|---|---|
-| Survey response rate | 57.14% |
-| Overall rating | 4.81 |
-
-*Ratings are on a 1–5 scale.*
+**Analysis of Economic Data** (FSU, Summer 2026) — Overall rating: **4.81** / 5
 
 ### Selected Student Comments
 

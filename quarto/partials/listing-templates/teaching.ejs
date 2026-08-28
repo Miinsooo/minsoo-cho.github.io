@@ -21,15 +21,7 @@ var schools = ["Florida State University", "University of Seoul"];
 <% schoolItems.forEach(function (item) {
       if (item.eval_rating) { %>
 <div class="teaching-eval">
-  <p class="teaching-eval__caption"><strong><%= item.title %></strong> (<%= item.venue === "Florida State University" ? "FSU" : item.venue %>, <%= item.year %>)<% if (item.eval_section_size) { %> — Section size: <%= item.eval_section_size %> students<% } %></p>
-  <table>
-    <thead><tr><th>Metric</th><th>Value</th></tr></thead>
-    <tbody>
-      <% if (item.eval_response_rate) { %><tr><td>Survey response rate</td><td><%= item.eval_response_rate %></td></tr><% } %>
-      <tr><td>Overall rating</td><td><%= item.eval_rating %></td></tr>
-    </tbody>
-  </table>
-  <p class="teaching-eval__note"><em>Ratings are on a 1–5 scale.</em></p>
+  <p class="teaching-eval__caption"><strong><%= item.title %></strong> (<%= item.venue === "Florida State University" ? "FSU" : item.venue %>, <%= item.year %>) — Overall rating: <strong><%= item.eval_rating %></strong> / 5</p>
   <% if (item.eval_comments && item.eval_comments.length) { %>
   <h4 class="teaching-eval__comments-title">Selected Student Comments</h4>
   <% item.eval_comments.forEach(function (comment) { %>
