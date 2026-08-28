@@ -1,0 +1,17 @@
+---
+title: "The Impact of Eviction Protections on Housing Markets: Evidence from the 1974 New Jersey Anti-Eviction Act"
+date: 2026-06-01
+year: 2026
+category: in_progress
+coauthors: ""
+excerpt: ""
+---
+
+<h1 class="page__title">The Impact of Eviction Protections on Housing Markets: Evidence from the 1974 New Jersey Anti-Eviction Act</h1>
+<p class="page__meta">Work in Progress</p>
+
+<div class="page__content">
+
+Work in progress.
+
+</div>

@@ -2,6 +2,7 @@
 var categories = [
   { key: "manuscripts", title: "Journal Articles" },
   { key: "working", title: "Working Papers" },
+  { key: "in_progress", title: "Works in Progress" },
   { key: "conferences", title: "Conference Papers" }
 ];
 %>
@@ -12,8 +13,9 @@ var categories = [
 <h2 class="archive__subtitle"><%= cat.title %></h2>
 <% catItems.forEach(function (item) { %>
 <div class="archive__item">
-  <h2 class="archive__item-title"><a href="/<%- item.outputHref %>"><%= item.title %></a></h2>
-  <% if (item.category !== "working") { %><p class="archive__item-meta">Published in <i><%= item.venue %></i>, <%= item.year %></p><% } %>
+  <h2 class="archive__item-title"><% if (item.category === "in_progress") { %><%= item.title %><% } else { %><a href="/<%- item.outputHref %>"><%= item.title %></a><% } %></h2>
+  <% if (item.category !== "working" && item.category !== "in_progress") { %><p class="archive__item-meta">Published in <i><%= item.venue %></i>, <%= item.year %></p><% } %>
+  <% if (item.category === "in_progress" && item.coauthors) { %><p class="archive__item-meta"><i><%= item.coauthors %></i></p><% } %>
   <% if (item.excerpt) { %><p class="archive__item-excerpt"><%= item.excerpt %></p><% } %>
   <% if (item.citation_text) { %><p class="archive__item-cite">Recommended citation: <%= item.citation_text %><br/><% if (item.paperurl) { %><a href="<%- item.paperurl %>">Link</a><% } %><% if (item.slidesurl) { %> | <a href="<%- item.slidesurl %>">Download Slides</a><% } %><% if (item.bibtexurl) { %> | <a href="<%- item.bibtexurl %>">Download Bibtex</a><% } %></p><% } %>
 </div>

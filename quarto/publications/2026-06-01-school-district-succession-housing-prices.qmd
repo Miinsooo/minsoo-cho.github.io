@@ -1,0 +1,17 @@
+---
+title: "The Effects of School District Succession on Housing Prices"
+date: 2026-06-01
+year: 2026
+category: in_progress
+coauthors: "with Colin Adams"
+excerpt: ""
+---
+
+<h1 class="page__title">The Effects of School District Succession on Housing Prices</h1>
+<p class="page__meta">Work in Progress, with Colin Adams</p>
+
+<div class="page__content">
+
+Work in progress.
+
+</div>
