@@ -7,7 +7,7 @@ listing:
   template: partials/listing-templates/publications.ejs
   sort: "date desc"
   page-size: 100
-  fields: [title, date, venue, category, excerpt, citation_text, paperurl, slidesurl, bibtexurl, year, coauthors]
+  fields: [title, date, venue, category, excerpt, citation_text, paperurl, slidesurl, bibtexurl, year, coauthors, forthcoming]
 ---
 
 <h1 class="page__title">Publications</h1>
