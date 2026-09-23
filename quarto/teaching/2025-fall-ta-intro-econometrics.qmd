@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Econometrics"
 date: 2025-08-01
-year: "Fall 2025, Fall 2026"
+year: "Fall 2025"
 type: "Teaching Assistant"
 venue: "Florida State University"
 location: "Florida, USA"
@@ -9,7 +9,7 @@ excerpt: ""
 ---
 
 <h1 class="page__title">Introduction to Econometrics</h1>
-<p class="page__meta">Teaching Assistant, Florida State University, Fall 2025, Fall 2026</p>
+<p class="page__meta">Teaching Assistant, Florida State University, Fall 2025</p>
 
 <div class="page__content">
 
