@@ -91,3 +91,13 @@ _Add entries as: date · dataset · inputs · script · what changed._
 | Checks | Summed district students and school counts equal each report's printed totals. Summed district funding differs from the printed total by up to $10 in seven of eight reports (rounding in the source). |
 | Used for | candidate pre-policy exposure at the district level: scholarship students per private-school student, using district enrollment in section 6 |
 | Known issues | (1) District level only; no school-level data. (2) **FTC alone is not total exposure.** FTC students fall from 106,112 (2020-21) to 85,612 (2021-22) while private enrollment rises (section 6), which suggests students moved to other programs such as FES-EO. Exposure must add FES-EO before use; the reason for the drop is not yet verified. (3) The school-count table lists fewer than 67 districts in seven of the eight reports (61 to 66), so missing districts are not zero-filled. (4) Counts include only students who received funding. |
+
+## 8. FES-EO participation, state aggregates (FES research reports)
+| Item | Value |
+|---|---|
+| Status | collected; state aggregates only. Not usable for district exposure. |
+| Source | FES Research Reports 2020-21, 2021-22, 2022-23 (Learning Systems Institute for FLDOE), from K-12 Scholarship Programs > Family Empowerment Scholarship |
+| Retrieved | 2026-10-08, downloaded manually by the project owner; `data/raw/fldoe_fes/2026-10-08/FES-Report{2021,2022,2023}.pdf` (git-ignored) |
+| Processed | `data/processed/fl_fes_state_aggregates.csv`, hand-transcribed from the report text |
+| Contents | Participating schools with FES students in grades 3-10: 1,385 (2020-21), 1,682 (2021-22), 1,777 (2022-23). FES students in grades 3-10: 11,710, 36,348, 47,036. Students with valid test scores: 10,466, 32,693, 44,112. |
+| Known issues | (1) Grades 3-10 only (the tested grades), so these are not total FES participants. (2) No district-level counts. (3) The 2022-23 report has an appendix listing about 208 schools with 30 or more students with gain scores (school name and city, no school code). This is a large-school subset, not a full participant list; not yet parsed or linked. (4) The sharp rise from 2020-21 to 2021-22 alongside the fall in FTC students (section 7) suggests students moved from FTC to FES-EO; not verified. |
