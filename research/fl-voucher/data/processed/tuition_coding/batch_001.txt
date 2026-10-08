@@ -1,0 +1,41 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+4 |  |  |  |  |  | 0 |  | unclear | only fees and childcare rates seen; tuition amount not found on pages read
+8 |  |  |  |  |  | 0 |  | unclear | tuition schedule is a linked document that was not read; enrollment fee only
+29 | 2025-26 |  |  |  | 9300 | 0 | high | found | K-12 flat annual rate
+36 | 2026-27 | 11211 | 12785 | 13909 |  | 0 | high | found | paid-in-full rates: K-4 and 5-6 11,211; 7-8 12,785; 9-12 13,909; monthly-plan totals slightly higher
+45 |  |  |  |  |  | 0 |  | unclear | only financial assistance text seen, no tuition amount
+130 | 2025-26 | 9685 | 9475 |  |  | 0 | high | found | K-3 9,685; grades 4-8 9,475; before scholarship
+135 |  |  |  | 17250 |  | 0 | medium | found | tuition per student at a high school; year not stated next to the amount (page mentions 2026/27 and 2027/28)
+137 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
+140 | 2026-27 | 23850 | 24165 | 24165 |  | 0 | medium | found | K 18,230; grades 1-4 23,850; 7-12 24,165; grades 5-6 not shown separately (a duplicate line suggests 23,850)
+167 | 2026-27 |  |  | 16250 |  | 0 | high | found | grades 9-11 16,250; grade 12 16,650
+174 | 2026-27 | 13530 | 13790 |  |  | 0 | high | found | K-5 13,530; 6-8 13,790; discretionary discounts may apply
+178 |  |  |  |  |  | 0 |  | unclear | only a financial aid application fee seen
+179 | 2026-27 | 9370 | 9545 |  |  | 0 | high | found | per child; K-5 9,370; 6-8 9,545
+190 | 2026-27 | 17500 | 18500 |  |  | 0 | high | found | TK-5 17,500; 6-8 18,500; The Bridge program 32,100 excluded
+195 |  |  |  |  |  | 0 |  | unclear | only childcare and fees seen
+196 | 2026-27 |  |  |  | 8600 | 0 | high | found | 8,600 per year; 10,600 for students needing special support; monthly installments
+234 | 2026-27 | 12500 | 12000 | 12000 |  | 0 | high | found | K-3 12,500; 4-12 12,000 (early-pay discount 500); a separate parent contribution of 3,500-4,000 is listed and excluded
+256 |  |  |  |  |  | 0 |  | unclear | only fees seen
+263 |  |  |  |  |  | 0 |  | unclear | no tuition amount in text read
+278 | 2026-27 |  |  |  | 10500 | 0 | high | found | total cost per year including registration, books and testing
+290 |  |  |  |  | 15250 | 0 | medium | found | two semester payments of 7,625; prepaying the year is 14,487.50 (5% off); monthly 1,525; year not stated
+313 |  |  |  |  | 8595 | 0 | high | found | all grades K-5 per year; year not stated
+326 | 2026-27 | 38870 | 45750 | 50076 |  | 0 | high | found | Pre-K, Laura Cushman Academy and virtual program excluded
+347 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
+354 | 2026-27 |  |  |  | 10800 | 0 | high | found | K-8 flat rate; includes registration and technology fees per the page
+369 | 2026-27 | 8200 | 8350 | 8500 |  | 0 | medium | found | year inferred; page also mentions 2025-26
+419 |  |  |  |  |  | 0 |  | unclear | only an application fee seen
+424 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+425 |  |  |  |  | 7800 | 0 | medium | found | K-8 tuition; pages mention 2025-26 and 2026-27; 800 materials fee extra for families not using scholarships
+438 | 2026-27 | 9990 | 9990 | 11178 |  | 0 | high | found | K-8 9,990; 9-12 11,178; homeschool and distance-learning rates excluded
+440 | 2026-27 | 22985 | 27450 |  |  | 0 | high | found | K-3 22,985; 4-5 24,335; 6-8 27,450
+446 | 2026-27 |  |  |  | 13164 | 0 | high | found | K5-12 13,164 per year (1,097 x 12); PK3-PK4 6,768 excluded
+447 |  |  |  |  |  | 0 |  | unclear | Montessori plan table with several payment plans; not coded
+448 |  |  |  |  |  | 0 |  | unclear | same page as school 447; not coded
+457 |  |  |  |  |  | 0 |  | unclear | only deposit and after-care fees seen
+458 |  |  |  |  |  | 0 |  | unclear | early learning center with weekly rates
+467 | 2026-27 | 8900 | 8300 |  |  | 0 | medium | found | K-3 8,900; 4-5 8,300; 6-8 8,300; schedule file is marked tentative; fees listed separately
+484 | 2026-27 | 8900 | 9100 |  |  | 0 | high | found | K-5 8,900; 6-8 9,100; PK and half-day excluded
+485 | 2026-27 | 24440 | 25791 | 27500 |  | 0 | high | found | K 20,843; 1-2 22,546; 3-5 24,440; 6-8 25,791; 9th 27,500 (10-12 not shown); Pre-K excluded
+486 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year

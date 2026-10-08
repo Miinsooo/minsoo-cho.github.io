@@ -1,21 +1,26 @@
-"""Print tuition evidence for a batch of schools, for reading and coding.
+"""Print compact tuition evidence (dollar lines near tuition cues) for uncoded schools.
 
-Usage: python3 -I scripts/show_evidence.py START COUNT [--status tuition_evidence] [--chars 700]
-Only schools without a coded row in data/processed/fl_tuition_2026.csv are shown.
+Usage: python3 -I scripts/show_evidence.py START COUNT [--status tuition_evidence]
+Schools already present in data/processed/fl_tuition_2026.csv are skipped.
 """
 import csv, json, os, sys
+sys.path.insert(0, "scripts")
+import evidence_lib as E
 
 start, count = int(sys.argv[1]), int(sys.argv[2])
-status = "tuition_evidence"; chars = 700
-if "--status" in sys.argv: status = sys.argv[sys.argv.index("--status") + 1]
-if "--chars" in sys.argv: chars = int(sys.argv[sys.argv.index("--chars") + 1])
+status = sys.argv[sys.argv.index("--status") + 1] if "--status" in sys.argv else "tuition_evidence"
 coded = set()
 if os.path.exists("data/processed/fl_tuition_2026.csv"):
     coded = {r["school_code"] for r in csv.DictReader(open("data/processed/fl_tuition_2026.csv"))}
-rows = [json.loads(l) for l in open("data/processed/tuition_evidence.jsonl")]
-rows = sorted([r for r in rows if r["status"] == status and r["school_code"] not in coded], key=lambda r: int(r["school_code"]))
+rows = [json.loads(l) for l in open(E.EVID)]
+if "--codes" in sys.argv:
+    want = set(sys.argv[sys.argv.index("--codes") + 1].split(","))
+    rows = sorted([r for r in rows if r["school_code"] in want], key=lambda r: int(r["school_code"]))
+else:
+    rows = sorted([r for r in rows if r["status"] == status and r["school_code"] not in coded], key=lambda r: int(r["school_code"]))
 print(f"[{status}] uncoded {len(rows)}; showing {start}..{start+count-1}")
 for r in rows[start:start + count]:
-    print(f"\n### {r['school_code']} | {r['school_name']} | years {','.join(r['years']) or '-'} | no_price_hint={r['no_price_hint']}")
-    for w in r["windows"][:2]:
-        print(f"- {w['url']}\n  {w['text'][:chars]}")
+    sc, url, body = E.best_page(r["school_code"])
+    ln = E.dollar_lines(body) if body else []
+    print(f"\n## {r['school_code']} {r['school_name'][:40]} | {','.join(E.years_in(body)) or '-'} | {url.split('//')[-1][:60]}")
+    for l in ln: print("  " + l)
