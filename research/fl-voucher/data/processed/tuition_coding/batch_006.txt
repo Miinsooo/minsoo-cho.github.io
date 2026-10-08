@@ -1,0 +1,41 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+1603 |  |  |  |  |  | 0 |  | unclear | columns of amounts without clear grade labels
+1604 | 2026-27 |  |  |  | 9500 | 0 | high | found | K5-3 and 4-8 both 9,500; K3 6,500 and K4 excluded
+1610 | 2026-27 |  |  |  | 10000 | 0 | high | found | same 10,000 for K-6, 7-9 and 10-12; same page as school 1210
+1618 | 2026-27 | 19950 |  |  |  | 0 | medium | found | K-5 shown in three columns (19,950 / 20,550 / 20,950) read as pay-in-full / semester / monthly; lowest used; other grades not read
+1620 | 2026-27 |  | 33750 |  |  | 0 | medium | found | grades 6-8 33,750; other grades not read
+1630 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+1634 | 2026-27 |  |  |  | 10045 | 0 | high | found | K-8 tuition and curriculum; curriculum, technology and security fees separate
+1639 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
+1642 |  | 8455 | 7825 |  |  | 0 | high | found | K-3 8,455; 4-8 7,825; VPK excluded; year not stated
+1647 |  |  |  |  | 9265 | 0 | high | found | 926.50 per month for 10 months, listed as total tuition 9,265; year not stated
+1654 |  |  |  |  |  | 0 |  | unclear | only a total of tuition and fees seen
+1656 | 2026-27 | 23800 |  |  |  | 0 | high | found | K-1 22,800; 2-5 23,800; other grades not read
+1657 | 2026-27 |  |  |  | 14050 | 0 | high | found | K-12 full-time; 3-day hybrid 11,110 excluded
+1658 |  |  |  |  |  | 0 |  | unclear | no tuition amount seen
+1663 | 2026-27 |  |  |  | 10600 | 0 | high | found | full tuition, 10-month program; other programs priced weekly or by course
+1666 |  |  |  |  | 9850 | 0 | medium | found | yearly tuition for the main program; preschool day rates excluded; year ambiguous (2026-27 and 2027-28)
+1679 |  |  |  |  |  | 0 |  | unclear | only K5 line with unclear columns
+1690 |  | 18920 |  |  |  | 0 | medium | found | K 17,240; grades 1-5 18,920 (first amount per row taken as tuition); page mentions several years
+1694 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+1695 | 2026-27 | 23005 | 25145 |  |  | 0 | high | found | K-2 23,005; 3-5 24,075 (K-5 tied, lower rate used); 6-8 25,145; PreK excluded
+1705 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+1708 |  |  |  |  |  | 0 |  | unclear | two unlabelled rate pairs
+1716 | 2026-27 |  |  |  | 20950 | 0 | high | found | annual tuition
+1726 |  |  |  |  |  | 0 |  | unclear | per-class rates
+1733 |  |  |  |  |  | 0 |  | unclear | monthly and partial rates, not coded
+1742 | 2026-27 |  |  |  | 10437 | 0 | medium | found | 10,437 with 10-month plan; 13,411 appears for another category; page mixes half-day figures
+1749 | 2025-26 |  |  |  | 17527 | 0 | high | found | tuition for all grades
+1757 |  |  |  |  |  | 0 |  | unclear | preschool monthly rates
+1767 |  |  |  | 12699 |  | 0 | medium | found | grades 9-11 12,699; grade 12 13,175; year ambiguous (2026-27 and 2027-28)
+1778 |  |  |  |  |  | 0 |  | unclear | page read is a college page, not the school
+1780 | 2025-26 | 7150 | 7400 | 7400 |  | 0 | high | found | K5-5 7,150; 6-12 7,400; heading says 2025-26, page also mentions 2026-27
+1785 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
+1788 | 2026-27 |  |  |  | 7800 | 0 | high | found | per student; monthly 780
+1794 | 2026-27 |  |  |  | 11800 | 0 | high | found | PreK3 to grade 8 full day tuition fee; total with registration and security fees 12,325
+1795 | 2026-27 | 7897 | 7270 | 7258 |  | 0 | high | found | K5-3 7,897; 4-8 7,270; 9th 7,208; 10-12 7,258
+1799 |  |  |  |  |  | 0 |  | unclear | three unlabelled columns
+1805 | 2025-26 |  |  |  | 8500 | 0 | high | found | tuition per year
+1809 | 2026-27 |  |  |  | 9132 | 0 | high | found | tuition per student; enrollment and technology fee separate
+1842 | 2026-27 |  |  |  | 9966 | 0 | high | found | K-8 annual tuition and fees; PreK 9,353 excluded
+1844 |  |  |  |  |  | 0 |  | unclear | preschool and childcare offers

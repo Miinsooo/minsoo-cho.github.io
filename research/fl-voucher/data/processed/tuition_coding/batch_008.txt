@@ -1,0 +1,41 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+2200 | 2026-27 |  |  |  | 16890 | 0 | high | found | high school tuition rate
+2207 |  |  |  |  |  | 0 |  | unclear | aid fees only
+2219 |  |  |  |  |  | 0 |  | unclear | referral credit only
+2230 |  |  |  |  |  | 0 |  | unclear | per-course online pricing
+2236 |  |  |  |  |  | 0 |  | unclear | application fee only
+2242 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+2246 | 2026-27 |  | 32512 | 34340 |  | 0 | high | found | middle school 32,512; upper school 34,340; ancillary fee for international students excluded
+2254 | 2024-25 |  |  |  | 10250 | 0 | high | found | page shows 2024-25; fees 750 separate
+2264 | 2026-27 | 30940 | 32835 | 35060 |  | 0 | high | found | K-4 30,940; 5-8 32,835; 9-12 35,060
+2268 |  |  |  |  |  | 0 |  | unclear | blog post about 529 plans
+2278 | 2026-27 |  |  |  | 15575 | 0 | high | found | general community rate; Catholic parishioner 12,780 and SMM parishioner 9,735; PreK 6,300 excluded
+2282 | 2026-27 |  |  |  | 10422 | 0 | high | found | K-8; PreK3 excluded
+2297 |  |  |  |  | 25000 | 0 | high | found | annual tuition; year not stated
+2306 |  |  |  |  |  | 0 |  | unclear | blog about basketball prep schools
+2312 |  |  |  |  |  | 0 |  | unclear | monthly rates, number of payments not seen
+2316 | 2026-27 | 10870 | 11855 | 11855 |  | 0 | high | found | K and grades 1-6 10,870; grades 7-10 11,855; school ends at grade 10 on this page; Pre-K excluded
+2320 | 2026-27 | 13450 | 13750 |  |  | 0 | high | found | pre-primary to grade 4 13,450; grades 5-8 13,750; K3 and K4 excluded
+2327 | 2026-27 |  |  |  | 24900 | 0 | high | found | annual tuition at a school for dyslexia; fees separate
+2334 | 2026-27 | 11500 | 13490 | 13560 |  | 0 | medium | found | taken from example scenarios: grade 1 11,500; grade 8 13,490; grade 11 13,560
+2335 |  |  |  |  |  | 0 |  | unclear | only fees seen
+2338 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+2339 | 2026-27 |  |  |  | 15450 | 0 | high | found | annual tuition; international annual tuition 19,000
+2344 |  |  |  |  |  | 0 |  | unclear | only fees seen
+2365 |  |  |  |  |  | 0 |  | unclear | childcare weekly rates
+2368 | 2026-27 | 11475 | 11850 |  |  | 0 | high | found | K-5 11,475; 6-8 11,850; VPK excluded
+2369 | 2026-27 | 12945 | 14025 | 14390 |  | 0 | high | found | K 10,610; 1-5 12,945; 6-8 14,025; 9-12 14,390; annual fees separate
+2395 |  |  |  |  |  | 0 |  | unclear | 2023-24 age-based Montessori rates
+2397 |  |  |  |  |  | 0 |  | unclear | tables of amounts without clear labels
+2399 | 2026-27 | 14350 | 15850 | 15850 |  | 0 | high | found | K-5 14,350; 6-12 15,850
+2405 | 2026-27 | 9800 | 9800 |  |  | 0 | high | found | PreK3/4 to grade 7 9,800; grade 8 9,975
+2412 |  | 12691 | 13225 | 13891 |  | 0 | medium | found | K 11,501; 1-2 12,046; 3-5 12,691; 6-8 13,225; 9-12 13,891; page mentions 2026-27 and 2027-28
+2426 | 2026-27 |  |  |  | 9995 | 0 | high | found | K-8 per child; VPK excluded
+2429 | 2026-27 |  |  |  | 14950 | 0 | high | found | K-8 tuition fee; PK3 and PK4 9,900 excluded
+2474 |  |  |  |  |  | 0 |  | unclear | many programs by schedule, not coded
+2484 | 2026-27 | 29350 | 30750 | 31500 |  | 0 | high | found | K-5 29,350; middle 30,750; upper 31,500; early childhood and online programs excluded
+2488 |  |  |  |  |  | 0 |  | unclear | curriculum-based amounts by grade for home education
+2495 | 2025-26 |  |  |  | 16000 | 0 | high | found | grades 6-12
+2497 |  |  |  |  |  | 0 |  | unclear | matriculation fee only
+2504 |  |  |  |  |  | 0 |  | unclear | amounts without clear labels
+2513 | 2026-27 | 24550 | 28165 |  |  | 0 | high | found | K and 1 20,900; 2-5 24,550; 6-8 28,165; junior kindergarten excluded

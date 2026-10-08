@@ -1,0 +1,41 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+2917 | 2026-27 |  |  |  | 12900 | 0 | high | found | yearly tuition for grades K-8
+2925 | 2026-27 | 26100 | 31400 | 34100 |  | 0 | medium | found | three amounts per grade read as payment options; lowest (pay in full) used: K 22,900; 1-5 26,100; 6-8 31,400; 9-12 34,100
+2929 |  |  |  |  | 9700 | 0 | low | found | K-8 first child 9,700 or 9,800 in two columns; years 2026-27 and 2027-28 both appear, column order not clear; second child 8,900-9,000
+2949 |  |  |  |  |  | 0 |  | unclear | 2024-25 table with two unlabelled columns
+2977 | 2026-27 | 19600 |  |  |  | 0 | high | found | K-2 19,600; 3-5 20,750 (tied, lower rate used); other grades not read; earlier childhood rates excluded
+2983 |  |  |  |  |  | 0 |  | unclear | application fee only
+2984 | 2025-26 | 8525 | 8800 |  |  | 0 | high | found | K 8,250; 1-5 8,525; 6-8 8,800; Pre-K4 4,950 excluded
+2990 | 2026-27 | 14400 | 14900 | 15900 |  | 0 | high | found | K5-5 14,400; 6-8 14,900; 9-12 15,900; preschool excluded
+2993 |  |  |  |  |  | 0 |  | unclear | deposit information only
+3049 | 2025-26 | 9080 | 9875 |  |  | 0 | high | found | K-5 9,080; 6-8 9,875; totals of 14,960 and 15,755 add tutoring and enrichment
+3057 | 2026-27 | 13390 | 14550 | 14800 |  | 0 | high | found | K5 11,140; 1-5 13,390; 6-8 14,550; 9-12 14,800; K2-K4 and VPK excluded
+3059 |  |  |  |  |  | 0 |  | unclear | tuition table without clear grade labels
+3072 |  |  |  |  |  | 0 |  | unclear | fees only
+3084 |  |  |  |  |  | 0 |  | unclear | age-based Montessori monthly rates
+3116 | 2026-27 | 7750 | 7100 | 7100 |  | 0 | high | found | K-3 7,750; 4-12 7,100; full-year enrollment
+3120 |  |  |  |  |  | 0 |  | unclear | early childhood program rates; same page as school 1962
+3128 |  |  |  |  |  | 0 |  | unclear | preschool monthly rates
+3130 |  |  |  |  |  | 0 |  | unclear | deposit only
+3145 | 2025-26 |  |  |  | 9300 | 0 | high | found | K-12 flat annual rate; same page as school 29
+3163 |  |  |  |  |  | 0 |  | unclear | tracks with two columns of rates without clear labels
+3168 |  | 10400 |  |  |  | 0 | high | found | K5-2nd 10,400; 3rd-5th 10,900 (tied, lower rate used); year not stated; preschool and VPK excluded
+3213 | 2026-27 |  |  |  | 24390 | 0 | high | found | high school tuition per student; building fund fee 650 separate
+3225 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+3236 | 2026-27 | 21500 | 24500 |  |  | 0 | high | found | 5 years old 20,500; grade 1 21,000; 2-3 21,500; 4-5 22,000 (tied, lower rate used); 6-8 24,500
+3256 | 2026-27 |  |  |  | 10500 | 0 | high | found | total cost per year including registration, books and testing; same wording as school 278
+3271 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+3288 | 2026-27 | 13606 | 14265 |  |  | 0 | medium | found | pay-in-full: K 13,111; 1-5 13,606; 6-8 14,265; page mentions 2026-27 and 2025-26; PK excluded
+3303 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
+3314 | 2026-27 | 15290 | 16830 | 19360 |  | 0 | medium | found | two sets of rates; higher set assumed to be 2026-27 (K 14,190; 1-5 15,290; 6-8 16,830; 9-12 19,360); lower set 14,300/15,730/18,150
+3323 | 2026-27 |  |  |  | 18500 | 0 | high | found | high school tuition; 2027-28 is 19,750; fees separate
+3326 |  |  |  |  |  | 0 |  | unclear | only fees seen
+3327 | 2026-27 |  |  |  | 8750 | 0 | high | found | K-8 tuition per student, same as 2025-26
+3332 |  | 8500 | 10000 | 11500 |  | 0 | medium | found | K-5 8,500; 6-8 10,000; 9-12 11,500; page mentions 2026/27 and 2027-28
+3337 |  |  |  |  |  | 0 |  | unclear | childcare offers only
+3409 | 2026-27 | 8300 | 8100 | 8000 |  | 0 | high | found | Pre-K-3 8,300; 4-8 8,100; 9-12 8,000
+3432 | 2026-27 | 7625 | 7200 |  |  | 0 | high | found | tuition only: K-3 7,625; 4-6 7,200; 7-8 7,200; amounts in parentheses add books and fees
+3439 |  |  |  |  |  | 0 |  | unclear | bank draft fee only
+3453 | 2026-27 | 7500 | 6850 | 6750 |  | 0 | high | found | K5-3 7,500; 4-8 6,850; 9-12 6,750
+3459 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+3460 |  |  |  |  |  | 0 |  | unclear | programs priced by type; same page as school 1107
