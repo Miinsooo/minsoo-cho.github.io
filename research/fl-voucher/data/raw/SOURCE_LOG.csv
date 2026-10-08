@@ -6,3 +6,4 @@ nces_pss/2026-10-08/pss1718_pu_csv.zip,NCES PSS public-use file,https://nces.ed.
 nces_pss/2026-10-08/layout2021-22.zip,NCES PSS public-use file,https://nces.ed.gov/surveys/pss/zip/layout2021-22.zip,2026-10-08,scripts/download_pss.sh,downloaded by curl
 nces_pss/2026-10-08/layout2019-20.zip,NCES PSS public-use file,https://nces.ed.gov/surveys/pss/zip/layout2019-20.zip,2026-10-08,scripts/download_pss.sh,downloaded by curl
 nces_pss/2026-10-08/codebook2021_22.zip,NCES PSS public-use file,https://nces.ed.gov/surveys/pss/zip/codebook2021_22.zip,2026-10-08,scripts/download_pss.sh,downloaded by curl
+fldoe_directory/2026-10-08/PrivateSchools_All.xlsx,FLDOE Private Schools Directory (Download School Contact List),FLDOE K-12 Private Schools > Directory of Private Schools (page URL to be added),2026-10-08,manual download by user,current snapshot only; 3540 schools; last annual survey year 2025 or 2026

@@ -16,13 +16,14 @@ Update this file **whenever a dataset is added or changed**. Never describe a so
 ## 1. School universe (sampling frame)
 | Item | Value |
 |---|---|
-| Status | planned |
-| Source | FLDOE Private School Directory (annual) |
-| URL | _to fill in when retrieved_ |
-| Years | target 2018-19 to 2024-25 |
-| Unit | one row per school per year |
-| Used for | master list of private schools; entry/exit tracking |
-| Known issues | _to fill in_ |
+| Status | collected (current snapshot only; historical years not yet obtained) |
+| Source | FLDOE K-12 Private Schools > Directory of Private Schools, "Download School Contact List" (xlsx) |
+| Retrieved | 2026-10-08, downloaded manually by the project owner (site blocks automated access); `data/raw/fldoe_directory/2026-10-08/PrivateSchools_All.xlsx`, git-ignored, logged in `data/raw/SOURCE_LOG.csv` |
+| Contents | 3,540 schools, 39 columns: district, school name, FLDOE school code (unique), address, contact, scholarship participation flags (FES-EO, FTC, FES-UA, PEP), non-profit, religious, denomination, grade levels, accreditation, student type, last annual survey year, enrollment by grade (Pre-K to 12) |
+| Unit | one row per school, one time point |
+| Survey year | 2,714 schools last surveyed 2025, 826 last surveyed 2026 |
+| Used for | master list of current schools; link key to PSS and to school websites |
+| Known issues | (1) Cross-section: no past years, so closed schools and pre-policy status are missing. (2) FES-EO, FTC and FES-UA flags are identical for all 2,712 "Yes" schools, so they appear to describe current (post-2023) participation and cannot serve as pre-policy exposure. (3) 432 rows have zero enrollment and blank grade levels (some look like home-education or non-operating entries); 76 have no ZIP. (4) FLDOE states it does not verify the survey data. (5) Page URL for the directory still to be recorded. |
 
 ## 2. School covariates
 | Item | Value |
