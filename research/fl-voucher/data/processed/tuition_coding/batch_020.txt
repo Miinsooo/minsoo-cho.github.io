@@ -1,0 +1,27 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+9534 |  |  |  |  |  | 0 |  | unclear | financial aid information only
+9542 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+9601 |  |  |  |  |  | 0 |  | unclear | age-based tuition (ages 9-12), not grade-based
+9605 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+9626 | 2023-24 |  |  |  | 15000 | 0 | high | found | K-12 for 2023-24; same page as school 6738
+9632 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+9634 | 2026-27 | 16200 | 18000 |  |  | 0 | high | found | out-of-pocket annual tuition before Step Up: grades 1-5 16,200; grades 6-8 18,000
+9638 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+9647 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+9648 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+9652 |  |  |  |  |  | 0 |  | unclear | programme of another operator; scholarship focus
+9663 | 2026-27 |  |  |  | 8975 | 0 | high | found | tuition; sibling discount 100
+9688 |  |  |  |  |  | 0 |  | unclear | referral credit only
+9701 |  |  |  |  | 13500 | 0 | medium | found | approximately 13,500 per year with need-based adjustments; page mentions 2026-27 and 2027-28
+9714 |  |  |  |  |  | 0 |  | unclear | payment of 580 for a high school with transcript, probably an online or umbrella programme
+9740 |  |  |  |  |  | 0 |  | unclear | page read is a college tuition page
+9755 | 2026-27 |  |  |  | 15500 | 0 | high | found | tuition per year; enrollment fee 500 separate
+9760 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+9842 |  |  |  |  |  | 0 |  | unclear | homeschool programme fee of 350
+9865 |  |  |  |  |  | 0 |  | unclear | room, board and tuition priced together per month
+9869 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+9881 |  |  |  |  |  | 0 |  | unclear | online school monthly prices
+9883 |  |  |  |  |  | 0 |  | unclear | programme of another operator; scholarship focus
+9884 |  |  |  |  |  | 0 |  | unclear | programme of another operator; scholarship focus
+9885 |  |  |  |  |  | 0 |  | unclear | programme of another operator; scholarship focus
+9891 |  |  |  |  |  | 0 |  | unclear | programme of another operator; scholarship focus
