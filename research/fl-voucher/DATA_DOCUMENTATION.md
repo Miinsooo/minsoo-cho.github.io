@@ -132,3 +132,7 @@ Planned follow-ups, to send only after a reply or a reasonable wait: school-leve
 - `scripts/followup_links.py` re-fetches the saved pages of `unclear` (and later `tuition_word_no_amount`) schools, follows links whose text or address mentions tuition, fees, rates or pricing (PDFs on any host, pages on the school's own host), honours robots.txt, 1 request per second per host. Saved text in `data/raw/school_sites/run3` (git-ignored), log in `data/processed/tuition_evidence3.jsonl`.
 - From these documents 33 more schools were coded `found` (batches 25-27). Where a table gave one price per single grade, band values are simple means and `tuition_is_range` is 1.
 - Counts after this step: found 528, unclear 328, tuition_word_no_amount 348 (of 3,540 schools).
+
+## 9d. Deeper second pass over `not_reached` schools (2026-10-08)
+- `not_reached` means the homepage was fetched but no page with the word "tuition" was found in the first crawl (not a network failure). `scripts/recrawl_not_reached.py` re-crawled all 639 using sitemap.xml, common paths (/tuition, /admissions, ...) and links from the homepage (up to 18 pages each; robots.txt, 1 request per second per host). Text in `data/raw/school_sites/run4` (git-ignored), log `tuition_evidence4.jsonl`.
+- Result: 16 sites with tuition evidence, 15 with the word but no amount, 592 still without any tuition page (mostly JavaScript sites, image-only pages, or schools that publish no prices). 5 more schools coded `found` (batch 28; two are old 2023-24 pages and one is a range midpoint, confidence low).

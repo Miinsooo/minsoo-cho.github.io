@@ -14,7 +14,7 @@ import csv, json
 FREE = {"gmail.com","yahoo.com","aol.com","hotmail.com","outlook.com","icloud.com","comcast.net","bellsouth.net","att.net","msn.com","live.com","me.com","sbcglobal.net","verizon.net","earthlink.net","mac.com","protonmail.com","cox.net","windstream.net","embarqmail.com","centurylink.net","charter.net","frontier.com","netzero.net","juno.com","ymail.com","gmx.com","mail.com","optonline.net","roadrunner.com","tampabay.rr.com","yahoo.co.uk","rocketmail.com"}
 dirx = list(csv.DictReader(open("data/processed/fl_directory_2026.csv")))
 crawl = {}
-for f in ("data/processed/tuition_evidence.jsonl", "data/processed/tuition_evidence2.jsonl"):  # later file overrides
+for f in ("data/processed/tuition_evidence.jsonl", "data/processed/tuition_evidence2.jsonl", "data/processed/tuition_evidence4.jsonl"):  # later file overrides
     try:
         for l in open(f):
             r = json.loads(l); crawl[r["school_code"]] = r["status"]

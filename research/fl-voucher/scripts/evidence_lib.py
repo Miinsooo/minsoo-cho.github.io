@@ -1,8 +1,8 @@
 """Helpers for reading saved school pages and coding tuition."""
 import glob, json, re
 
-RAWS = ["data/raw/school_sites/run2", "data/raw/school_sites/run1"]  # run2 (websites found by name) takes precedence
-EVIDS = ["data/processed/tuition_evidence.jsonl", "data/processed/tuition_evidence2.jsonl"]  # later files override earlier ones
+RAWS = ["data/raw/school_sites/run4", "data/raw/school_sites/run2", "data/raw/school_sites/run1"]  # run2 (websites found by name) takes precedence
+EVIDS = ["data/processed/tuition_evidence.jsonl", "data/processed/tuition_evidence2.jsonl", "data/processed/tuition_evidence4.jsonl"]  # later files override earlier ones
 
 def load_evidence():
     import json, os
