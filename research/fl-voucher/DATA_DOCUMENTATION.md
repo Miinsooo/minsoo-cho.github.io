@@ -82,11 +82,12 @@ _Add entries as: date · dataset · inputs · script · what changed._
 ## 7. Pre-policy scholarship exposure by district (FTC quarterly reports)
 | Item | Value |
 |---|---|
-| Status | built for 2022-23 only; earlier school years not yet obtained |
-| Source | FLDOE, "Florida Tax Credit Scholarship Program Quarterly Report" PDFs (Sept 2022, Nov 2022, Feb 2023, June 2023), from K-12 Scholarship Programs > Florida Tax Credit > Quarterly Reports |
-| Retrieved | 2026-10-08, downloaded manually by the project owner; `data/raw/fldoe_ftc_quarterly/2026-10-08/FTC-{Sept-2022,Nov-2022,Feb-2023,Jun-2023}-Q-Report.pdf` (git-ignored) |
-| Contents | By district: FTC students, total funded, private schools serving FTC students. Reports are cumulative over the 2022-23 payment periods so far: students 90,432 (Sept), 92,029 (Nov), 97,008 (Feb), 100,025 (June); June funded total $697,707,460, 2,083 schools. |
-| Processed | `data/processed/fl_ftc_district_2022_23.csv` (268 rows: report x district), built by `scripts/parse_ftc_quarterly.py` |
-| Checks | Summed district students and school counts equal each report's printed totals. Summed district funding differs from the printed total by $2 to $10 in three reports (rounding in the source). |
-| Used for | candidate pre-policy exposure at the district level: FTC students per private-school student, using the district enrollment in section 6 |
-| Known issues | District level only. FTC only; FES-EO students of the same years are not included. The school-count table lists 66 districts in the first three reports (one district absent, presumably none). Counts include only students who received funding. |
+| Status | built, 2018-19 to 2022-23 (FTC only; FES-EO not yet obtained) |
+| Source | FLDOE, "Florida Tax Credit Scholarship Program Quarterly Report" PDFs, from K-12 Scholarship Programs > Florida Tax Credit > Quarterly Reports. June 2019, 2020, 2021, 2022, 2023 reports (one per school year, payment periods through April or June) plus Sept 2022, Nov 2022, Feb 2023 (earlier cumulative reports of 2022-23) |
+| Retrieved | 2026-10-08, downloaded manually by the project owner; `data/raw/fldoe_ftc_quarterly/2026-10-08/FTC-<Mon>-<Year>-Q-Report.pdf` (git-ignored) |
+| Contents | By district: FTC students, total funded, private schools serving FTC students |
+| State totals (June reports) | 2018-19: 104,091 students, 1,825 schools. 2019-20: 111,219, 1,870. 2020-21: 106,112, 1,945. 2021-22: 85,612, 1,990. 2022-23: 100,025, 2,083. |
+| Processed | `data/processed/fl_ftc_district.csv` (536 rows: school year x report x district), built by `scripts/parse_ftc_quarterly.py` |
+| Checks | Summed district students and school counts equal each report's printed totals. Summed district funding differs from the printed total by up to $10 in seven of eight reports (rounding in the source). |
+| Used for | candidate pre-policy exposure at the district level: scholarship students per private-school student, using district enrollment in section 6 |
+| Known issues | (1) District level only; no school-level data. (2) **FTC alone is not total exposure.** FTC students fall from 106,112 (2020-21) to 85,612 (2021-22) while private enrollment rises (section 6), which suggests students moved to other programs such as FES-EO. Exposure must add FES-EO before use; the reason for the drop is not yet verified. (3) The school-count table lists fewer than 67 districts in seven of the eight reports (61 to 66), so missing districts are not zero-filled. (4) Counts include only students who received funding. |
