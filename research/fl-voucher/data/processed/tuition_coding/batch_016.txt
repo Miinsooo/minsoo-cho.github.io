@@ -26,7 +26,6 @@
 7164 |  |  |  |  |  | 0 |  | unclear | two unlabelled school-year amounts
 7169 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 7199 |  | 2600 | 2900 |  |  | 0 | medium | found | online school live-class tuition per year: elementary 2,600; middle 2,900; account-only options excluded; year not stated
-7246 |  |  |  |  |  | 0 |  | unclear | six unlabelled amounts
 7279 |  |  |  |  |  | 0 |  | unclear | family contribution of about 100 per month
 7280 |  | 7620 | 8000 | 7660 |  | 0 | high | found | standard tuition Pre-K-5 7,620; 6-8 8,000; 9-12 7,660; support levels 1-5 are higher and excluded; year not stated
 7306 |  |  |  |  |  | 0 |  | unclear | no dollar lines found

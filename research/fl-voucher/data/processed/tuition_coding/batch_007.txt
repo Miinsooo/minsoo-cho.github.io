@@ -30,9 +30,7 @@
 2088 |  |  |  |  |  | 0 |  | unclear | amounts by grade without clear labels
 2089 | 2026-27 |  |  |  | 21550 | 0 | high | found | all grade levels; one-time building and equipment fee of 10,000 excluded
 2133 |  | 26990 | 29500 | 31500 |  | 0 | medium | found | K 23,800; 1-5 26,990; 6-8 29,500; 9-12 31,500; page mentions 2026-27 and 2027-28; boarding rates excluded
-2155 |  |  |  |  |  | 0 |  | unclear | no tuition amount
 2156 |  | 12000 | 13000 | 14000 |  | 0 | high | found | K 11,500; 1-4 12,000; 5-8 13,000; 9-12 14,000; year not stated (monthly payments from June 2026)
-2162 |  |  |  |  |  | 0 |  | unclear | discount information only
 2164 | 2026-27 |  |  |  | 9450 | 0 | high | found | K-8; half-day and VPK excluded
 2165 | 2026-27 | 8940 | 11600 | 11600 |  | 0 | medium | found | K 8,100; 1-6 8,940; 7-11 11,600; 12 8,500; third column taken as tuition; a second set of lower amounts appears (possibly part-time)
 2174 |  |  |  |  |  | 0 |  | unclear | no dollar lines found

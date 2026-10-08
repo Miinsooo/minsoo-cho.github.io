@@ -16,7 +16,6 @@
 8992 | 2026-27 | 12400 |  |  |  | 0 | high | found | grammar school K-5 12,400; grade 6 12,665; other middle grades not read; same page as school 4378
 9064 | 2026-27 |  |  |  | 14200 | 0 | high | found | total annual tuition; learning enrichment, facility and transport fees separate
 9068 |  |  |  |  |  | 0 |  | unclear | programme of another operator; scholarship focus
-9083 |  |  |  |  |  | 0 |  | unclear | monthly rates by age band
 9140 | 2026-27 | 12000 | 12500 | 13000 |  | 0 | high | found | K 11,500; 1-4 12,000; 5-8 12,500; 9-11 13,000
 9160 | 2026-27 |  |  |  | 12000 | 0 | high | found | annual tuition; payments of the difference between tuition and the scholarship
 9169 | 2026-27 | 11500 | 12000 |  |  | 0 | high | found | K-4 11,500; 5-8 12,000

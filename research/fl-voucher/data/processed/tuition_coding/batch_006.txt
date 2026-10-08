@@ -1,5 +1,4 @@
 # code | year | elem | mid | high | overall | range | confidence | status | note
-1603 |  |  |  |  |  | 0 |  | unclear | columns of amounts without clear grade labels
 1604 | 2026-27 |  |  |  | 9500 | 0 | high | found | K5-3 and 4-8 both 9,500; K3 6,500 and K4 excluded
 1610 | 2026-27 |  |  |  | 10000 | 0 | high | found | same 10,000 for K-6, 7-9 and 10-12; same page as school 1210
 1618 | 2026-27 | 19950 |  |  |  | 0 | medium | found | K-5 shown in three columns (19,950 / 20,550 / 20,950) read as pay-in-full / semester / monthly; lowest used; other grades not read
@@ -9,7 +8,6 @@
 1639 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
 1642 |  | 8455 | 7825 |  |  | 0 | high | found | K-3 8,455; 4-8 7,825; VPK excluded; year not stated
 1647 |  |  |  |  | 9265 | 0 | high | found | 926.50 per month for 10 months, listed as total tuition 9,265; year not stated
-1654 |  |  |  |  |  | 0 |  | unclear | only a total of tuition and fees seen
 1656 | 2026-27 | 23800 |  |  |  | 0 | high | found | K-1 22,800; 2-5 23,800; other grades not read
 1657 | 2026-27 |  |  |  | 14050 | 0 | high | found | K-12 full-time; 3-day hybrid 11,110 excluded
 1658 |  |  |  |  |  | 0 |  | unclear | no tuition amount seen
@@ -34,7 +32,6 @@
 1788 | 2026-27 |  |  |  | 7800 | 0 | high | found | per student; monthly 780
 1794 | 2026-27 |  |  |  | 11800 | 0 | high | found | PreK3 to grade 8 full day tuition fee; total with registration and security fees 12,325
 1795 | 2026-27 | 7897 | 7270 | 7258 |  | 0 | high | found | K5-3 7,897; 4-8 7,270; 9th 7,208; 10-12 7,258
-1799 |  |  |  |  |  | 0 |  | unclear | three unlabelled columns
 1805 | 2025-26 |  |  |  | 8500 | 0 | high | found | tuition per year
 1809 | 2026-27 |  |  |  | 9132 | 0 | high | found | tuition per student; enrollment and technology fee separate
 1842 | 2026-27 |  |  |  | 9966 | 0 | high | found | K-8 annual tuition and fees; PreK 9,353 excluded

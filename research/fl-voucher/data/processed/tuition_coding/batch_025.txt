@@ -1,0 +1,30 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+1167 | 2026-27 | 8250 | 7670 |  |  | 0 | medium | found | K-3 8,250; 4-8 7,670; from the school's fee schedule PDF
+1228 |  | 9498 | 9856 |  |  | 0 | medium | found | K-5 9,498; 6-8 9,856; PDF posted 2026 (year not printed); VPK excluded
+1305 | 2026-27 | 9050 | 9250 | 9450 |  | 0 | high | found | K-5 9,050; 6-8 9,250; 9-12 9,450; preschool excluded
+1455 | 2026-27 | 12900 | 15150 | 16500 |  | 0 | high | found | US student schedule: K-5 12,900; 6-8 15,150; 9-11 16,500 (monthly rate x 10); international schedule excluded
+1567 | 2026-27 | 10500 | 12560 |  |  | 0 | medium | found | K-6 10,500 (K-3 and 4-6 equal); 7-8 12,560; church member discount excluded
+1589 | 2026-27 | 11569 | 11057 | 10781 |  | 0 | high | found | K-3 11,569; 4-8 11,057; 9-12 10,781; Pre-K excluded
+2162 | 2026-27 | 10250 | 10250 |  |  | 0 | high | found | K-8 tuition 10,250; PreK-3 5,000 excluded; Catholic-family discounts excluded
+2242 | 2026-27 | 9570 | 9880 | 10300 |  | 0 | high | found | K-5 9,570; 6-8 9,880; 9-12 10,300; therapy programmes excluded
+2604 | 2026-27 | 9446 | 9600 |  |  | 1 | medium | found | rate for supporting parishioners K-5 9,446; 6-8 9,600; other families pay more (K-5 11,898)
+3130 | 2026-27 | 16900 | 17950 | 18900 |  | 0 | high | found | grades 1-5 16,900 (kindergarten 15,600); 6-8 17,950; 9-12 18,900; sibling discount excluded
+3668 | 2026-27 | 17520 | 20800 | 21680 |  | 0 | high | found | K-5 17,520; 6-8 20,800; 9-12 21,680
+3866 | 2026-27 | 11525 | 11900 |  |  | 1 | medium | found | K5-2 11,400; 3-5 11,650 (mean 11,525); 7-8 11,900; 6th not seen
+3986 | 2026-27 | 8750 | 9500 | 10000 |  | 1 | medium | found | K-2 8,500; 3-5 9,000 (mean 8,750); 6-8 9,500; 9-12 10,000
+419 | 2025-26 | 9110 | 9110 |  |  | 0 | high | found | K-8 tuition 9,110; Catholic school
+424 | 2026-27 | 15450 | 16925 |  |  | 0 | high | found | K-5 15,450; 6-8 16,925; PreK excluded
+4595 | 2026-27 | 10000 | 10200 | 10400 |  | 0 | high | found | elementary 10,000; middle 10,200; high 10,400
+513 | 2026-27 |  |  | 18200 |  | 0 | high | found | high school student tuition 18,200; international 19,500 excluded
+6355 | 2026-27 | 7770 | 8190 | 8190 |  | 0 | high | found | elementary 370 per month and secondary 390 per month for 21 payments
+638 | 2026-27 | 8330 | 8330 |  |  | 0 | high | found | K-8 tuition 8,330; tuition and fees 8,990
+6557 | 2026-27 | 11240 | 10675 | 10675 |  | 0 | high | found | K5-3 11,240; 4-8 10,675; 9-12 10,675
+6684 | 2026-27 | 9000 | 9300 |  |  | 0 | high | found | K5-5 9,000; 6-8 9,300
+816 | 2025-26 | 8800 | 9000 |  |  | 0 | high | found | K-5 8,800; 6-8 9,000; technology fees separate
+836 | 2026-27 | 7050 | 7050 |  |  | 0 | high | found | K-8 annual tuition 7,050; curriculum, technology and supply fees separate
+9403 | 2025-26 | 7425 | 6825 | 6694 |  | 0 | high | found | K-3 7,425; 4-8 6,825; 9-12 6,694
+8 | 2026-27 |  |  |  | 9600 | 0 | medium | found | annual instructional tuition 9,600 (K-12 classical school)
+5504 | 2025-26 |  |  |  | 8700 | 0 | low | found | annual tuition 8,700; grades served not shown on the page
+2338 | 2026-27 | 16875 | 17150 |  |  | 0 | high | found | elementary 16,875; middle 17,150; preschool excluded
+2155 | 2026-27 | 13165 | 14873 | 15978 |  | 1 | medium | found | tuition by single grade (K 12,830 to 12th 16,310); band values are simple means of the grades
+9083 | 2026-27 | 14761 | 21198 |  |  | 0 | medium | found | elementary K-5 14,761; middle 6-8 21,198; second column (discounted rate) excluded

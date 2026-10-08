@@ -5,7 +5,6 @@
 8263 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 8269 | 2025-26 |  |  |  | 16000 | 0 | high | found | grades 6-12; same page as school 2495
 8290 |  |  |  |  |  | 0 |  | unclear | initial payment only
-8291 |  |  |  |  |  | 0 |  | unclear | two unlabelled tuition columns (12,000 and 15,000)
 8302 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 8303 | 2026-27 |  |  |  | 13000 | 0 | high | found | tuition for the 2026-27 school year
 8315 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
@@ -18,7 +17,6 @@
 8454 |  |  |  |  |  | 0 |  | unclear | two annual tuition amounts for two years, order not clear
 8456 | 2026-27 | 26993 | 26993 |  |  | 0 | high | found | K-8 26,992.90 rounded; high school 32,230 is for 2025-26 and not coded
 8480 | 2026-27 | 12750 |  |  |  | 0 | medium | found | row for 5-year-olds 8:00-2:30; other levels not seen
-8501 |  |  |  |  |  | 0 |  | unclear | two tiers of rates with no clear labels
 8514 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 8537 | 2026-27 | 12410 | 14010 | 15090 |  | 0 | high | found | Montessori levels mapped to grades: lower elementary (1-3) 12,410; upper elementary (4-6) 12,910; middle (7-8) 14,010; high school 15,090
 8538 |  |  |  |  |  | 0 |  | unclear | preschool programme

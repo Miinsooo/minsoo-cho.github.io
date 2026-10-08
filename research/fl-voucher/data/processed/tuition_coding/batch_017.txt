@@ -22,10 +22,8 @@
 7800 |  |  |  |  |  | 0 |  | unclear | per-class rates
 7927 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 7929 |  |  |  |  |  | 0 |  | unclear | online pathway programmes
-7935 |  |  |  |  |  | 0 |  | unclear | three unlabelled columns by grade group
 7952 |  |  |  |  | 13152 | 0 | high | found | annual tuition at a high school (13,211 for seniors); year not stated
 7970 | 2026-27 |  |  |  | 11000 | 0 | medium | found | 11,000 per school year in 10 payments; same page as school 4387
-7975 |  |  |  |  |  | 0 |  | unclear | tuition tiers without clear labels
 7989 |  |  |  |  |  | 0 |  | unclear | weekly early-learning payments
 8023 | 2023-24 |  |  |  | 20905 | 0 | high | found | tuition for 2023-24
 8046 |  |  |  |  |  | 0 |  | unclear | unlabelled amounts

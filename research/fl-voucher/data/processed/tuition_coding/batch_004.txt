@@ -8,7 +8,6 @@
 1214 |  |  |  |  |  | 0 |  | unclear | only application and testing fees seen
 1215 |  |  |  |  |  | 0 |  | unclear | only fees seen
 1225 | 2026-27 |  |  |  | 9500 | 0 | high | found | PK3 through grade 5 annual tuition; registration and book fee included
-1228 |  |  |  |  |  | 0 |  | unclear | no tuition amount in text read
 1233 | 2026-27 |  |  |  | 9450 | 0 | high | found | K-8; VPK excluded
 1240 |  |  |  |  |  | 0 |  | unclear | age-based Montessori rates, not grade-based; not coded
 1242 | 2026-27 | 12050 | 16080 | 17775 |  | 0 | high | found | K-2 12,050; 3-5 14,200 (K-5 tied, lower rate used); 6-8 16,080; 9-12 17,775; pre-K excluded
@@ -19,7 +18,6 @@
 1257 | 2026-27 |  |  |  | 9775 | 0 | high | found | K-8 per child; 10 monthly payments of 977.50
 1267 | 2026-27 | 20860 | 25580 | 26950 |  | 0 | high | found | K-4 20,860; 5 23,855; 6-8 25,580; 9-12 26,950; PK excluded
 1275 | 2026-27 | 21705 | 23960 | 24590 |  | 0 | high | found | K 20,840; 1-5 21,705; 6-8 23,960; 9-12 24,590; preschool excluded
-1277 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 1278 | 2026-27 |  |  |  | 18000 | 0 | high | found | high school tuition rate; legacy discount not applied
 1284 | 2026-27 |  |  | 18150 |  | 0 | high | found | grades 9-11 18,150; grade 12 18,650 (includes graduation fee)
 1285 |  |  |  |  |  | 0 |  | unclear | scholarship information only
@@ -27,7 +25,6 @@
 1297 |  |  |  |  |  | 0 |  | unclear | table without clear labels
 1299 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
 1303 | 2026-27 |  | 12600 |  |  | 0 | medium | found | grades 6-8 12,600; grade 12 13,600; other grades not read
-1305 |  |  |  |  |  | 0 |  | unclear | scholarship information only
 1306 | 2026-27 | 12999 | 13707 | 13707 |  | 0 | high | found | K 12,514; 1-6 12,999; 7-12 13,707
 1307 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 1313 | 2025-26 |  |  |  | 11950 | 0 | medium | found | total cost of tuition; families pay a need-based share starting at 250

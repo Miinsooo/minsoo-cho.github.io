@@ -1,6 +1,5 @@
 school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,tuition_is_range,source_url,source_date,source_type,tuition_note,confidence,status
 4,,,,,,0,https://www.gobrentwoodschool.com/admissions,2026-10-08,live,only fees and childcare rates seen; tuition amount not found on pages read,,unclear
-8,,,,,,0,https://www.chestertonpensacola.org/apply-and-enroll,2026-10-08,live,tuition schedule is a linked document that was not read; enrollment fee only,,unclear
 29,2025-26,,,,9300,0,https://www.alfurqanacademy.org/tuition--fees.html,2026-10-08,live,K-12 flat annual rate,high,found
 36,2026-27,11211,12785,13909,,0,https://micscougars.com/wp-content/uploads/2026/01/Schedule-of-Tuition-and-Fees-2026-2027-New-Students-Website.pdf,2026-10-08,live,"paid-in-full rates: K-4 and 5-6 11,211; 7-8 12,785; 9-12 13,909; monthly-plan totals slightly higher",high,found
 45,,,,,,0,https://therock.school/getting-started/tuition-financial-aid/,2026-10-08,live,"only financial assistance text seen, no tuition amount",,unclear
@@ -13,7 +12,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 178,,,,,,0,https://www.stepsmia.org/admission/tuition-assistance,2026-10-08,live,only a financial aid application fee seen,,unclear
 179,2026-27,9370,9545,,,0,https://www.sttimothymiami.org/CatholicSchool.php?pg=Tuition,2026-10-08,live,"per child; K-5 9,370; 6-8 9,545",high,found
 190,2026-27,17500,18500,,,0,https://www.thechristschool.org/admission/tuition-fees,2026-10-08,live,"TK-5 17,500; 6-8 18,500; The Bridge program 32,100 excluded",high,found
-195,,,,,,0,https://www.olqmfl.com/apps/pages/index.jsp?uREC_ID=488439&type=d&termREC_ID=&pREC_ID=942960&hideMenu=0,2026-10-08,live,only childcare and fees seen,,unclear
 196,2026-27,,,,8600,0,https://arkacademy.education/enrollment,2026-10-08,live,"8,600 per year; 10,600 for students needing special support; monthly installments",high,found
 234,2026-27,12500,12000,12000,,0,https://frazerschool.org/tuition-and-fees,2026-10-08,live,"K-3 12,500; 4-12 12,000 (early-pay discount 500); a separate parent contribution of 3,500-4,000 is listed and excluded",high,found
 256,,,,,,0,,2026-10-08,live,only fees seen,,unclear
@@ -25,8 +23,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 347,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
 354,2026-27,,,,10800,0,https://static1.squarespace.com/static/673f48458b7cdd31e1faf6af/t/69fccd7444f84742f9b6ed8c/1778175348832/Tuition+and+Fees+2026-2027.pdf,2026-10-08,live,K-8 flat rate; includes registration and technology fees per the page,high,found
 369,2026-27,8200,8350,8500,,0,https://graceleadershipacademy.org/admissions,2026-10-08,live,year inferred; page also mentions 2025-26,medium,found
-419,,,,,,0,https://sjp2.us/tuition/,2026-10-08,live,only an application fee seen,,unclear
-424,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 425,,,,,7800,0,https://ecslc.org/scholarship-tuition/,2026-10-08,live,K-8 tuition; pages mention 2025-26 and 2026-27; 800 materials fee extra for families not using scholarships,medium,found
 438,2026-27,9990,9990,11178,,0,https://www.wmaeagles.org/_files/ugd/e4a60a_0e17c70c97e6411db1147b2f91467561.pdf,2026-10-08,live,"K-8 9,990; 9-12 11,178; homeschool and distance-learning rates excluded",high,found
 440,2026-27,22985,27450,,,0,https://lanaarschool.org/admissions/,2026-10-08,live,"K-3 22,985; 4-5 24,335; 6-8 27,450",high,found
@@ -41,7 +37,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 486,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
 488,2025-26,,,,9688,0,https://static1.squarespace.com/static/6478e8146cfefc79f609bc5d/t/67781dcc761f3637297c8ac0/1735925197311/Tuition+and+Fees+2025-2026.pdf,2026-10-08,live,K-8 flat rate per student; fees separate,high,found
 494,,,,,13500,0,https://www.theapolloacademy.com/,2026-10-08,live,annual tuition paid in 11 monthly installments; year not stated,high,found
-513,,,,,,0,https://www.cmhs-sarasota.org/academics/scholarships/,2026-10-08,live,scholarship information only,,unclear
 515,,,,,,0,https://www.allsoulscatholicschool.org/mission/tuition-assistance,2026-10-08,live,scholarship information only,,unclear
 607,2026-27,,,,9800,0,https://www.fcadefuniak.com/admissions/tuition.cfm,2026-10-08,live,annual tuition; 100 discount for annual payment,high,found
 608,2026-27,,,,25000,0,https://www.allisonacademy.com/admission/tuition-fees/,2026-10-08,live,"full price; sibling discount 1,000 not applied",high,found
@@ -50,13 +45,11 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 629,2026-27,14675,16375,16375,,0,https://www.mdcacademy.org/admission/tuition,2026-10-08,live,"K-5 14,675; 6-12 16,375 (same rate for middle and high)",high,found
 630,2026-27,,,,17495,0,https://www.bvhs.org/admissions/tuition-and-fees,2026-10-08,live,"high school tuition; payable monthly, quarterly or annually",high,found
 636,,,,,,0,https://www.bcspanthers.org/admissions/tuition-affordability,2026-10-08,live,no tuition amount in text read,,unclear
-638,,,,,,0,https://www.fbcs-stuart.org/,2026-10-08,live,no tuition amount in text read,,unclear
 640,2026-27,40200,56100,56100,,0,https://www.gulliverprep.org/admissions/tuition/,2026-10-08,live,"PK-SK 36,400; grades 1-4 40,200; grades 5-12 56,100",high,found
 647,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
 670,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
 678,2026-27,9500,9000,9000,,0,https://www.penielwarriors.org/uploads/6/5/0/4/65044725/2026-2027_fee_sheet_-_2026-03-30__1_.pdf,2026-10-08,live,"K-3 9,500; 4-12 9,000; book and supply fees separate",high,found
 679,2026-27,,,,14000,0,https://www.sjaweb.org/admissions/tuitionandfees,2026-10-08,live,"non-Catholic rate; Catholic rate 12,500",high,found
-685,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 688,2026-27,7000,6700,6600,,0,https://www.santarosachristianschool.com/tuition-financial,2026-10-08,live,"K5-2nd 7,000; 3rd-8th 6,700; 9th-12th 6,600; K-5 tied, lower grade rate used; student fee 800 separate",high,found
 704,2026-27,10690,11300,,,0,https://www.hnes.us/admissions/tuition-and-affordability.cfm,2026-10-08,live,"K-5 10,690; 6-8 11,300; Pre-K 8,000 excluded",high,found
 706,2026-27,,,,15870,0,https://www.melbournecc.org/admissions/affording-mcc,2026-10-08,live,"high school tuition; international student rate 16,870 excluded",high,found
@@ -70,21 +63,16 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 769,2026-27,18500,25200,25200,,0,https://www.sjcds.net/admissions/tuition-affordability/,2026-10-08,live,"K 16,900; 1-3 18,500; 4-5 19,900; 6-8 25,200; 9-12 25,200; facilities fee separate",high,found
 777,2026-27,13343,15028,,,0,https://www.edscc.org/admissions/tuition-fees.cfm,2026-10-08,live,"page shows two rate sets (13,343/15,028 and 12,830/14,450); first assumed to be 2026-27",medium,found
 779,2026-27,10313,10755,10755,,0,https://rfmunroe.org/tuitionscholarship/,2026-10-08,live,"K-5 10,313; 6-12 10,755",high,found
-786,,,,,,0,https://dayspringca.com/fee-schedule-2026-2027,2026-10-08,live,"three unlabelled rates (8,900 / 8,300 / 8,100); not coded",,unclear
 787,2026-27,,,,10500,0,https://www.htepiscopalschool.org/htes-tuition,2026-10-08,live,tuition; student fee 700 separate,high,found
 788,,9450,9650,9650,,0,https://kingdomtechacademy.com/admissions/,2026-10-08,live,"K-2 9,450; 3-12 9,650; K-5 tied, lower grade rate used; year not stated",high,found
-789,,,,,,0,https://www.hces.org/admissions/tuition-and-fees,2026-10-08,live,"monthly rates only, number of payments not seen",,unclear
 798,2026-27,,,,10285,0,https://www.saintmaryschool.net/wp-content/uploads/2026/01/Tuition-Fee-Schedule-2026-2027.pdf,2026-10-08,live,K-8 flat rate,high,found
 799,2026-27,,,,23952,0,https://www.bishopmoore.org/admissions/tuition.cfm,2026-10-08,live,"non-Catholic rate; Catholic rate 17,364",high,found
 800,2026-27,9440,9063,9041,,0,https://www.colca.education/tuition,2026-10-08,live,"rates differ slightly by grade; K 9,450; 1-3 9,440; 4 8,869; 5 8,904; 6-7 9,063; 8 9,103; 9-11 9,041; 12 9,116",high,found
 806,,,,,,0,https://blilearning.org/,2026-10-08,live,part-time learning lab with quarterly fees,,unclear
 808,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
 813,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
-816,,,,,,0,https://www.lourdesacademydaytona.org/admissions,2026-10-08,live,only an application fee seen,,unclear
 824,2026-27,13590,15400,,,0,https://geds.net/wp-content/uploads/2025/12/2026-2027-Tuition-and-Fees.pdf,2026-10-08,live,"K-3 13,590; 4-6 13,955; 7-8 15,400; first column taken as annual tuition (monthly payment about 1/11 of it); fees separate; pre-K excluded",high,found
 832,2026-27,,,,9200,0,https://cdn.diocesanweb.org/crossroads/seaspc/wp-content/uploads/2026/08/SEAS-Tuition-and-Financial-Policy-for-2026-2027-3.pdf,2026-10-08,live,"K-8 tuition including textbooks and technology; 9,350 version includes graduation fee; preschool excluded",high,found
-836,,,,,,0,https://www.lakeviewchristianschool.org/tuition.html,2026-10-08,live,only a registration fee seen,,unclear
-850,,,,,,0,https://www.montessorifwb.com/admissions,2026-10-08,live,"several programs at 9,000 per year; grade or age levels not clear",,unclear
 855,,,,,,0,https://www.scoreatthetop.com/blog/how-sat/act-scores-can-turn-2500-into-240000-of-free-tuition,2026-10-08,live,"test-prep company; page is a blog post, not tuition",,unclear
 873,2026-27,,,,13134,0,https://myflec.com/admissions/tuition-and-fees/,2026-10-08,live,"K-8 general tuition; constituent (church member) rate 10,736; Pre-K excluded",high,found
 880,,,,,,0,https://www.flprep.com/admissions/tuition-and-fees.cfm,2026-10-08,live,only a tuition deposit seen,,unclear
@@ -116,7 +104,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 1155,,,,,,0,https://www.redeemerlions.com/wp-content/uploads/2026/01/Updated-26-27-Tuition-Fee-Schedule.pdf,2026-10-08,live,amounts in tiers without clear grade labels,,unclear
 1158,2026-27,,,,10070,0,https://vineacademy.org/wp-content/uploads/2026/01/26-27_Tuition-and-Fee-Schedules.pages.pdf,2026-10-08,live,total annual tuition; before/after care separate,high,found
 1159,,,,,8500,0,https://www.elferschristianschool.org/why-elfers-christian-school/tuition-and-fees/,2026-10-08,live,annual K-12 tuition; year not stated,high,found
-1167,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 1169,,,,,,0,https://www.caofslc.org/,2026-10-08,live,only scholarship text seen,,unclear
 1172,2026-27,,,,10710,0,https://static1.squarespace.com/static/5fb841b18837586f7ab48471/t/6a97428a15edb90992dd1723/1788297866467/Tuition+and+Fee+Schedule+2026-2027.pdf,2026-10-08,live,full time K-8; part-time and pre-K excluded,high,found
 1195,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
@@ -128,7 +115,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 1214,,,,,,0,https://www.fccsjax.org/apply,2026-10-08,live,only application and testing fees seen,,unclear
 1215,,,,,,0,https://www.redeemerschoolpensacola.org/tuition-financial-aid,2026-10-08,live,only fees seen,,unclear
 1225,2026-27,,,,9500,0,https://www.hoperuralschool.org/policies/tuition-fees-2026-2027,2026-10-08,live,PK3 through grade 5 annual tuition; registration and book fee included,high,found
-1228,,,,,,0,https://www.goodshepherd.org/tuition-scholarships,2026-10-08,live,no tuition amount in text read,,unclear
 1233,2026-27,,,,9450,0,https://sacsfl.org/admissions/,2026-10-08,live,K-8; VPK excluded,high,found
 1240,,,,,,0,https://sungrovemontessori.org/tuition-overview/,2026-10-08,live,"age-based Montessori rates, not grade-based; not coded",,unclear
 1242,2026-27,12050,16080,17775,,0,https://sarasotachristian.org/admissions/tuition-fees/,2026-10-08,live,"K-2 12,050; 3-5 14,200 (K-5 tied, lower rate used); 6-8 16,080; 9-12 17,775; pre-K excluded",high,found
@@ -139,7 +125,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 1257,2026-27,,,,9775,0,https://stpaulschoolleesburg.org/tuition/,2026-10-08,live,K-8 per child; 10 monthly payments of 977.50,high,found
 1267,2026-27,20860,25580,26950,,0,https://www.canterburyflorida.org/admission/tuition,2026-10-08,live,"K-4 20,860; 5 23,855; 6-8 25,580; 9-12 26,950; PK excluded",high,found
 1275,2026-27,21705,23960,24590,,0,https://www.oakhall.org/admissions/tuition-and-financial-assistance/,2026-10-08,live,"K 20,840; 1-5 21,705; 6-8 23,960; 9-12 24,590; preschool excluded",high,found
-1277,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 1278,2026-27,,,,18000,0,https://www.cmlions.org/admissions/tuition-and-financial-aid,2026-10-08,live,high school tuition rate; legacy discount not applied,high,found
 1284,2026-27,,,18150,,0,https://www.columbushs.com/admission/tuition,2026-10-08,live,"grades 9-11 18,150; grade 12 18,650 (includes graduation fee)",high,found
 1285,,,,,,0,https://ctkschooljax.com/tuition-and-scholarship-opportunities/,2026-10-08,live,scholarship information only,,unclear
@@ -147,7 +132,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 1297,,,,,,0,https://www.visitkok.com/tuition-and-fees,2026-10-08,live,table without clear labels,,unclear
 1299,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
 1303,2026-27,,12600,,,0,https://thehcla.org/wp-content/uploads/2026/02/2026-2027-VPK-12th-Tuition-Schedule.pdf,2026-10-08,live,"grades 6-8 12,600; grade 12 13,600; other grades not read",medium,found
-1305,,,,,,0,https://www.wcaeagles.org/admissions/scholarships.cfm,2026-10-08,live,scholarship information only,,unclear
 1306,2026-27,12999,13707,13707,,0,https://paideiatampa.org/academics/admissions,2026-10-08,live,"K 12,514; 1-6 12,999; 7-12 13,707",high,found
 1307,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 1313,2025-26,,,,11950,0,https://www.esischools.org/apply,2026-10-08,live,total cost of tuition; families pay a need-based share starting at 250,medium,found
@@ -171,14 +155,12 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 1420,2026-27,12497,12497,12997,,0,https://static1.squarespace.com/static/67e7171be81fa1248dae11ab/t/6965152691e8355551cdfedf/1768232230045/CCS_26_27_Tuition_Programs_Fees.pdf,2026-10-08,live,"K 10,716; 1-8 12,497; 9-12 12,997; column meaning inferred from table",medium,found
 1422,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
 1426,,,,,,0,https://www.trinityprep.org/admissions/international,2026-10-08,live,international student tuition only,,unclear
-1428,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 1429,2026-27,22600,27900,32650,,0,https://academyatthelakes.org/admissions/tuition-fees/,2026-10-08,live,"layout inferred: early childhood 20,950; grades 1-4 22,600; 5-6 26,600; 7-8 27,900; 9-12 32,650",medium,found
 1433,,,,,,0,https://www.stcatheschool.org/admissions,2026-10-08,live,only cost to educate seen,,unclear
 1436,2026-27,27145,30950,33550,,0,https://www.oda.edu/admissions/tuition-affordability,2026-10-08,live,"K 24,645; 1-5 27,145; 6-8 30,950; 9-12 33,550; pre-K excluded",high,found
 1445,,,,,,0,https://www.pcgacademy.com/admissions,2026-10-08,live,online and homeschool tuition only,,unclear
 1448,2026-27,,,,10294,0,https://www.trinitaschristian.org/admissions/tuition-and-fees/,2026-10-08,live,full-day K-12; junior kindergarten excluded,high,found
 1449,,,,,,0,https://www.hillelacademytampa.com/tuition,2026-10-08,live,no tuition amount seen,,unclear
-1455,,,,,,0,https://thecrenshawacademy.com/admissions/tuition-and-fees,2026-10-08,live,two different rate tables on the page; not coded,,unclear
 1459,2026-27,12250,12350,13100,,0,https://wearecovenant.org/tuition,2026-10-08,live,"K-5 12,250; 6-8 12,350; 9th 12,500; 10-12 13,100; PreK excluded",high,found
 1475,,,,,8400,0,https://holytrinitylutheranschool.org/prospective-families/tuition-fees/,2026-10-08,live,elementary and middle school full day; preschool excluded; year not stated,high,found
 1483,,,,,,0,https://www.alexandermontessori.com/admissions/tuition-and-fees,2026-10-08,live,same Montessori plan table as school 447; not coded,,unclear
@@ -191,15 +173,11 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 1533,2026-27,8450,8550,8650,,0,https://bcsmelbourne.com/wp-content/uploads/2026/03/Final-MC-Fee-Schedule-2026-27.pdf,2026-10-08,live,"K-3 8,450; 4-5 8,375; 6-8 8,550; 9-12 8,650 (10 monthly payments)",high,found
 1534,2026-27,16150,17250,,,0,https://hebrewacademy.org/wp-content/uploads/2026/04/Tution-Schedule-26-27.pdf,2026-10-08,live,"K-5 16,150; 6-8 17,250; early childhood excluded",high,found
 1536,,,,,,0,https://kindergartenprepinc.com/,2026-10-08,live,no tuition amount,,unclear
-1549,,,,,,0,https://static1.squarespace.com/static/5ede4ccddc6f0d67e7010d59/t/69b2f83b9f887d5f0f59f667/1773336635796/tuition+%2811%29.pdf,2026-10-08,live,amounts without labels,,unclear
 1555,2026-27,,,,9995,0,https://www.stpatrickcatholic.org/admissions/scholarships.cfm,2026-10-08,live,PreK-8 annual tuition per child,high,found
 1560,,20840,21000,21260,,0,https://pacebrantley.org/,2026-10-08,live,"elementary 20,840; middle 21,000; high 21,260; year not stated",high,found
-1567,,,,,,0,https://www.pcaknights.org/admissions,2026-10-08,live,only fees seen,,unclear
 1578,,,,,,0,https://rightstepsacademy.com/tuition-fees/,2026-10-08,live,childcare-style four-week rate,,unclear
-1589,,,,,,0,https://www.venicechristianschool.org/tuition/,2026-10-08,live,no tuition amount,,unclear
 1598,,,,,,0,https://pensacolasola.org/admissions,2026-10-08,live,scholarship information only,,unclear
 1599,2026-27,,,,23920,0,https://www.jesuittampa.org/admissions/tuition-information,2026-10-08,live,high school tuition; fees separate,high,found
-1603,,,,,,0,https://fortmyerschristianschool.com/wp-content/uploads/Tuition-Information-26-27.pdf,2026-10-08,live,columns of amounts without clear grade labels,,unclear
 1604,2026-27,,,,9500,0,https://www.dcaeagles.com/admissions/tuition,2026-10-08,live,"K5-3 and 4-8 both 9,500; K3 6,500 and K4 excluded",high,found
 1610,2026-27,,,,10000,0,https://stjohnsacademy.com/tuition-and-fees/,2026-10-08,live,"same 10,000 for K-6, 7-9 and 10-12; same page as school 1210",high,found
 1618,2026-27,19950,,,,0,https://www.royalpalmacademy.org/admissions/tuition-financial-aid,2026-10-08,live,"K-5 shown in three columns (19,950 / 20,550 / 20,950) read as pay-in-full / semester / monthly; lowest used; other grades not read",medium,found
@@ -209,7 +187,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 1639,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
 1642,,8455,7825,,,0,https://rcswarriors.org/admissions/tuition-and-fees/,2026-10-08,live,"K-3 8,455; 4-8 7,825; VPK excluded; year not stated",high,found
 1647,,,,,9265,0,https://sljcainc.com/admissions/tuition-and-fees/,2026-10-08,live,"926.50 per month for 10 months, listed as total tuition 9,265; year not stated",high,found
-1654,,,,,,0,https://www.morningstarorlando.org/enroll,2026-10-08,live,only a total of tuition and fees seen,,unclear
 1656,2026-27,23800,,,,0,https://www.tka.net/admissions/tuition-financial-aid,2026-10-08,live,"K-1 22,800; 2-5 23,800; other grades not read",high,found
 1657,2026-27,,,,14050,0,https://www.3oaksacademy.com/estero/tuition,2026-10-08,live,"K-12 full-time; 3-day hybrid 11,110 excluded",high,found
 1658,,,,,,0,https://farragut.org/admissions/tuition-and-fees/,2026-10-08,live,no tuition amount seen,,unclear
@@ -234,7 +211,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 1788,2026-27,,,,7800,0,https://www.modernmindslearning.com/tuition,2026-10-08,live,per student; monthly 780,high,found
 1794,2026-27,,,,11800,0,https://static1.squarespace.com/static/5fdb7414ed7e7c40dfe79589/t/6970f553ba91255a6b2a72c0/1769010515068/2026-27+Tuition+Fee.pdf,2026-10-08,live,"PreK3 to grade 8 full day tuition fee; total with registration and security fees 12,325",high,found
 1795,2026-27,7897,7270,7258,,0,https://facs.ocalafirst.org/school-tuition-and-fees/,2026-10-08,live,"K5-3 7,897; 4-8 7,270; 9th 7,208; 10-12 7,258",high,found
-1799,,,,,,0,https://www.ocalions.org/editoruploads/files/Tuition%20%26%20Fees%202025-2026.pdf,2026-10-08,live,three unlabelled columns,,unclear
 1805,2025-26,,,,8500,0,https://www.discovery-academy.org/admissions/tuition-and-financial-aid,2026-10-08,live,tuition per year,high,found
 1809,2026-27,,,,9132,0,https://mtctampa.org/admissions/tuition/,2026-10-08,live,tuition per student; enrollment and technology fee separate,high,found
 1842,2026-27,,,,9966,0,https://www.nativitycatholicschool.org/admissions/tuition-and-finance.cfm,2026-10-08,live,"K-8 annual tuition and fees; PreK 9,353 excluded",high,found
@@ -270,9 +246,7 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 2088,,,,,,0,https://www.sjeds.org/admission/tuition-and-affordability,2026-10-08,live,amounts by grade without clear labels,,unclear
 2089,2026-27,,,,21550,0,https://www.smeds.org/admission/tuition-and-financial-aid,2026-10-08,live,"all grade levels; one-time building and equipment fee of 10,000 excluded",high,found
 2133,,26990,29500,31500,,0,https://www.nordangliaeducation.com/wps-florida/admissions/tuition-fees,2026-10-08,live,"K 23,800; 1-5 26,990; 6-8 29,500; 9-12 31,500; page mentions 2026-27 and 2027-28; boarding rates excluded",medium,found
-2155,,,,,,0,https://www.highlandschristian.org/faqs,2026-10-08,live,no tuition amount,,unclear
 2156,,12000,13000,14000,,0,https://www.ucsjax.com/tuitions-fees,2026-10-08,live,"K 11,500; 1-4 12,000; 5-8 13,000; 9-12 14,000; year not stated (monthly payments from June 2026)",high,found
-2162,,,,,,0,https://www.stlukepalmsprings.org/admissions,2026-10-08,live,discount information only,,unclear
 2164,2026-27,,,,9450,0,https://www.cathedralschoolofstjude.org/tuition,2026-10-08,live,K-8; half-day and VPK excluded,high,found
 2165,2026-27,8940,11600,11600,,0,https://www.smithprep.com/editoruploads/files/2026-27%20Tuition%20Chart%20Combined.pdf,2026-10-08,live,"K 8,100; 1-6 8,940; 7-11 11,600; 12 8,500; third column taken as tuition; a second set of lower amounts appears (possibly part-time)",medium,found
 2174,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
@@ -284,7 +258,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 2219,,,,,,0,https://guidepostmontessori.com/admissions/,2026-10-08,live,referral credit only,,unclear
 2230,,,,,,0,https://myawa.org/index.php/tuition-fees/,2026-10-08,live,per-course online pricing,,unclear
 2236,,,,,,0,https://www.stvfschool.org/apps/pages/index.jsp?uREC_ID=519841&type=d,2026-10-08,live,application fee only,,unclear
-2242,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 2246,2026-27,,32512,34340,,0,https://tampaprep.org/admissions/fees-and-tuition/,2026-10-08,live,"middle school 32,512; upper school 34,340; ancillary fee for international students excluded",high,found
 2254,2024-25,,,,10250,0,https://chestertonvero.org/admissions/,2026-10-08,live,page shows 2024-25; fees 750 separate,high,found
 2264,2026-27,30940,32835,35060,,0,https://www.dkja.net/admissions/tuition--fees,2026-10-08,live,"K-4 30,940; 5-8 32,835; 9-12 35,060",high,found
@@ -293,20 +266,17 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 2282,2026-27,,,,10422,0,https://static1.squarespace.com/static/6523ee22f6776a2ff691ef67/t/6970f38185e614015b3d022e/1769010049628/Tuition+and+Fees+2026-2027+Final.pdf,2026-10-08,live,K-8; PreK3 excluded,high,found
 2297,,,,,25000,0,https://courageousmindslc.org/tuition-and-fees,2026-10-08,live,annual tuition; year not stated,high,found
 2306,,,,,,0,https://floridacoastalprep.com/basketball-prep-school-cost/,2026-10-08,live,blog about basketball prep schools,,unclear
-2312,,,,,,0,https://www.actonacademyfl.com/school-calendar-fees-ethics-handbook,2026-10-08,live,"monthly rates, number of payments not seen",,unclear
 2316,2026-27,10870,11855,11855,,0,https://www.bhaktischool.org/admissions/tuition-fees,2026-10-08,live,"K and grades 1-6 10,870; grades 7-10 11,855; school ends at grade 10 on this page; Pre-K excluded",high,found
 2320,2026-27,13450,13750,,,0,https://www.conchitaespinosa.com/wp-content/uploads/2026/03/2026-27_Tuition_and_Fees.pdf,2026-10-08,live,"pre-primary to grade 4 13,450; grades 5-8 13,750; K3 and K4 excluded",high,found
 2327,2026-27,,,,24900,0,https://www.thedepaulschool.org/school-admissions/tuition-assistance,2026-10-08,live,annual tuition at a school for dyslexia; fees separate,high,found
 2334,2026-27,11500,13490,13560,,0,https://tcajax.org/affordability/,2026-10-08,live,"taken from example scenarios: grade 1 11,500; grade 8 13,490; grade 11 13,560",medium,found
 2335,,,,,,0,https://www.uaftampa.org/admissions/admissions-process,2026-10-08,live,only fees seen,,unclear
-2338,,,,,,0,https://www.tcspbg.org/admissions/tuition-and-financial-aid.cfm,2026-10-08,live,scholarship information only,,unclear
 2339,2026-27,,,,15450,0,https://www.clearwateracademy.org/admission/2026-2027-tuition-and-fees/,2026-10-08,live,"annual tuition; international annual tuition 19,000",high,found
 2344,,,,,,0,https://www.foundationacademy.com/admissions,2026-10-08,live,only fees seen,,unclear
 2365,,,,,,0,https://theeheracademy.org/,2026-10-08,live,childcare weekly rates,,unclear
 2368,2026-27,11475,11850,,,0,https://crestwellschool.org/admission/faq,2026-10-08,live,"K-5 11,475; 6-8 11,850; VPK excluded",high,found
 2369,2026-27,12945,14025,14390,,0,https://www.cfprep.org/admission/tuition,2026-10-08,live,"K 10,610; 1-5 12,945; 6-8 14,025; 9-12 14,390; annual fees separate",high,found
 2395,,,,,,0,https://www.montessoritides.com/enrollment/tuition-and-fees/,2026-10-08,live,2023-24 age-based Montessori rates,,unclear
-2397,,,,,,0,https://www.sfcakings.org/admissions/tuition-fees/,2026-10-08,live,tables of amounts without clear labels,,unclear
 2399,2026-27,14350,15850,15850,,0,https://fcalions.org/explore/tuition/,2026-10-08,live,"K-5 14,350; 6-12 15,850",high,found
 2405,2026-27,9800,9800,,,0,https://littleflowerhollywood.org/school/tuition/,2026-10-08,live,"PreK3/4 to grade 7 9,800; grade 8 9,975",high,found
 2412,,12691,13225,13891,,0,https://cfcaeagles.org/tuition-rates/,2026-10-08,live,"K 11,501; 1-2 12,046; 3-5 12,691; 6-8 13,225; 9-12 13,891; page mentions 2026-27 and 2027-28",medium,found
@@ -326,7 +296,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 2590,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 2597,2026-27,37200,39300,,,0,https://gulfstreamschool.org/admission/tuition-tuition-assistance/,2026-10-08,live,"K 33,000; 1-2 36,000; 3-5 37,200; 6-8 39,300; PK excluded",high,found
 2599,,,,,,0,https://www.nordangliaeducation.com/nbps-florida/boarding/boarding-fees,2026-10-08,live,boarding rates only,,unclear
-2604,,,,,,0,https://stjcs.com/wp-content/uploads/2026/01/2026-2027-Tuition-Rates.pdf,2026-10-08,live,two sets of rates with unclear labels,,unclear
 2609,2026-27,,9950,11800,,0,https://www.lloydprep.com/_files/ugd/f4ba6f_13a383e6749f401da61487779dcc8285.pdf,2026-10-08,live,"standard tier: 6-8 9,950; 9-12 11,800; higher remediation tiers excluded",high,found
 2618,2026-27,,,,34000,0,https://killianoaksacademy.com/wp-content/uploads/2026/04/Killian-Oaks-Academy-Tuition-and-Fees-Schedule-5-7-2026-2027.pdf,2026-10-08,live,"Plan A pay-in-full 34,000; installment plans total 34,680 and 35,360",high,found
 2629,,,,,,0,https://www.pinecrest.edu/admissions/tuition-fees-and-aid/enrollment-resources-and-faq,2026-10-08,live,only fees seen,,unclear
@@ -376,7 +345,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 3116,2026-27,7750,7100,7100,,0,https://springvalleyschool.com/wp-content/uploads/Re-Enrollment-Packet-2026-2027.pdf,2026-10-08,live,"K-3 7,750; 4-12 7,100; full-year enrollment",high,found
 3120,,,,,,0,https://thefirstacademy.org/admissions/tuition-fees/,2026-10-08,live,early childhood program rates; same page as school 1962,,unclear
 3128,,,,,,0,https://firstchristianacademy.com/preschool/tuition/,2026-10-08,live,preschool monthly rates,,unclear
-3130,,,,,,0,https://www.prov.org/admissions/continuous-enrollment/,2026-10-08,live,deposit only,,unclear
 3145,2025-26,,,,9300,0,https://www.alfurqanacademy.org/tuition--fees.html,2026-10-08,live,K-12 flat annual rate; same page as school 29,high,found
 3163,,,,,,0,https://www.colemancarroll.org/tuition-fees,2026-10-08,live,tracks with two columns of rates without clear labels,,unclear
 3168,,10400,,,,0,https://www.downtownchristianacademy.com/tutition,2026-10-08,live,"K5-2nd 10,400; 3rd-5th 10,900 (tied, lower rate used); year not stated; preschool and VPK excluded",high,found
@@ -409,16 +377,13 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 3608,2026-27,,,,12000,0,https://www.hibernianprivateschool.com/admissions,2026-10-08,live,2026-27 academic year tuition,high,found
 3615,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 3655,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
-3668,,,,,,0,https://www.lakemaryprep.com/admissions/tuition-fees,2026-10-08,live,several different annual amounts across years on the page,,unclear
 3690,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
 3717,2024-25,,,,10000,0,https://www.cvaschools.com/pricing-plans/list,2026-10-08,live,"1,000 per month; academic year 2024-25",high,found
 3723,2026-27,7200,7300,,,0,https://assets.cdn.filesafe.space/Lw6I2xWqWJkEC5Q6dJmU/media/6a554338180dde3f86d31000.pdf,2026-10-08,live,"K5-5 7,200; 6-8 7,300; K1-K4 programs excluded",high,found
 3750,,,,,,0,https://www.lccdayschool.com/admissions/tuition.cfm,2026-10-08,live,only enrollment fees seen,,unclear
 3753,2023-24,7550,6850,6850,,0,https://vcaorlando.com/wp-content/uploads/2023/06/23-24-Tuition-Fee-Schedule.pdf,2026-10-08,live,"K5-3 7,550; 4-8 6,850; 9-12 6,850; page shows 2023-24",high,found
 3787,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
-3847,,,,,,0,https://www.csjax.org/(L_4)_-_Tuition_Fee_Schedule_(K5-12th)_(2026-2027)_(01_27_26)_3.pdf,2026-10-08,live,three unlabelled columns of tiers,,unclear
 3852,,,,,,0,https://unityschool.com/admissions-2/tuition-fees/,2026-10-08,live,three amounts without clear labels,,unclear
-3866,,,,,,0,https://static1.squarespace.com/static/5ef54ea61250a85af34203a7/t/6a96f52f6127082d0f3da713/1788278063498/Rates+2026-+August+Update+%281%29.pdf,2026-10-08,live,childcare weekly rates,,unclear
 3878,2026-27,8737,10571,11136,,0,https://amblesidemagnolia.com/tuition/,2026-10-08,live,"rounded from 8,736.55 / 10,073.40 / 10,570.89 / 11,136.36: K-2 8,737 (K-5 tied, lower rate used); 3-5 10,073; 6-8 10,571; high school 11,136",high,found
 3908,2026-27,,,,12865,0,https://www.sunflowerprivateschool.com/new-page-5,2026-10-08,live,"monthly 1,236.50",high,found
 3916,,,,,,0,https://www.klaacademy.org/admissions/tuition,2026-10-08,live,complex tuition by programme; not coded,,unclear
@@ -428,7 +393,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 3956,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 3970,,3069,3669,4269,,0,https://foresttrailacademy.com/community/student/tuition/,2026-10-08,live,"online school: full-time per grade level K-5 3,069; 6-8 3,669; 9-12 4,269; year not stated",medium,found
 3972,2026-27,8500,8300,,,0,https://img1.wsimg.com/blobby/go/ab609dd2-fa34-4b72-8ece-f78dd8fbd50f/General%20Tuition%20%26%20Fee%20Schedule%202026_2027.pdf,2026-10-08,live,"K-3 8,500; 4-8 8,300; Pre-K excluded; fees separate",high,found
-3986,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 4006,,,,,12000,0,https://www.livingstoneschools.org/parent-resources/tuition/,2026-10-08,live,"academy tuition for school code 4006; resource fees 1,000 separate; year not stated",high,found
 4023,,8000,8100,8300,,0,https://www.jcacademy.org/education-tuition-fees-grade-school-upper-school,2026-10-08,live,"K-5 8,000; 6-8 8,100; 9-12 8,300; page mentions 2025-26 and 2026-27",medium,found
 4048,2026-27,,,,10500,0,https://www.lighthousechristianschool.net/,2026-10-08,live,"total cost per year including registration, books and testing",high,found
@@ -440,7 +404,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 4114,2026-27,13400,16500,,,0,https://alegriamontessori.com/wp-content/uploads/2026/02/upper-campus-tuition-26-27.pdf,2026-10-08,live,"elementary 13,400; middle 16,500; extended-day programme 16,700 excluded",high,found
 4137,,,,,,0,https://www.jcds.com/admissions/tuition-and-affordability,2026-10-08,live,only care fees seen,,unclear
 4139,2026-27,8300,8500,8800,,0,https://www.pclions.org/admissions,2026-10-08,live,"K-5 8,300; 6-8 8,500; 9-12 8,800 (annual); fees separate",high,found
-4158,,,,,,0,https://blossomschool.org/academics/tuition/,2026-10-08,live,"2023-24 monthly rates, number of payments not seen",,unclear
 4174,2026-27,,,,15750,0,https://lwrchristian.org/admissions/,2026-10-08,live,annual tuition per student,high,found
 4185,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 4254,,,,,,0,https://focusdayschool.org/admissions/tuition/,2026-10-08,live,"tuition levels (10,000 and 20,000) are programme levels, not grades",,unclear
@@ -465,7 +428,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 4585,2026-27,,,,9000,0,https://www.schoolmelbourne.com/admissions,2026-10-08,live,K-8,high,found
 4589,2026-27,9023,9517,9929,,0,https://deltonachristianschool.org/admissions/financial-information,2026-10-08,live,"K5-5 9,023; 6-8 9,517; 9-12 9,929 (10 monthly payments); same page as school 1404",high,found
 4593,2026-27,10900,10900,,,0,https://www.pacafl.org/page/Tuition-Fees/130755/Index.html,2026-10-08,live,"elementary and middle school 10,900; non-VPK pre-K 3,000 excluded",high,found
-4595,,,,,,0,https://www.pcalakeland.org/admissions,2026-10-08,live,only fees seen,,unclear
 4614,,,,,,0,https://www.discovercca.org/tuition/,2026-10-08,live,"hybrid part-time tracks, not full-time tuition",,unclear
 4625,2026-27,,,,10900,0,https://christclassical.com/admissions/tuition-and-fees/,2026-10-08,live,"same 10,900 for grammar, logic and rhetoric; preschool excluded",high,found
 4645,,,,,,0,https://turtlerivermontessori.com/wp-content/uploads/2024/04/TRM-SY2425-East-Campus-Tuition-Fee-Schedule-2-Rev-2024-01-19.pdf,2026-10-08,live,2024-25 Montessori rates by programme,,unclear
@@ -521,12 +483,10 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 5477,,,,,,0,https://nfcacademy.com/admissions/program-costs/,2026-10-08,live,online home-teacher programmes,,unclear
 5489,,,,,7000,0,https://www.hopeonlineschool.com/admissions,2026-10-08,live,"online school K-12 per year; dual enrollment 8,000; year not stated",high,found
 5491,,,,,,0,https://aspiringheightsacademy.com/flvs,2026-10-08,live,only FLVS per-segment fee seen,,unclear
-5504,,,,,,0,https://www.ctkpalmcoast.com/ctk-academy--13/pages/admissions--15,2026-10-08,live,scholarship totals only,,unclear
 5505,,,,,,0,https://www.flsouthern.edu/admissions-and-aid/tuition-and-cost/index.html,2026-10-08,live,page read is a university's tuition page,,unclear
 5507,2026-27,,15000,,,0,https://dadeprep.com/hub/tuition-and-fees,2026-10-08,live,"grades 6-8 15,000; fees 350 and 150 separate; other grades not seen",high,found
 5508,2024-25,,,,8600,0,https://gslcdeltona.com/academy/tuition-fees/,2026-10-08,live,"K-5 and 6-8 both 8,600; page shows 2024-25",high,found
 5517,,,,,,0,https://www.thecambridgeacademy.com/tuition,2026-10-08,live,online programme options,,unclear
-5519,,,,,,0,https://www.kendallchristian.com/tuition,2026-10-08,live,only preschool rates seen,,unclear
 5524,,,,,,0,https://americanroyalhighschool.com/tuition-and-financing/,2026-10-08,live,online programme price,,unclear
 5542,2026-27,32300,36400,37800,,0,https://www.ehillel.org/tuition,2026-10-08,live,"K-1 28,900; 2-4 32,300; 5 33,900; 6-8 36,400; 9-12 37,800; pre-K and Nativ excluded",high,found
 5568,,,,,,0,https://hc-pa.com/faq/how-much-money-will-this-cost-me/,2026-10-08,live,umbrella-type fee of about 110 per year,,unclear
@@ -535,7 +495,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 5587,,,,,,0,https://www.camenacademy.com/wp-content/themes/camenacademyez700/pdf/CAPA-2026-2027-Fee-Schedule.pdf,2026-10-08,live,levels 1-4 priced without grade labels,,unclear
 5595,,,,,,0,https://www.foundationacademy.net/admissions/international-information/,2026-10-08,live,international fee only,,unclear
 5598,2026-27,10660,13440,,,0,https://kidshavenacademy.com/tuition-%26-fees-miami,2026-10-08,live,"K-3 10,660; 4-5 11,270; 6-8 13,440; preschool weekly rates excluded",high,found
-5616,,,,,,0,https://springsacademy.org/images/2026-2027_Financial-Information-1.pdf,2026-10-08,live,annual tuition in three unlabelled columns,,unclear
 5625,,,,,,0,https://www.americanhigh.us/tuition-fees/,2026-10-08,live,no tuition amount,,unclear
 5630,2026-27,12000,13250,,,0,https://www.monarchlearningacademy.com/enrollment/tuition-fees.cfm,2026-10-08,live,"K-5 12,000; 6-8 13,250; price varies with the length of the school day",high,found
 5634,2025-26,,,,11900,0,https://www.myaaaschool.net/tuition-and-fees.html,2026-10-08,live,annual tuition; registration and fees 750 separate,high,found
@@ -575,7 +534,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 6298,2026-27,41900,43260,44100,,0,https://bocaschoolforautism.org/admissions/,2026-10-08,live,"K-2 41,900; 3-5 42,750 (tied, lower rate used); 6-8 43,260; 9-12 44,100; school for students with autism",high,found
 6302,2026-27,9145,9695,10135,,0,https://www.fcafalcons.org/editoruploads/files/FCA%202026-2027%20Students%20Tuition%20and%20Fees.docx.pdf,2026-10-08,live,"K-3 9,145; 4-5 9,195; 6-8 9,695; 9-11 10,135",high,found
 6308,,,,,12566,0,https://clatallahassee.org/admission/tuition-fees/,2026-10-08,live,"full-time traditional and hybrid, same for 1-5, 6-8 and 9-12; part-time and half-day options excluded; year not stated",high,found
-6320,,,,,,0,https://crownlifeacademy.com/admissions/rates/,2026-10-08,live,tuition applies to a VPK-linked programme; grades not clear,,unclear
 6323,2025-26,,,,11950,0,https://www.esischools.org/apply,2026-10-08,live,total cost of tuition; families pay a need-based share starting at 250; same page as school 1313,medium,found
 6330,2026-27,,,,9500,0,https://www.exceptionalacademypsl.com/admissions,2026-10-08,live,"base tuition for all grades; total with fees 10,200",high,found
 6336,2026-27,11500,12000,13000,,0,https://www.paideiaclassical.org/wp-content/uploads/2026/03/PCA-Tuition-2026-2027.pdf,2026-10-08,live,"K-5 11,500; 6-8 12,000; 9-12 13,000",high,found
@@ -586,13 +544,10 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 6469,2026-27,,,,29750,0,https://nesthockey.com/wp-content/uploads/2026/08/2026-2027-NHA-Schedule-of-Tuition-and-Fees.pdf,2026-10-08,live,"standard annual tuition at a hockey academy; goalie 14,875 and inaugural class 25,000 excluded",high,found
 6522,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",,network_site_only
 6525,2026-27,18425,19155,19155,,0,https://www.waldorfschoolpalmbeach.org/grades-tuition,2026-10-08,live,"grades 1-4 18,425; 5-8 and 9-11 19,155; 2025-26 rates also shown",high,found
-6542,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 6545,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
-6557,,,,,,0,https://www.myfbalions.com/tuition-financial-assistance,2026-10-08,live,only fees seen,,unclear
 6572,2026-27,10200,10900,,,0,https://wiseorlando.org/admissions/tuition/,2026-10-08,live,"K-5 10,200; middle school 10,900; part-week programmes excluded",high,found
 6596,2026-27,12625,,,,0,https://trinityvero.org/wp-content/uploads/2026/08/Schedule-of-Tuition-Fees-2026-2027-Academic-Year-2.pdf,2026-10-08,live,K-5; PreK excluded,high,found
 6641,,,,,,0,https://www.bannworthacademy.com/,2026-10-08,live,tutoring rates,,unclear
-6684,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 6690,2025-26,,,,16000,1,https://www.reachacademyjax.com/tuition,2026-10-08,live,"classroom tuition ranges 16,000 to 25,000 by level of support; lower figure recorded",medium,found
 6704,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 6719,2026-27,9700,,,,0,https://creativaacademy.com/tuition-financial-aid/,2026-10-08,live,"kindergarten 9,700; other programmes priced weekly",medium,found
@@ -626,7 +581,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 7164,,,,,,0,https://palomaacademy.org/admissions,2026-10-08,live,two unlabelled school-year amounts,,unclear
 7169,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 7199,,2600,2900,,,0,https://ivyglobalschool.org/en/admission/tuition/,2026-10-08,live,"online school live-class tuition per year: elementary 2,600; middle 2,900; account-only options excluded; year not stated",medium,found
-7246,,,,,,0,https://www.ccslancers.com/wp-content/uploads/2026/01/2026-2027-Continuous-Enrollment-Guide.pdf,2026-10-08,live,six unlabelled amounts,,unclear
 7279,,,,,,0,https://www.cristoreyorlando.org/become-a-student/tuition-and-financial-aid,2026-10-08,live,family contribution of about 100 per month,,unclear
 7280,,7620,8000,7660,,0,https://www.meaningfulmilestonesacademy.org/academics,2026-10-08,live,"standard tuition Pre-K-5 7,620; 6-8 8,000; 9-12 7,660; support levels 1-5 are higher and excluded; year not stated",high,found
 7306,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
@@ -662,10 +616,8 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 7800,,,,,,0,https://www.fusionacademy.com/campuses/alexandria/tuition/,2026-10-08,live,per-class rates,,unclear
 7927,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 7929,,,,,,0,https://globalvirtualacademy.com/register/,2026-10-08,live,online pathway programmes,,unclear
-7935,,,,,,0,https://static1.squarespace.com/static/5c8bd87fca525b0b0d9a6df1/t/6a46ba2a6a938e3aba56698c/1783020074868/CLA+2026-2027+TUITION+%26+FEES.pdf,2026-10-08,live,three unlabelled columns by grade group,,unclear
 7952,,,,,13152,0,https://franklinspromisecoalition.wildapricot.org/ED-Corps-High-School/,2026-10-08,live,"annual tuition at a high school (13,211 for seniors); year not stated",high,found
 7970,2026-27,,,,11000,0,https://www.persimmonela.com/tuition-fees,2026-10-08,live,"11,000 per school year in 10 payments; same page as school 4387",medium,found
-7975,,,,,,0,https://providenceschool.education/tuition-scholarships/,2026-10-08,live,tuition tiers without clear labels,,unclear
 7989,,,,,,0,https://spacecoastdiscovery.org/wp-content/uploads/2026/06/Space-Coast-Discovery-Tuition-2026-2027.pdf,2026-10-08,live,weekly early-learning payments,,unclear
 8023,2023-24,,,,20905,0,https://static1.squarespace.com/static/67ad0a9974a99453eba7e3ce/t/68221b6e0a58687560fa2280/1747065710498/Grace+Place+School_Fee+Schedule.pdf,2026-10-08,live,tuition for 2023-24,high,found
 8046,,,,,,0,https://www.puzzleboxacademy.com/tuition-rates/,2026-10-08,live,unlabelled amounts,,unclear
@@ -685,7 +637,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 8263,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 8269,2025-26,,,,16000,0,https://www.careerprepworkforce.org/tuition-fees,2026-10-08,live,grades 6-12; same page as school 2495,high,found
 8290,,,,,,0,https://www.educationalharbor.com/admissions,2026-10-08,live,initial payment only,,unclear
-8291,,,,,,0,https://legacyfl.org/tuition-fees,2026-10-08,live,"two unlabelled tuition columns (12,000 and 15,000)",,unclear
 8302,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 8303,2026-27,,,,13000,0,https://www.urgentacademy.com/tuition,2026-10-08,live,tuition for the 2026-27 school year,high,found
 8315,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
@@ -698,7 +649,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 8454,,,,,,0,https://www.goldenhorizonacademy.com/tuition/,2026-10-08,live,"two annual tuition amounts for two years, order not clear",,unclear
 8456,2026-27,26993,26993,,,0,https://www.saltacademy.org/tuition,2026-10-08,live,"K-8 26,992.90 rounded; high school 32,230 is for 2025-26 and not coded",high,found
 8480,2026-27,12750,,,,0,https://thetreehousectk.org/admissions/tuition/,2026-10-08,live,row for 5-year-olds 8:00-2:30; other levels not seen,medium,found
-8501,,,,,,0,https://ockbridge.church/admissions,2026-10-08,live,two tiers of rates with no clear labels,,unclear
 8514,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 8537,2026-27,12410,14010,15090,,0,https://continuummontessori.com/wp-content/uploads/2026-2027-Tuition-Schedule.pdf,2026-10-08,live,"Montessori levels mapped to grades: lower elementary (1-3) 12,410; upper elementary (4-6) 12,910; middle (7-8) 14,010; high school 15,090",high,found
 8538,,,,,,0,https://greatleapsacademy.org/enrollment/,2026-10-08,live,preschool programme,,unclear
@@ -736,7 +686,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 8992,2026-27,12400,,,,0,https://veritasclassicalschool.org/tuition-fees/,2026-10-08,live,"grammar school K-5 12,400; grade 6 12,665; other middle grades not read; same page as school 4378",high,found
 9064,2026-27,,,,14200,0,https://rootsacademysarasota.com/admissions/,2026-10-08,live,"total annual tuition; learning enrichment, facility and transport fees separate",high,found
 9068,,,,,,0,https://primer.com/tuition,2026-10-08,live,programme of another operator; scholarship focus,,unclear
-9083,,,,,,0,https://www.collagedayschool.org/admissions/tuition-and-financial-aid,2026-10-08,live,monthly rates by age band,,unclear
 9140,2026-27,12000,12500,13000,,0,https://centralbaptistacademy.co/admissions/tuition-fees/,2026-10-08,live,"K 11,500; 1-4 12,000; 5-8 12,500; 9-11 13,000",high,found
 9160,2026-27,,,,12000,0,https://staugustinepioneer.com/admissions/,2026-10-08,live,annual tuition; payments of the difference between tuition and the scholarship,high,found
 9169,2026-27,11500,12000,,,0,https://igniteacademy.education/wp-content/uploads/2026/02/Tuition-and-Fees-26-27.pdf,2026-10-08,live,"K-4 11,500; 5-8 12,000",high,found
@@ -838,7 +787,6 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 6207,,,,,,0,https://gulfbreezemontessori.com/admissions/,2026-10-08,live,deposit only,,unclear
 6214,,,,,9000,0,https://www.bananariverbaptistacademy.com/services-4,2026-10-08,live,all grades; year not stated; registration and book fees separate,high,found
 6338,,,,,,0,https://www.winterhavenmontessori.com/admissions,2026-10-08,live,early childhood monthly rates,,unclear
-6355,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 6718,2026-27,,,,9500,0,https://discoverymontessoriacademy.net/admissions/,2026-10-08,live,"K-12 full day 9,500; VPK 8,500 excluded; registration 500 separate",medium,found
 6835,,,,,,0,https://miamisprings.school/wp-content/uploads/2024/09/Tuition-Fees-MSAS-2024-2025.pdf,2026-10-08,live,"two tuition amounts 8,000 and 7,500 without clear grade labels",,unclear
 7150,,,,,,0,https://tampapinnacleacademy.com/admissions,2026-10-08,live,fees only,,unclear
@@ -855,12 +803,78 @@ school_code,tuition_year,tuition_elem,tuition_mid,tuition_high,tuition_overall,t
 8444,,,,,,0,https://pkg-12.com/dual-enrollment/,2026-10-08,live,virtual dual enrollment programme price,,unclear
 8477,,,,,,0,https://www.wesleychristianacademy.org/tuitionandfees,2026-10-08,live,"monthly rates, months and grades unclear",,unclear
 8865,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
-8882,,,,,,0,https://www.lindisfarnehall.com/admissions/,2026-10-08,live,scholarship information only,,unclear
 8929,2026-27,8000,8000,8000,8000,0,https://www.zlcaa.org/_files/ugd/61ba8d_ae1546e6320f4cf9bfb9b7af7a6ddc6e.pdf,2026-10-08,live,"K-8 and 9-12 both 8,000; books and fees separate",high,found
 9159,,8500,9550,10610,,0,https://www.cppaschool.com/tuition,2026-10-08,live,"Edgewater campus K-5 8,500; 6-8 9,550; 9-12 10,610; hybrid and online excluded; year not stated",high,found
 9277,2025-26,,,,18000,0,https://flexlearningacademy.com/admissions/,2026-10-08,live,annual tuition; registration and technology fee 600 separate,high,found
 9335,2025-26,,,,28000,1,https://bocaratonachievement.org/admissions/,2026-10-08,live,"standard 28,000; intensive support 37,500 and 47,500; range",medium,found
-9403,,,,,,0,,2026-10-08,live,no dollar lines found,,unclear
 9524,2026-27,,,,8100,0,https://gteacademy.org/tuition-fees/,2026-10-08,live,"full-time tuition; first-year total with fees 9,060",high,found
 9753,2026-27,9000,,,,0,https://www.rafikiclassicalacademy.org/tuition-and-fees,2026-10-08,live,"K-7 tuition 9,000; half-day programmes excluded",medium,found
 9785,,8200,,,,0,https://www.rainbowlearningacademy.com/tuition,2026-10-08,live,K-5 annual tuition; year not stated; fees separate,medium,found
+195,,9200,9400,,,0,https://www.olqmfl.com/apps/pages/index.jsp?uREC_ID=488439&type=d&termREC_ID=&pREC_ID=942960&hideMenu=0,2026-10-08,live,"K-7 9,200; 8th grade 9,400 (includes promotion fee); 10 payments; year not stated; pre-K excluded",medium,found
+786,2026-27,8900,8300,8100,,0,https://dayspringca.com/fee-schedule-2026-2027,2026-10-08,live,"K5-3 8,900; 4-8 8,300; 9-12 8,100; K3-K4 excluded",high,found
+850,,9000,,,9000,0,https://www.montessorifwb.com/admissions,2026-10-08,live,"Montessori; K-5 9,000 per year (ten payments of 900); primary ages 3-4 also 9,000; year not stated",medium,found
+1277,2026-27,,,,11462,0,,2026-10-08,live,"ten monthly payments of 1,146.20 starting July 2026; school page also describes K-6 scholarship use",medium,found
+1428,2026-27,11500,13500,13500,,0,,2026-10-08,live,"K5-5th 11,500; 6th-12th 13,500; preschool excluded; fees separate",high,found
+1603,2026-27,12777,13273,,,0,https://fortmyerschristianschool.com/wp-content/uploads/Tuition-Information-26-27.pdf,2026-10-08,live,"K-5 12,777; 6-8 13,273; VPK excluded",high,found
+1799,2025-26,9293,9448,9681,,0,https://www.ocalions.org/editoruploads/files/Tuition%20%26%20Fees%202025-2026.pdf,2026-10-08,live,"K-5 9,293; 6-8 9,448; 9-12 9,681; early education excluded",high,found
+2312,2026-27,14760,15420,15420,,0,https://www.actonacademyfl.com/school-calendar-fees-ethics-handbook,2026-10-08,live,"1,230 per month for ages 6-11 and 1,285 for ages 12-18, 12 payments; registration 950 separate",medium,found
+2397,2026-27,12677,13670,14991,,0,https://www.sfcakings.org/admissions/tuition-fees/,2026-10-08,live,"first-child rates; K-5 12,677; 6-8 13,670; 9-12 14,991; sibling discounts exist",high,found
+3847,2026-27,8000,7400,7200,,0,https://www.csjax.org/(L_4)_-_Tuition_Fee_Schedule_(K5-12th)_(2026-2027)_(01_27_26)_3.pdf,2026-10-08,live,"traditional enrollment: K-3 8,000; 4-8 7,400; 9-12 7,200; academic services programmes excluded",high,found
+4158,2023-24,11700,,,,0,https://blossomschool.org/academics/tuition/,2026-10-08,live,"1,170 per month for 10 payments (Aug-May); page text dated 2022-23/2023-24; K-5 and 6th",low,found
+5519,2026-27,15900,16300,,,0,https://www.kendallchristian.com/tuition,2026-10-08,live,"K4 without VPK and K-5 15,900; 6th-7th 16,300; 8th not seen",medium,found
+5616,2026-27,10400,10600,10800,,0,https://springsacademy.org/images/2026-2027_Financial-Information-1.pdf,2026-10-08,live,"K-3 10,400; 4-8 10,600; 9-12 10,800; tuition includes books and fees",high,found
+6320,2026-27,10805,10805,,,0,https://crownlifeacademy.com/admissions/rates/,2026-10-08,live,"elementary and middle school tuition 10,805; curriculum fee 500 separate",high,found
+6542,2025-26,18000,,,,0,,2026-10-08,live,"kindergarten and first grade only: 18,000 per year",low,found
+7246,2026-27,18500,22000,23500,,0,https://www.ccslancers.com/wp-content/uploads/2026/01/2026-2027-Continuous-Enrollment-Guide.pdf,2026-10-08,live,"K-5 18,500; 6th 20,000; 7-8 22,000; 9-12 23,500; early childhood excluded",high,found
+7935,2026-27,8750,9200,,,1,https://static1.squarespace.com/static/5c8bd87fca525b0b0d9a6df1/t/6a46ba2a6a938e3aba56698c/1783020074868/CLA+2026-2027+TUITION+%26+FEES.pdf,2026-10-08,live,"annual tuition K-2 8,750; 3-5 8,900; 6th 9,200",medium,found
+7975,2026,,,,8400,0,https://providenceschool.education/tuition-scholarships/,2026-10-08,live,"tuition per year 8,400; add-on courses and fees excluded",low,found
+8291,2026-27,,,,15000,0,https://legacyfl.org/tuition-fees,2026-10-08,live,"KG-12 tuition 15,000; PK3-PK4 12,000 excluded",high,found
+8501,2026-27,,7850,7700,,1,https://ockbridge.church/admissions,2026-10-08,live,"tier 1: 6-8 7,850 and 9-12 7,700; tier 2: 8,250 and 8,100",medium,found
+1654,2026-27,,,,21215,0,https://www.morningstarorlando.org/enroll,2026-10-08,live,"special needs school; tuition 21,215 and tuition plus fees 22,465",low,found
+685,2026-27,9617,9495,,,0,,2026-10-08,live,"Ram Scholar programme: K-3 9,617; 4-8 9,495; PK 8,427 and special programmes excluded; school building fund separate",high,found
+789,2026-27,16456,16456,,,0,https://www.hces.org/admissions/tuition-and-fees,2026-10-08,live,"1,371.33 per month for 12 months, grades 1-8 (K 1,246.67 per month); summer camp not included",medium,found
+1167,2026-27,8250,7670,,,0,,2026-10-08,live,"K-3 8,250; 4-8 7,670; from the school's fee schedule PDF",medium,found
+1228,,9498,9856,,,0,https://www.goodshepherd.org/tuition-scholarships,2026-10-08,live,"K-5 9,498; 6-8 9,856; PDF posted 2026 (year not printed); VPK excluded",medium,found
+1305,2026-27,9050,9250,9450,,0,https://www.wcaeagles.org/admissions/scholarships.cfm,2026-10-08,live,"K-5 9,050; 6-8 9,250; 9-12 9,450; preschool excluded",high,found
+1455,2026-27,12900,15150,16500,,0,https://thecrenshawacademy.com/admissions/tuition-and-fees,2026-10-08,live,"US student schedule: K-5 12,900; 6-8 15,150; 9-11 16,500 (monthly rate x 10); international schedule excluded",high,found
+1567,2026-27,10500,12560,,,0,https://www.pcaknights.org/admissions,2026-10-08,live,"K-6 10,500 (K-3 and 4-6 equal); 7-8 12,560; church member discount excluded",medium,found
+1589,2026-27,11569,11057,10781,,0,https://www.venicechristianschool.org/tuition/,2026-10-08,live,"K-3 11,569; 4-8 11,057; 9-12 10,781; Pre-K excluded",high,found
+2162,2026-27,10250,10250,,,0,https://www.stlukepalmsprings.org/admissions,2026-10-08,live,"K-8 tuition 10,250; PreK-3 5,000 excluded; Catholic-family discounts excluded",high,found
+2242,2026-27,9570,9880,10300,,0,,2026-10-08,live,"K-5 9,570; 6-8 9,880; 9-12 10,300; therapy programmes excluded",high,found
+2604,2026-27,9446,9600,,,1,https://stjcs.com/wp-content/uploads/2026/01/2026-2027-Tuition-Rates.pdf,2026-10-08,live,"rate for supporting parishioners K-5 9,446; 6-8 9,600; other families pay more (K-5 11,898)",medium,found
+3130,2026-27,16900,17950,18900,,0,https://www.prov.org/admissions/continuous-enrollment/,2026-10-08,live,"grades 1-5 16,900 (kindergarten 15,600); 6-8 17,950; 9-12 18,900; sibling discount excluded",high,found
+3668,2026-27,17520,20800,21680,,0,https://www.lakemaryprep.com/admissions/tuition-fees,2026-10-08,live,"K-5 17,520; 6-8 20,800; 9-12 21,680",high,found
+3866,2026-27,11525,11900,,,1,https://static1.squarespace.com/static/5ef54ea61250a85af34203a7/t/6a96f52f6127082d0f3da713/1788278063498/Rates+2026-+August+Update+%281%29.pdf,2026-10-08,live,"K5-2 11,400; 3-5 11,650 (mean 11,525); 7-8 11,900; 6th not seen",medium,found
+3986,2026-27,8750,9500,10000,,1,,2026-10-08,live,"K-2 8,500; 3-5 9,000 (mean 8,750); 6-8 9,500; 9-12 10,000",medium,found
+419,2025-26,9110,9110,,,0,https://sjp2.us/tuition/,2026-10-08,live,"K-8 tuition 9,110; Catholic school",high,found
+424,2026-27,15450,16925,,,0,,2026-10-08,live,"K-5 15,450; 6-8 16,925; PreK excluded",high,found
+4595,2026-27,10000,10200,10400,,0,https://www.pcalakeland.org/admissions,2026-10-08,live,"elementary 10,000; middle 10,200; high 10,400",high,found
+513,2026-27,,,18200,,0,https://www.cmhs-sarasota.org/academics/scholarships/,2026-10-08,live,"high school student tuition 18,200; international 19,500 excluded",high,found
+6355,2026-27,7770,8190,8190,,0,,2026-10-08,live,elementary 370 per month and secondary 390 per month for 21 payments,high,found
+638,2026-27,8330,8330,,,0,https://www.fbcs-stuart.org/,2026-10-08,live,"K-8 tuition 8,330; tuition and fees 8,990",high,found
+6557,2026-27,11240,10675,10675,,0,https://www.myfbalions.com/tuition-financial-assistance,2026-10-08,live,"K5-3 11,240; 4-8 10,675; 9-12 10,675",high,found
+6684,2026-27,9000,9300,,,0,,2026-10-08,live,"K5-5 9,000; 6-8 9,300",high,found
+816,2025-26,8800,9000,,,0,https://www.lourdesacademydaytona.org/admissions,2026-10-08,live,"K-5 8,800; 6-8 9,000; technology fees separate",high,found
+836,2026-27,7050,7050,,,0,https://www.lakeviewchristianschool.org/tuition.html,2026-10-08,live,"K-8 annual tuition 7,050; curriculum, technology and supply fees separate",high,found
+9403,2025-26,7425,6825,6694,,0,,2026-10-08,live,"K-3 7,425; 4-8 6,825; 9-12 6,694",high,found
+8,2026-27,,,,9600,0,https://www.chestertonpensacola.org/apply-and-enroll,2026-10-08,live,"annual instructional tuition 9,600 (K-12 classical school)",medium,found
+5504,2025-26,,,,8700,0,https://www.ctkpalmcoast.com/ctk-academy--13/pages/admissions--15,2026-10-08,live,"annual tuition 8,700; grades served not shown on the page",low,found
+2338,2026-27,16875,17150,,,0,https://www.tcspbg.org/admissions/tuition-and-financial-aid.cfm,2026-10-08,live,"elementary 16,875; middle 17,150; preschool excluded",high,found
+2155,2026-27,13165,14873,15978,,1,https://www.highlandschristian.org/faqs,2026-10-08,live,"tuition by single grade (K 12,830 to 12th 16,310); band values are simple means of the grades",medium,found
+9083,2026-27,14761,21198,,,0,https://www.collagedayschool.org/admissions/tuition-and-financial-aid,2026-10-08,live,"elementary K-5 14,761; middle 6-8 21,198; second column (discounted rate) excluded",medium,found
+1549,2026-27,8771,8796,,,0,https://static1.squarespace.com/static/5ede4ccddc6f0d67e7010d59/t/69b2f83b9f887d5f0f59f667/1773336635796/tuition+%2811%29.pdf,2026-10-08,live,"K-5 8,771; 6-8 8,796; VPK full day excluded",high,found
+8882,2026-27,8975,8975,8975,,0,https://www.lindisfarnehall.com/admissions/,2026-10-08,live,"tuition 8,975 for all grades (K-12); totals with fees 9,640-9,810",high,found
+1489,2026-27,13063,,,,0,,2026-10-08,live,"Montessori elementary full day 13,063 per year (1,333 monthly)",medium,found
+1583,2026-27,8705,8500,,,0,,2026-10-08,live,"K-5 8,705; 6-8 8,500; rate without VPK certificate",high,found
+1660,2026-27,9900,9900,,,0,,2026-10-08,live,"K-8 tuition 9,900; academic and activities fee 1,250 separate",high,found
+3472,2026-27,19500,19500,,,0,,2026-10-08,live,"K-8 yearly tuition 19,500",high,found
+3529,2026-27,11000,11000,,,0,,2026-10-08,live,"K-8 programme annual plan 11,000; pre-primary excluded",high,found
+3665,2026-27,28886,29573,,,0,,2026-10-08,live,"K-5 28,886; 6-8 29,573; younger grades excluded",high,found
+3949,2026-27,14850,,,,0,,2026-10-08,live,"Montessori elementary (ages 6-12) 14,850; primary excluded",medium,found
+5454,2026-27,11750,11750,,,0,,2026-10-08,live,"K-8 tuition 11,750 (based on cost to educate); PreK excluded",high,found
+6092,2025-26,7131,6504,6442,,0,,2026-10-08,live,"K5-3 7,131; 4-8 6,504; 9-12 6,442",high,found
+6453,2026-27,,,,14000,1,,2026-10-08,live,"K-12 general education 14,000; service tiers 24,500 to 48,500 excluded",medium,found
+6836,2025-26,8000,7800,,,0,,2026-10-08,live,"elementary 8,000; middle 7,800",high,found
+708,2026-27,9100,9100,9100,,0,,2026-10-08,live,"lower school K-5 and upper school 6-12 both 9,100; page lists 2025-26 and 2026-27",medium,found
+9550,2026-27,9275,10375,10375,,0,,2026-10-08,live,"K-6 9,275; 7-10 10,375",medium,found
+9427,,12600,,,,0,,2026-10-08,live,"1st-6th grade full time 12,600; year not stated",medium,found

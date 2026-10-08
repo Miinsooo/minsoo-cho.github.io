@@ -1,12 +1,10 @@
 # code | year | elem | mid | high | overall | range | confidence | status | note
 5489 |  |  |  |  | 7000 | 0 | high | found | online school K-12 per year; dual enrollment 8,000; year not stated
 5491 |  |  |  |  |  | 0 |  | unclear | only FLVS per-segment fee seen
-5504 |  |  |  |  |  | 0 |  | unclear | scholarship totals only
 5505 |  |  |  |  |  | 0 |  | unclear | page read is a university's tuition page
 5507 | 2026-27 |  | 15000 |  |  | 0 | high | found | grades 6-8 15,000; fees 350 and 150 separate; other grades not seen
 5508 | 2024-25 |  |  |  | 8600 | 0 | high | found | K-5 and 6-8 both 8,600; page shows 2024-25
 5517 |  |  |  |  |  | 0 |  | unclear | online programme options
-5519 |  |  |  |  |  | 0 |  | unclear | only preschool rates seen
 5524 |  |  |  |  |  | 0 |  | unclear | online programme price
 5542 | 2026-27 | 32300 | 36400 | 37800 |  | 0 | high | found | K-1 28,900; 2-4 32,300; 5 33,900; 6-8 36,400; 9-12 37,800; pre-K and Nativ excluded
 5568 |  |  |  |  |  | 0 |  | unclear | umbrella-type fee of about 110 per year
@@ -15,7 +13,6 @@
 5587 |  |  |  |  |  | 0 |  | unclear | levels 1-4 priced without grade labels
 5595 |  |  |  |  |  | 0 |  | unclear | international fee only
 5598 | 2026-27 | 10660 | 13440 |  |  | 0 | high | found | K-3 10,660; 4-5 11,270; 6-8 13,440; preschool weekly rates excluded
-5616 |  |  |  |  |  | 0 |  | unclear | annual tuition in three unlabelled columns
 5625 |  |  |  |  |  | 0 |  | unclear | no tuition amount
 5630 | 2026-27 | 12000 | 13250 |  |  | 0 | high | found | K-5 12,000; 6-8 13,250; price varies with the length of the school day
 5634 | 2025-26 |  |  |  | 11900 | 0 | high | found | annual tuition; registration and fees 750 separate

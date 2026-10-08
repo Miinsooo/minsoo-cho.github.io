@@ -16,7 +16,6 @@
 3116 | 2026-27 | 7750 | 7100 | 7100 |  | 0 | high | found | K-3 7,750; 4-12 7,100; full-year enrollment
 3120 |  |  |  |  |  | 0 |  | unclear | early childhood program rates; same page as school 1962
 3128 |  |  |  |  |  | 0 |  | unclear | preschool monthly rates
-3130 |  |  |  |  |  | 0 |  | unclear | deposit only
 3145 | 2025-26 |  |  |  | 9300 | 0 | high | found | K-12 flat annual rate; same page as school 29
 3163 |  |  |  |  |  | 0 |  | unclear | tracks with two columns of rates without clear labels
 3168 |  | 10400 |  |  |  | 0 | high | found | K5-2nd 10,400; 3rd-5th 10,900 (tied, lower rate used); year not stated; preschool and VPK excluded

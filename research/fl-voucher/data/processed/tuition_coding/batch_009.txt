@@ -6,7 +6,6 @@
 2590 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 2597 | 2026-27 | 37200 | 39300 |  |  | 0 | high | found | K 33,000; 1-2 36,000; 3-5 37,200; 6-8 39,300; PK excluded
 2599 |  |  |  |  |  | 0 |  | unclear | boarding rates only
-2604 |  |  |  |  |  | 0 |  | unclear | two sets of rates with unclear labels
 2609 | 2026-27 |  | 9950 | 11800 |  | 0 | high | found | standard tier: 6-8 9,950; 9-12 11,800; higher remediation tiers excluded
 2618 | 2026-27 |  |  |  | 34000 | 0 | high | found | Plan A pay-in-full 34,000; installment plans total 34,680 and 35,360
 2629 |  |  |  |  |  | 0 |  | unclear | only fees seen

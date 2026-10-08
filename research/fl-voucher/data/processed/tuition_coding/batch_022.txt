@@ -12,7 +12,6 @@
 6207 |  |  |  |  |  | 0 |  | unclear | deposit only
 6214 |  |  |  |  | 9000 | 0 | high | found | all grades; year not stated; registration and book fees separate
 6338 |  |  |  |  |  | 0 |  | unclear | early childhood monthly rates
-6355 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 6718 | 2026-27 |  |  |  | 9500 | 0 | medium | found | K-12 full day 9,500; VPK 8,500 excluded; registration 500 separate
 6835 |  |  |  |  |  | 0 |  | unclear | two tuition amounts 8,000 and 7,500 without clear grade labels
 7150 |  |  |  |  |  | 0 |  | unclear | fees only
@@ -29,12 +28,10 @@
 8444 |  |  |  |  |  | 0 |  | unclear | virtual dual enrollment programme price
 8477 |  |  |  |  |  | 0 |  | unclear | monthly rates, months and grades unclear
 8865 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
-8882 |  |  |  |  |  | 0 |  | unclear | scholarship information only
 8929 | 2026-27 | 8000 | 8000 | 8000 | 8000 | 0 | high | found | K-8 and 9-12 both 8,000; books and fees separate
 9159 |  | 8500 | 9550 | 10610 |  | 0 | high | found | Edgewater campus K-5 8,500; 6-8 9,550; 9-12 10,610; hybrid and online excluded; year not stated
 9277 | 2025-26 |  |  |  | 18000 | 0 | high | found | annual tuition; registration and technology fee 600 separate
 9335 | 2025-26 |  |  |  | 28000 | 1 | medium | found | standard 28,000; intensive support 37,500 and 47,500; range
-9403 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 9524 | 2026-27 |  |  |  | 8100 | 0 | high | found | full-time tuition; first-year total with fees 9,060
 9753 | 2026-27 | 9000 |  |  |  | 0 | medium | found | K-7 tuition 9,000; half-day programmes excluded
 9785 |  | 8200 |  |  |  | 0 | medium | found | K-5 annual tuition; year not stated; fees separate

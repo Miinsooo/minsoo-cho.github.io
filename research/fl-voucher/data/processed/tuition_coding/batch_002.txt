@@ -1,7 +1,6 @@
 # code | year | elem | mid | high | overall | range | confidence | status | note
 488 | 2025-26 |  |  |  | 9688 | 0 | high | found | K-8 flat rate per student; fees separate
 494 |  |  |  |  | 13500 | 0 | high | found | annual tuition paid in 11 monthly installments; year not stated
-513 |  |  |  |  |  | 0 |  | unclear | scholarship information only
 515 |  |  |  |  |  | 0 |  | unclear | scholarship information only
 607 | 2026-27 |  |  |  | 9800 | 0 | high | found | annual tuition; 100 discount for annual payment
 608 | 2026-27 |  |  |  | 25000 | 0 | high | found | full price; sibling discount 1,000 not applied
@@ -10,13 +9,11 @@
 629 | 2026-27 | 14675 | 16375 | 16375 |  | 0 | high | found | K-5 14,675; 6-12 16,375 (same rate for middle and high)
 630 | 2026-27 |  |  |  | 17495 | 0 | high | found | high school tuition; payable monthly, quarterly or annually
 636 |  |  |  |  |  | 0 |  | unclear | no tuition amount in text read
-638 |  |  |  |  |  | 0 |  | unclear | no tuition amount in text read
 640 | 2026-27 | 40200 | 56100 | 56100 |  | 0 | high | found | PK-SK 36,400; grades 1-4 40,200; grades 5-12 56,100
 647 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
 670 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
 678 | 2026-27 | 9500 | 9000 | 9000 |  | 0 | high | found | K-3 9,500; 4-12 9,000; book and supply fees separate
 679 | 2026-27 |  |  |  | 14000 | 0 | high | found | non-Catholic rate; Catholic rate 12,500
-685 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 688 | 2026-27 | 7000 | 6700 | 6600 |  | 0 | high | found | K5-2nd 7,000; 3rd-8th 6,700; 9th-12th 6,600; K-5 tied, lower grade rate used; student fee 800 separate
 704 | 2026-27 | 10690 | 11300 |  |  | 0 | high | found | K-5 10,690; 6-8 11,300; Pre-K 8,000 excluded
 706 | 2026-27 |  |  |  | 15870 | 0 | high | found | high school tuition; international student rate 16,870 excluded
@@ -30,10 +27,8 @@
 769 | 2026-27 | 18500 | 25200 | 25200 |  | 0 | high | found | K 16,900; 1-3 18,500; 4-5 19,900; 6-8 25,200; 9-12 25,200; facilities fee separate
 777 | 2026-27 | 13343 | 15028 |  |  | 0 | medium | found | page shows two rate sets (13,343/15,028 and 12,830/14,450); first assumed to be 2026-27
 779 | 2026-27 | 10313 | 10755 | 10755 |  | 0 | high | found | K-5 10,313; 6-12 10,755
-786 |  |  |  |  |  | 0 |  | unclear | three unlabelled rates (8,900 / 8,300 / 8,100); not coded
 787 | 2026-27 |  |  |  | 10500 | 0 | high | found | tuition; student fee 700 separate
 788 |  | 9450 | 9650 | 9650 |  | 0 | high | found | K-2 9,450; 3-12 9,650; K-5 tied, lower grade rate used; year not stated
-789 |  |  |  |  |  | 0 |  | unclear | monthly rates only, number of payments not seen
 798 | 2026-27 |  |  |  | 10285 | 0 | high | found | K-8 flat rate
 799 | 2026-27 |  |  |  | 23952 | 0 | high | found | non-Catholic rate; Catholic rate 17,364
 800 | 2026-27 | 9440 | 9063 | 9041 |  | 0 | high | found | rates differ slightly by grade; K 9,450; 1-3 9,440; 4 8,869; 5 8,904; 6-7 9,063; 8 9,103; 9-11 9,041; 12 9,116

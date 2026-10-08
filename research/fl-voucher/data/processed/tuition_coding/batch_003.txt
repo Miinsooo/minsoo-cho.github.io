@@ -1,10 +1,7 @@
 # code | year | elem | mid | high | overall | range | confidence | status | note
 813 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
-816 |  |  |  |  |  | 0 |  | unclear | only an application fee seen
 824 | 2026-27 | 13590 | 15400 |  |  | 0 | high | found | K-3 13,590; 4-6 13,955; 7-8 15,400; first column taken as annual tuition (monthly payment about 1/11 of it); fees separate; pre-K excluded
 832 | 2026-27 |  |  |  | 9200 | 0 | high | found | K-8 tuition including textbooks and technology; 9,350 version includes graduation fee; preschool excluded
-836 |  |  |  |  |  | 0 |  | unclear | only a registration fee seen
-850 |  |  |  |  |  | 0 |  | unclear | several programs at 9,000 per year; grade or age levels not clear
 855 |  |  |  |  |  | 0 |  | unclear | test-prep company; page is a blog post, not tuition
 873 | 2026-27 |  |  |  | 13134 | 0 | high | found | K-8 general tuition; constituent (church member) rate 10,736; Pre-K excluded
 880 |  |  |  |  |  | 0 |  | unclear | only a tuition deposit seen
@@ -36,6 +33,5 @@
 1155 |  |  |  |  |  | 0 |  | unclear | amounts in tiers without clear grade labels
 1158 | 2026-27 |  |  |  | 10070 | 0 | high | found | total annual tuition; before/after care separate
 1159 |  |  |  |  | 8500 | 0 | high | found | annual K-12 tuition; year not stated
-1167 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 1169 |  |  |  |  |  | 0 |  | unclear | only scholarship text seen
 1172 | 2026-27 |  |  |  | 10710 | 0 | high | found | full time K-8; part-time and pre-K excluded

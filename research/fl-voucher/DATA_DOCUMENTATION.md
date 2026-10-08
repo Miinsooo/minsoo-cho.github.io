@@ -126,3 +126,9 @@ Planned follow-ups, to send only after a reply or a reasonable wait: school-leve
 - The 79 were read and coded by hand (batches 21-22): 39 more `found`, 40 `unclear`. Some site hits belonged to a different school with a similar name and were coded `unclear`.
 - Coverage after this step (`fl_directory_tuition_2026.csv`, 3,540 schools): found 460, unclear 382, network_site_only 23, tuition_word_no_amount 362, not_reached 639, no_website 300, blocked 20, no own-domain email and not searched 922, no enrollment 432.
 - Coded values are sticker tuition for the year shown on the page (mostly 2025-26 or 2026-27); many pages do not state the year (left blank).
+
+## 9c. Re-reading `unclear` schools and following tuition links (2026-10-08)
+- The 382 `unclear` schools were re-read: saved pages were searched for tuition lines, and 23 more were coded `found` from the saved text (batches 23-24).
+- `scripts/followup_links.py` re-fetches the saved pages of `unclear` (and later `tuition_word_no_amount`) schools, follows links whose text or address mentions tuition, fees, rates or pricing (PDFs on any host, pages on the school's own host), honours robots.txt, 1 request per second per host. Saved text in `data/raw/school_sites/run3` (git-ignored), log in `data/processed/tuition_evidence3.jsonl`.
+- From these documents 33 more schools were coded `found` (batches 25-27). Where a table gave one price per single grade, band values are simple means and `tuition_is_range` is 1.
+- Counts after this step: found 528, unclear 328, tuition_word_no_amount 348 (of 3,540 schools).

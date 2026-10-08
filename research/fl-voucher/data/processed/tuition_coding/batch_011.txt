@@ -9,16 +9,13 @@
 3608 | 2026-27 |  |  |  | 12000 | 0 | high | found | 2026-27 academic year tuition
 3615 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 3655 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
-3668 |  |  |  |  |  | 0 |  | unclear | several different annual amounts across years on the page
 3690 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
 3717 | 2024-25 |  |  |  | 10000 | 0 | high | found | 1,000 per month; academic year 2024-25
 3723 | 2026-27 | 7200 | 7300 |  |  | 0 | high | found | K5-5 7,200; 6-8 7,300; K1-K4 programs excluded
 3750 |  |  |  |  |  | 0 |  | unclear | only enrollment fees seen
 3753 | 2023-24 | 7550 | 6850 | 6850 |  | 0 | high | found | K5-3 7,550; 4-8 6,850; 9-12 6,850; page shows 2023-24
 3787 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
-3847 |  |  |  |  |  | 0 |  | unclear | three unlabelled columns of tiers
 3852 |  |  |  |  |  | 0 |  | unclear | three amounts without clear labels
-3866 |  |  |  |  |  | 0 |  | unclear | childcare weekly rates
 3878 | 2026-27 | 8737 | 10571 | 11136 |  | 0 | high | found | rounded from 8,736.55 / 10,073.40 / 10,570.89 / 11,136.36: K-2 8,737 (K-5 tied, lower rate used); 3-5 10,073; 6-8 10,571; high school 11,136
 3908 | 2026-27 |  |  |  | 12865 | 0 | high | found | monthly 1,236.50
 3916 |  |  |  |  |  | 0 |  | unclear | complex tuition by programme; not coded
@@ -28,7 +25,6 @@
 3956 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 3970 |  | 3069 | 3669 | 4269 |  | 0 | medium | found | online school: full-time per grade level K-5 3,069; 6-8 3,669; 9-12 4,269; year not stated
 3972 | 2026-27 | 8500 | 8300 |  |  | 0 | high | found | K-3 8,500; 4-8 8,300; Pre-K excluded; fees separate
-3986 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 4006 |  |  |  |  | 12000 | 0 | high | found | academy tuition for school code 4006; resource fees 1,000 separate; year not stated
 4023 |  | 8000 | 8100 | 8300 |  | 0 | medium | found | K-5 8,000; 6-8 8,100; 9-12 8,300; page mentions 2025-26 and 2026-27
 4048 | 2026-27 |  |  |  | 10500 | 0 | high | found | total cost per year including registration, books and testing
