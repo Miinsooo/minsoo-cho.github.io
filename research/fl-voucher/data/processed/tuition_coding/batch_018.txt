@@ -1,0 +1,41 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+8207 | 2023-24 | 17000 | 16000 | 14000 |  | 0 | high | found | K-5 17,000; 6-8 16,000; 9-12 14,000 at a school for students with special needs; therapies and employment tracks excluded; same page as school 3599
+8214 |  |  |  |  |  | 0 |  | unclear | only a late fee seen
+8228 | 2026-27 |  |  |  | 11900 | 0 | high | found | K-12 annual; 10 payments of 1,190; Choice and level programmes 14,300-28,500 excluded
+8263 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+8269 | 2025-26 |  |  |  | 16000 | 0 | high | found | grades 6-12; same page as school 2495
+8290 |  |  |  |  |  | 0 |  | unclear | initial payment only
+8291 |  |  |  |  |  | 0 |  | unclear | two unlabelled tuition columns (12,000 and 15,000)
+8302 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+8303 | 2026-27 |  |  |  | 13000 | 0 | high | found | tuition for the 2026-27 school year
+8315 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+8316 | 2026-27 | 13400 | 16500 |  |  | 0 | high | found | elementary 13,400; middle 16,500; same page as school 4114
+8321 | 2027-28 |  |  |  | 21300 | 0 | medium | found | stated tuition per student; family contribution depends on household income
+8342 |  |  |  |  |  | 0 |  | unclear | tuition page found but no clear amount extracted
+8360 |  |  |  |  | 12415 | 0 | medium | found | annual tuition for the school day; part-time and enrichment programmes excluded; year not stated; same page as school 4726
+8377 | 2026-27 | 44000 | 44000 | 38000 |  | 0 | high | found | grades 4-8 44,000; 9-12 38,000; hybrid 4-5 29,000 excluded; school starts at grade 4
+8389 | 2026-27 | 25400 |  |  |  | 0 | medium | found | elementary pay-in-full 25,400; two payments total 25,900; ten payments total 26,400
+8454 |  |  |  |  |  | 0 |  | unclear | two annual tuition amounts for two years, order not clear
+8456 | 2026-27 | 26993 | 26993 |  |  | 0 | high | found | K-8 26,992.90 rounded; high school 32,230 is for 2025-26 and not coded
+8480 | 2026-27 | 12750 |  |  |  | 0 | medium | found | row for 5-year-olds 8:00-2:30; other levels not seen
+8501 |  |  |  |  |  | 0 |  | unclear | two tiers of rates with no clear labels
+8514 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+8537 | 2026-27 | 12410 | 14010 | 15090 |  | 0 | high | found | Montessori levels mapped to grades: lower elementary (1-3) 12,410; upper elementary (4-6) 12,910; middle (7-8) 14,010; high school 15,090
+8538 |  |  |  |  |  | 0 |  | unclear | preschool programme
+8539 |  |  |  |  |  | 0 |  | unclear | monthly rates, number of payments not seen
+8577 | 2025-26 | 8600 | 8000 | 7850 |  | 0 | high | found | K-3 8,600; 4-8 8,000; 9-12 7,850
+8584 | 2026-27 | 9000 |  |  |  | 0 | high | found | KG-5 tuition
+8587 |  |  |  |  | 12000 | 0 | high | found | annual tuition; year not stated
+8617 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+8630 |  |  |  |  |  | 0 |  | unclear | programme of another operator; scholarship focus
+8651 |  |  |  |  |  | 0 |  | unclear | programme of another operator; scholarship focus
+8659 |  |  |  |  |  | 0 |  | unclear | amounts without clear labels
+8665 |  |  |  |  | 23055 | 0 | high | found | tuition for the current year; year not stated
+8684 | 2026-27 | 6950 | 7350 | 7550 |  | 0 | high | found | K-5 6,950; 6-8 7,350; 9-12 7,550; PK excluded; fees separate
+8695 | 2026-27 |  |  |  | 24900 | 0 | high | found | annual tuition; same page as school 2327
+8751 | 2026-27 |  |  |  | 9500 | 0 | high | found | published full-time annual tuition; same page as school 1484
+8756 |  | 13000 | 12000 | 12000 |  | 0 | high | found | base tuition: PreK-5 13,000; 6-8 12,000; 9-10 12,000; 11-12 11,000 (9-12 tied, lower rate used); same page as school 6865; year not stated
+8763 | 2025-26 |  |  |  | 16000 | 0 | high | found | grades 6-12; same page as school 2495
+8765 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+8766 |  | 7580 | 7230 |  |  | 0 | high | found | K-4 7,580; 5-8 7,230; books and resources separate; year not stated
+8786 |  |  |  |  |  | 0 |  | unclear | only fees seen
