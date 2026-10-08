@@ -27,11 +27,16 @@ Update this file **whenever a dataset is added or changed**. Never describe a so
 ## 2. School covariates
 | Item | Value |
 |---|---|
-| Status | planned |
-| Source | NCES Private School Universe Survey (PSS), biennial |
-| Years | 2017-18, 2019-20, 2021-22, 2023-24 (availability to verify) |
-| Used for | enrollment, grade range, religious affiliation. Whether PSS contains tuition is to be verified; assumed not. |
+| Status | collected (raw only; not yet cleaned) |
+| Source | NCES Private School Universe Survey (PSS), public-use CSVs, biennial |
+| URL | https://nces.ed.gov/surveys/pss/pssdata.asp (files under `/surveys/pss/zip/`) |
+| Retrieved | 2026-10-08 via `scripts/download_pss.sh` (raw files in `data/raw/nces_pss/2026-10-08/`, git-ignored; listed in `data/raw/SOURCE_LOG.csv`) |
+| Waves | 2017-18, 2019-20, 2021-22, 2023-24 |
+| Florida schools (`PSTABB == FL`) | 1,850 / 1,724 / 1,937 / 2,003 |
+| Useful variables | `NUMSTUDS` enrollment, `LEVEL` grade level, `RELIG` religion, `PCNTY` county, latitude/longitude, `PPIN` school ID |
+| Tuition | No tuition variable found in the 2021-22 codebook text or layout. Other waves' codebooks not checked. |
 | Linkage to frame | _matching rule (name + address / PSS ID) to fill in_ |
+| Known issues | Biennial only; no wave between the pre-period years or for 2022-23. Variable names are coded (`P135` etc.); decode with the codebook before use. The 2023-24 layout file link on the PSS page returned 404. |
 
 ## 3. Scholarship participation
 | Item | Value |
