@@ -112,3 +112,10 @@ _Add entries as: date · dataset · inputs · script · what changed._
 | Coverage | found 426 (about 14% of the 3,108 schools with enrollment); unclear 337; network site only 23; tuition word but no amount 324; tuition page not reached 578; no website at the email domain 334; blocked by robots.txt 19; not attempted: 1,067 with no own-domain email, 432 with zero enrollment |
 | Values found | elementary n=199, median 12,000; middle n=181, median 12,500; high n=130, median 13,050; overall-only n=210, median 12,000. Years on the pages: 2026-27 for 293 schools, blank for 82, 2025-26 for 28, 2023-24 for 8, 2024-25 for 7, 2027-28 for 7, 2020-21 for 1. Confidence: high 341, medium 82, low 3. |
 | Known issues | (1) Coverage is far from complete and not random: schools with an own-domain email, a public tuition page and a plain price list are over-represented. (2) The tuition year is not always the same; most are 2026-27. (3) A few values are for online or special-needs schools with very different prices (minimum 2,600, maximum 57,300). (4) Grade-band rules (largest number of grades; non-member rate; pay-in-full) are judgement calls recorded in `tuition_note`. (5) The 337 `unclear` schools mostly show unlabelled tables, fee-only pages or several programmes and could be recoded with more reading. (6) Past years are not yet collected; Wayback snapshots of the same pages are the planned source. |
+
+## 10. Public records requests log
+| Date sent | To | What was requested | Status |
+|---|---|---|---|
+| 2026-10-08 (reported by the project owner) | PRR@fldoe.org | Directory of Private Schools files, school years 2017-18 to 2024-25, in the format of the current "Download School Contact List" file (current file attached as an example); one request only | sent, no reply yet |
+
+Planned follow-ups, to send only after a reply or a reasonable wait: school-level scholarship participation (FTC, FES-EO, FES-UA) by year; FES-EO by district; tuition or fee schedules if the Department holds any (drafts in `docs/public_records_request_draft.md`).
