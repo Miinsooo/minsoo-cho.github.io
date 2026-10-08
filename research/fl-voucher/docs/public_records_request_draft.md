@@ -15,7 +15,7 @@ Under Chapter 119, Florida Statutes, I request electronic copies of the followin
 For each private school and year: school code, school name, address and county/district, religious/non-profit status, grade levels served, enrollment by grade (PK-12), date of survey submission, and any open/closed status.
 
 **2. Historical versions of the Directory of Private Schools.**
-The annual directory file for each school year 2017-18 through 2024-25, in the same format as the current "Download School Contact List" file, including the scholarship participation indicators as they stood in each year.
+The annual directory file for each school year 2017-18 through 2024-25, in the same format as the current "Download School Contact List" file, including the scholarship participation indicators as they stood in each year. (The Directory's download form as it appeared in June 2019 offered these fields: district, non-profit status, accreditation, Florida Tax Credit Scholarship participant, McKay Scholarship participant, religious status, denomination, and total enrollment. Please provide those fields for each year.)
 
 **3. Scholarship participation by private school and year, 2017-18 through 2024-25.**
 For each participating private school and year, for the Florida Tax Credit Scholarship (FTC), the Family Empowerment Scholarship for Educational Options (FES-EO), and the Family Empowerment Scholarship for Students with Unique Abilities (FES-UA) (and predecessor Gardiner/McKay programs if kept in the same system): school code, number of funded students, total dollars funded, and the years the school was approved to participate.
