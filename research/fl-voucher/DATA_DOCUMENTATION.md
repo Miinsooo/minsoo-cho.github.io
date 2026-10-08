@@ -77,3 +77,14 @@ _Add entries as: date · dataset · inputs · script · what changed._
 | Processed | `data/processed/fl_private_state_totals.csv`, transcribed by hand from p.2 |
 | Used for | state-level trend check (e.g. enrollment 416,084 in 2021-22 to 466,004 in 2023-24); possible district-level demand measure if earlier-year reports are obtained |
 | Known issues | No school-level data. School counts here (3,016 in 2023-24; 3,252 in 2024-25) count schools that submitted survey enrollment data, so they are smaller than the 3,540 rows in the 2026 directory snapshot, which includes zero-enrollment entries. 2020-21 enrollment dips (364,420), likely pandemic-related. Report counts are unverified by FLDOE. |
+
+## 7. Pre-policy scholarship exposure by district (FTC quarterly report)
+| Item | Value |
+|---|---|
+| Status | collected for the June 2023 report (2022-23 school year); other quarters/years not yet obtained |
+| Source | FLDOE, "Florida Tax Credit Scholarship Program June 2023 Quarterly Report" (PDF), from K-12 Scholarship Programs > Florida Tax Credit > Quarterly Reports |
+| Retrieved | 2026-10-08, downloaded manually by the project owner; `data/raw/fldoe_ftc_quarterly/2026-10-08/FTC-Jun-2023-Q-Report.pdf` (git-ignored) |
+| Contents | By district: FTC students and total funded (2022-23, Sept 2022 to April 2023 payment periods); number of private schools serving FTC students. State totals: 100,025 students, $697,707,460 funded, 2,083 schools. Also grade, gender, race and SFO breakdowns. |
+| Processed | `data/processed/fl_ftc_district_2022_23.csv`, parsed from p.1-2; totals match the report's totals |
+| Used for | candidate pre-policy exposure at the district level: FTC students per private-school student (needs the 2022-23 district private enrollment from the matching annual report) |
+| Known issues | District level only, no school-level data. FTC only: FES-EO/UA students of that year are not included. Report states participants are those who received funding. The report was read from a PDF text layer; verified against report totals. |
