@@ -101,3 +101,15 @@ _Add entries as: date · dataset · inputs · script · what changed._
 | Processed | `data/processed/fl_fes_state_aggregates.csv`, hand-transcribed from the report text |
 | Contents | Participating schools with FES students in grades 3-10: 1,385 (2020-21), 1,682 (2021-22), 1,777 (2022-23). FES students in grades 3-10: 11,710, 36,348, 47,036. Students with valid test scores: 10,466, 32,693, 44,112. |
 | Known issues | (1) Grades 3-10 only (the tested grades), so these are not total FES participants. (2) No district-level counts. (3) The 2022-23 report has an appendix listing about 208 schools with 30 or more students with gain scores (school name and city, no school code). This is a large-school subset, not a full participant list; not yet parsed or linked. (4) The sharp rise from 2020-21 to 2021-22 alongside the fall in FTC students (section 7) suggests students moved from FTC to FES-EO; not verified. |
+
+## 9. School-level tuition: feasibility pilot (not a dataset)
+| Item | Value |
+|---|---|
+| Status | pilot only; no usable tuition data yet |
+| Method | `scripts/parse_fldoe_directory.py` builds `data/processed/fl_directory_2026.csv` from the FLDOE directory (3,540 schools; personal emails dropped, email domain kept). `scripts/pilot_tuition.py` samples 60 schools at random (seed 42) from the 1,865 enrolled schools whose email is on their own domain (domain shared by at most 3 schools), guesses the homepage from that domain, follows links containing tuition/fee/admission/apply/enroll (up to 4 pages), and keeps dollar amounts found near the word "tuition". Checks robots.txt, one request at a time, 1 s apart. |
+| Run | 2026-10-08. Output `data/processed/pilot_tuition.csv`; fetched pages in `data/raw/school_sites/<date>/` (git-ignored). |
+| Result (60 schools) | Homepage found at the email domain: 48. robots.txt disallowed: 1. Dollar amount near "tuition" found: 18. Tuition page reached but no amount near the word: 8. No page mentioning tuition reached: 21. No homepage at the email domain: 12. |
+| Coverage of the method | Only 2,054 of 3,108 enrolled schools (66%) have an email on a non-free-mail domain, so about a third of schools need another way to find their website. |
+| Quality | Amounts are raw text matches. Many hits mix tuition with fees, deposits, monthly payments, per-grade rates and discounts (for example lists such as $100 $187.50 $250). Annual tuition by grade cannot be read off these matches without a parsing step or manual review. Hits were not checked against the pages. |
+| Not yet tried | PDF tuition schedules, JavaScript-rendered pages, finding websites for schools without an own-domain email (for example by search), and Wayback snapshots of tuition pages for earlier years. |
+| Implication | A plain scrape of links and nearby dollar amounts reaches a usable page for roughly a third of the sample at best. Collecting tuition for the full frame, and for earlier years, needs a more careful method and some manual checking. |
