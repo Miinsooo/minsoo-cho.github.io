@@ -1,0 +1,41 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+4758 |  |  |  |  |  | 0 |  | unclear | programs priced by type; same page as school 1107
+4775 |  |  |  |  |  | 0 |  | unclear | blog post, not tuition
+4784 | 2026-27 |  |  |  | 11000 | 0 | high | found | same 11,000 for K-5, 6-8 and 9-12
+4786 | 2027-28 | 8737 | 10571 | 11136 |  | 0 | high | found | rounded: K-2 8,736.55 (K-5 tied, lower rate used); 3-5 10,073.40; 6-8 10,570.89; high school 11,136.36
+4840 | 2026-27 |  |  |  | 10500 | 0 | high | found | total cost per year including registration, books and testing
+4851 | 2027-28 |  | 4300 | 4900 |  | 0 | high | found | middle school 4,300; high school 4,900; pay-in-full 10% discount not applied
+4882 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
+4892 | 2026-27 | 9732 | 9864 | 9960 |  | 0 | high | found | K-5 9,732; 6-8 9,864; 9-12 9,960 (full tuition before scholarship); preschool and VPK excluded
+4904 | 2026-27 |  |  |  | 7300 | 0 | high | found | K-7 first student; siblings 7,100 / 6,900 / 6,700; fees separate
+4943 |  |  |  |  |  | 0 |  | unclear | only deposit and care fees seen; same page as school 457
+4952 |  |  |  |  |  | 0 |  | unclear | blog post, not tuition
+5039 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+5072 | 2026-27 | 8200 | 7600 | 7600 |  | 0 | high | found | K-3 8,200; 4th-high school 7,600; fees separate
+5075 | 2026-27 |  |  |  | 11000 | 0 | high | found | full-time Monday-Friday annual; part-time options excluded
+5087 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+5093 |  |  |  |  |  | 0 |  | unclear | blog post, not tuition
+5094 |  |  |  |  |  | 0 |  | unclear | blog post, not tuition
+5102 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+5123 |  |  |  |  |  | 0 |  | unclear | only fees seen
+5127 |  |  |  |  |  | 0 |  | unclear | only kindergarten rate visible
+5163 | 2026-27 | 12100 | 12600 |  |  | 0 | high | found | K 11,500; 1-5 12,100; 6-8 12,600; fees separate
+5165 | 2026-27 | 12300 |  |  |  | 0 | medium | found | K-5 amount read as tuition (150 and 1,000 are fees); other grades not seen
+5166 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+5169 |  |  |  |  | 26500 | 0 | medium | found | tuition marked with an asterisk; year not stated
+5226 | 2026-27 |  |  |  | 10500 | 0 | high | found | total cost per year including registration, books and testing
+5236 |  | 10100 | 9950 | 9950 |  | 0 | medium | found | grades 3-5 10,100; 6-8 and 9-12 9,950; K-2 not seen; year not stated
+5268 | 2026-27 | 11500 |  |  |  | 0 | high | found | annual tuition K-5; other grades not seen
+5269 | 2026-27 | 10500 | 10500 | 12750 |  | 0 | high | found | K-8 10,500; 9-12 12,750; books and supplies fee separate; Pre-K excluded
+5282 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+5354 | 2026-27 | 12810 | 13550 | 14390 |  | 0 | medium | found | K-5 12,810; 6-8 13,550; 9th 14,390; 10th 15,120 (9-10 tied, lower rate used); first column read as tuition
+5373 |  |  |  |  |  | 0 |  | unclear | monthly rates, number of payments not seen
+5383 | 2026-27 |  |  |  | 21195 | 0 | high | found | K5-8 flat; K4 19,255 excluded; same page as school 2016
+5435 | 2026-27 |  |  |  | 21195 | 0 | high | found | K5-8 flat; K4 19,255 excluded; same page as school 2016
+5448 | 2025-26 | 11050 |  |  |  | 0 | high | found | K5 10,695; 1-5 11,050; 6th 12,050; other grades not seen; page shows 2025-26
+5449 |  |  |  |  | 14800 | 0 | medium | found | option 2 without therapies at a school for children with developmental needs; option 1 with therapies 18,600; year ambiguous (2026-27 and 2022-23)
+5456 | 2026-27 |  |  |  | 40000 | 0 | high | found | all students K-8
+5463 |  |  |  |  |  | 0 |  | unclear | only cost to educate seen
+5470 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+5473 |  |  |  |  | 29000 | 0 | high | found | annual tuition for a 180-day school year; year not stated
+5477 |  |  |  |  |  | 0 |  | unclear | online home-teacher programmes
