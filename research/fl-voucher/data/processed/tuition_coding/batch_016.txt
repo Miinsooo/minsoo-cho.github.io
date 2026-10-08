@@ -1,0 +1,41 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+6807 |  |  |  |  |  | 0 |  | unclear | early childhood programme with age-based rates
+6865 |  | 13000 | 12000 | 12000 |  | 0 | high | found | base tuition: PreK-5 13,000; 6-8 12,000; 9-10 12,000; 11-12 11,000 (9-12 tied, lower rate used); supplemental services excluded; year not stated
+6877 |  | 8300 | 8450 | 8450 |  | 0 | high | found | PreK and K 8,100; elementary 8,300; secondary and high school 8,450; year not stated
+6895 |  |  |  |  |  | 0 |  | unclear | childcare offers only
+6925 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+6940 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+6950 |  |  |  |  | 20500 | 0 | high | found | annual tuition at a high school; year not stated
+6953 |  |  |  |  | 18000 | 0 | high | found | school year tuition; enrollment fee of 1,800 applied toward tuition; year not stated
+6957 |  |  |  |  | 18000 | 0 | high | found | autism center tuition; resource fees 2,000 separate; year not stated
+6958 | 2026-27 | 25600 | 25600 |  |  | 0 | medium | found | grades 3-8 25,600; K-2 not seen
+6987 | 2026-27 | 29350 | 30750 | 31500 |  | 0 | high | found | K-5 29,350; middle 30,750; upper 31,500; same page as school 2484
+6994 | 2026-27 |  |  |  | 7000 | 0 | high | found | K-8 tuition; books and materials 2,000 and arts programme 1,000 listed as separate annual charges
+6998 | 2023-24 |  |  |  | 8500 | 0 | high | found | annual tuition for 2023-24
+7077 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+7083 |  |  |  |  |  | 0 |  | unclear | only a K5 line with unclear columns; same page as school 1679
+7098 |  |  |  |  | 8240 | 0 | medium | found | paid monthly, semi-annually or annually; year not stated
+7104 |  |  |  |  |  | 0 |  | unclear | only aftercare and fees seen; same page as school 1043
+7106 |  | 2600 | 2700 | 3700 |  | 0 | medium | found | online school: full-payment fees elementary 2,600; middle 2,700; high school 3,700; year not stated
+7109 |  |  |  |  | 26500 | 0 | medium | found | tuition marked with an asterisk; year not stated; same page as school 5169
+7110 | 2026-27 |  |  |  | 27804 | 0 | high | found | paid in full on June 5; monthly 2,398 for June to May
+7127 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+7130 |  |  |  |  |  | 0 |  | unclear | income cap only
+7136 | 2026-27 |  | 50000 | 54500 |  | 0 | high | found | full tuition: middle school 50,000; upper school 54,500; aid tiers excluded
+7138 | 2026-27 | 13000 | 13500 | 14000 |  | 0 | high | found | K-5 13,000; 6-8 13,500; 9-10 14,000; 11-12 14,500 (9-12 tied, lower rate used); PreK excluded; activity fees separate
+7164 |  |  |  |  |  | 0 |  | unclear | two unlabelled school-year amounts
+7169 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+7199 |  | 2600 | 2900 |  |  | 0 | medium | found | online school live-class tuition per year: elementary 2,600; middle 2,900; account-only options excluded; year not stated
+7246 |  |  |  |  |  | 0 |  | unclear | six unlabelled amounts
+7279 |  |  |  |  |  | 0 |  | unclear | family contribution of about 100 per month
+7280 |  | 7620 | 8000 | 7660 |  | 0 | high | found | standard tuition Pre-K-5 7,620; 6-8 8,000; 9-12 7,660; support levels 1-5 are higher and excluded; year not stated
+7306 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+7323 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+7327 | 2026-27 |  |  |  | 12000 | 0 | high | found | tuition at a high school; books and supplies 650 separate
+7344 | 2024-25 | 8385 | 7789 | 7654 |  | 0 | high | found | general tuition (non-ESE): K-5 8,385; 6-8 7,789; high school 7,654; a separate ESE programme costs 18,050 to 22,850
+7399 | 2026-27 |  |  |  | 8000 | 0 | high | found | K5-12; K4 7,200 including fees; 1,200 fees separate
+7446 |  |  |  |  |  | 0 |  | unclear | programmes priced by type, not grade
+7477 | 2024-25 |  |  |  | 19100 | 0 | high | found | tuition for the 2024-25 school year
+7482 | 2025-26 |  |  |  | 16000 | 0 | high | found | grades 6-12
+7495 | 2026-27 |  |  |  | 12300 | 0 | high | found | full-time K-8 paid in full by July 1; 5% finance fee for installments
+7503 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year

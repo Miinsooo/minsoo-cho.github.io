@@ -1,0 +1,41 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+5489 |  |  |  |  | 7000 | 0 | high | found | online school K-12 per year; dual enrollment 8,000; year not stated
+5491 |  |  |  |  |  | 0 |  | unclear | only FLVS per-segment fee seen
+5504 |  |  |  |  |  | 0 |  | unclear | scholarship totals only
+5505 |  |  |  |  |  | 0 |  | unclear | page read is a university's tuition page
+5507 | 2026-27 |  | 15000 |  |  | 0 | high | found | grades 6-8 15,000; fees 350 and 150 separate; other grades not seen
+5508 | 2024-25 |  |  |  | 8600 | 0 | high | found | K-5 and 6-8 both 8,600; page shows 2024-25
+5517 |  |  |  |  |  | 0 |  | unclear | online programme options
+5519 |  |  |  |  |  | 0 |  | unclear | only preschool rates seen
+5524 |  |  |  |  |  | 0 |  | unclear | online programme price
+5542 | 2026-27 | 32300 | 36400 | 37800 |  | 0 | high | found | K-1 28,900; 2-4 32,300; 5 33,900; 6-8 36,400; 9-12 37,800; pre-K and Nativ excluded
+5568 |  |  |  |  |  | 0 |  | unclear | umbrella-type fee of about 110 per year
+5580 | 2026-27 | 11600 |  |  |  | 0 | medium | found | Track I K-5 11,600; Track II with therapy 17,490-21,490 excluded; high school Track I 12,500 or 13,250 not coded
+5582 | 2026-27 |  |  |  | 35000 | 0 | low | found | amount is listed as tuition and fees combined; registration fee 1,090 separate
+5587 |  |  |  |  |  | 0 |  | unclear | levels 1-4 priced without grade labels
+5595 |  |  |  |  |  | 0 |  | unclear | international fee only
+5598 | 2026-27 | 10660 | 13440 |  |  | 0 | high | found | K-3 10,660; 4-5 11,270; 6-8 13,440; preschool weekly rates excluded
+5616 |  |  |  |  |  | 0 |  | unclear | annual tuition in three unlabelled columns
+5625 |  |  |  |  |  | 0 |  | unclear | no tuition amount
+5630 | 2026-27 | 12000 | 13250 |  |  | 0 | high | found | K-5 12,000; 6-8 13,250; price varies with the length of the school day
+5634 | 2025-26 |  |  |  | 11900 | 0 | high | found | annual tuition; registration and fees 750 separate
+5647 |  |  |  |  | 14000 | 0 | high | found | elementary and middle school per year; preschool excluded; year not stated
+5652 |  |  |  |  |  | 0 |  | unclear | application fee only
+5684 | 2024-25 | 8267 | 7621 | 7500 |  | 0 | high | found | K-3 8,267; 4-8 7,621; 9-12 7,500; unique abilities tuition 7,300 excluded; page shows 2024-25
+5685 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+5700 | 2026-27 |  |  |  | 6750 | 0 | high | found | K5-12 per child including lunch; fees separate
+5714 | 2026-27 | 14550 |  |  |  | 0 | high | found | K-5 annual tuition; lunch and supply fees separate
+5721 |  | 30430 |  |  |  | 0 | medium | found | derived: 10 installments of 3,043 for grades 1-5; K 2,481 x 10; same page as school 2802
+5736 |  |  |  |  |  | 0 |  | unclear | only the second-child rate was visible
+5740 | 2024-25 | 13595 | 14995 | 14995 |  | 0 | high | found | K 12,995; 1-3 13,595; 4-5 13,995; 6-8 14,995; high school 14,995; page labels the K rate 2024-25
+5743 |  |  |  |  |  | 0 |  | unclear | online programme prices without clear labels
+5769 | 2026-27 |  |  |  | 16900 | 0 | high | found | grades K-7; 2025-26 was 16,800 for K-6
+5770 |  |  |  |  |  | 0 |  | unclear | programmes and care fees only
+5780 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+5784 | 2026-27 | 8300 | 8000 | 8000 |  | 0 | high | found | K4-K5 8,000; 1-5 8,300; 6-8 8,000; 9-12 8,000
+5792 | 2026-27 | 8950 | 8350 | 8200 |  | 0 | high | found | K-3 8,950; 4-8 8,350; 9-12 8,200; technology fee 500 separate
+5832 | 2023-24 | 17000 | 16000 | 14000 |  | 0 | high | found | K-5 17,000; 6-8 16,000; 9-12 14,000 at a school for students with special needs; therapies and employment tracks excluded; same page as school 3599
+5860 |  |  |  |  | 15000 | 0 | medium | found | tuition per year as listed; context and year not stated
+5909 |  |  |  |  |  | 0 |  | unclear | family contribution range for a work-study school
+5941 |  | 16950 | 16950 | 17450 |  | 0 | high | found | K-8 16,950; 9-12 17,450; nursery to pre-K excluded; dorm fee separate; year not stated
+5944 | 2026-27 | 13500 |  |  |  | 0 | high | found | elementary tuition per year; security fee 540 separate
