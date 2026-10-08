@@ -70,21 +70,23 @@ _Add entries as: date · dataset · inputs · script · what changed._
 ## 6. State and district aggregates (private school annual reports)
 | Item | Value |
 |---|---|
-| Status | collected for 2024-25 report; earlier-year reports not yet obtained |
-| Source | FLDOE Office of Independent Education and Parental Choice, "Florida's Private Schools 2024-25 Annual Report" (PDF), from K-12 Private Schools > Private School Annual Reports |
-| Retrieved | 2026-10-08, downloaded manually by the project owner; `data/raw/fldoe_annual_report/2026-10-08/PS-AnnualReport2025.pdf` (git-ignored) |
-| Contents | State enrollment and number of schools 2015-16 to 2024-25 (p.2); 2024-25 enrollment by grade and by district (p.3-4); 2024-25 number of schools by district |
-| Processed | `data/processed/fl_private_state_totals.csv`, transcribed by hand from p.2 |
-| Used for | state-level trend check (e.g. enrollment 416,084 in 2021-22 to 466,004 in 2023-24); possible district-level demand measure if earlier-year reports are obtained |
-| Known issues | No school-level data. School counts here (3,016 in 2023-24; 3,252 in 2024-25) count schools that submitted survey enrollment data, so they are smaller than the 3,540 rows in the 2026 directory snapshot, which includes zero-enrollment entries. 2020-21 enrollment dips (364,420), likely pandemic-related. Report counts are unverified by FLDOE. |
+| Status | built (district x year panel, 2018-19 to 2024-25) |
+| Source | FLDOE Office of Independent Education and Parental Choice, "Florida's Private Schools Annual Report" PDFs, from K-12 Private Schools > Private School Annual Reports |
+| Retrieved | 2026-10-08, downloaded manually by the project owner; `data/raw/fldoe_annual_report/2026-10-08/PS-AnnualReport{1819,1920,2021,2022,2023,2024,2025}.pdf` (git-ignored). File tag = school year end, e.g. 2025 is 2024-25; 1819 is 2018-19 |
+| Contents | Enrollment by grade (PK-12) and district; number of private schools by district; for 2018-19 to 2022-23 also public school enrollment by district; state totals 2015-16 to 2024-25 |
+| Processed | `data/processed/fl_private_district_panel.csv` (458 rows: district x year, built by `scripts/parse_annual_reports.py`); `data/processed/fl_private_state_totals.csv` (hand-transcribed from the 2024-25 report p.2) |
+| Checks | For every year, summed district enrollment equals the report's state total by grade and in total; summed school counts equal the stated total except 2023-24 (see below); where the report gives public enrollment, its private column equals the district enrollment |
+| Used for | district-level private enrollment (denominator for scholarship exposure) and, 2018-19 to 2022-23, private share of PK-12 enrollment |
+| Known issues | (1) No school-level data. (2) Districts with no private schools are absent from a year's table (64 to 66 of 67 districts appear), not zero-filled. (3) 2023-24: district school counts sum to 3,013 but the report states 3,016; the district rows are kept as printed. (4) Public enrollment is blank for 2023-24 and 2024-25 because those reports have no such table. (5) School counts here count schools that submitted enrollment data, fewer than the 3,540 rows in the 2026 directory snapshot. (6) 2020-21 enrollment dips to 364,420, likely pandemic-related. (7) FLDOE does not verify survey data. |
 
-## 7. Pre-policy scholarship exposure by district (FTC quarterly report)
+## 7. Pre-policy scholarship exposure by district (FTC quarterly reports)
 | Item | Value |
 |---|---|
-| Status | collected for the June 2023 report (2022-23 school year); other quarters/years not yet obtained |
-| Source | FLDOE, "Florida Tax Credit Scholarship Program June 2023 Quarterly Report" (PDF), from K-12 Scholarship Programs > Florida Tax Credit > Quarterly Reports |
-| Retrieved | 2026-10-08, downloaded manually by the project owner; `data/raw/fldoe_ftc_quarterly/2026-10-08/FTC-Jun-2023-Q-Report.pdf` (git-ignored) |
-| Contents | By district: FTC students and total funded (2022-23, Sept 2022 to April 2023 payment periods); number of private schools serving FTC students. State totals: 100,025 students, $697,707,460 funded, 2,083 schools. Also grade, gender, race and SFO breakdowns. |
-| Processed | `data/processed/fl_ftc_district_2022_23.csv`, parsed from p.1-2; totals match the report's totals |
-| Used for | candidate pre-policy exposure at the district level: FTC students per private-school student (needs the 2022-23 district private enrollment from the matching annual report) |
-| Known issues | District level only, no school-level data. FTC only: FES-EO/UA students of that year are not included. Report states participants are those who received funding. The report was read from a PDF text layer; verified against report totals. |
+| Status | built for 2022-23 only; earlier school years not yet obtained |
+| Source | FLDOE, "Florida Tax Credit Scholarship Program Quarterly Report" PDFs (Sept 2022, Nov 2022, Feb 2023, June 2023), from K-12 Scholarship Programs > Florida Tax Credit > Quarterly Reports |
+| Retrieved | 2026-10-08, downloaded manually by the project owner; `data/raw/fldoe_ftc_quarterly/2026-10-08/FTC-{Sept-2022,Nov-2022,Feb-2023,Jun-2023}-Q-Report.pdf` (git-ignored) |
+| Contents | By district: FTC students, total funded, private schools serving FTC students. Reports are cumulative over the 2022-23 payment periods so far: students 90,432 (Sept), 92,029 (Nov), 97,008 (Feb), 100,025 (June); June funded total $697,707,460, 2,083 schools. |
+| Processed | `data/processed/fl_ftc_district_2022_23.csv` (268 rows: report x district), built by `scripts/parse_ftc_quarterly.py` |
+| Checks | Summed district students and school counts equal each report's printed totals. Summed district funding differs from the printed total by $2 to $10 in three reports (rounding in the source). |
+| Used for | candidate pre-policy exposure at the district level: FTC students per private-school student, using the district enrollment in section 6 |
+| Known issues | District level only. FTC only; FES-EO students of the same years are not included. The school-count table lists 66 districts in the first three reports (one district absent, presumably none). Counts include only students who received funding. |
