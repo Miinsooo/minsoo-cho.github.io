@@ -12,7 +12,7 @@ status = sys.argv[sys.argv.index("--status") + 1] if "--status" in sys.argv else
 coded = set()
 if os.path.exists("data/processed/fl_tuition_2026.csv"):
     coded = {r["school_code"] for r in csv.DictReader(open("data/processed/fl_tuition_2026.csv"))}
-rows = [json.loads(l) for l in open(E.EVID)]
+rows = E.load_evidence()
 if "--codes" in sys.argv:
     want = set(sys.argv[sys.argv.index("--codes") + 1].split(","))
     rows = sorted([r for r in rows if r["school_code"] in want], key=lambda r: int(r["school_code"]))

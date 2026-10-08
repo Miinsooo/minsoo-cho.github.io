@@ -119,3 +119,10 @@ _Add entries as: date · dataset · inputs · script · what changed._
 | 2026-10-08 (reported by the project owner) | PRR@fldoe.org | Directory of Private Schools files, school years 2017-18 to 2024-25, in the format of the current "Download School Contact List" file (current file attached as an example); one request only | sent, no reply yet |
 
 Planned follow-ups, to send only after a reply or a reasonable wait: school-level scholarship participation (FTC, FES-EO, FES-UA) by year; FES-EO by district; tuition or fee schedules if the Department holds any (drafts in `docs/public_records_request_draft.md`).
+
+## 9b. Website discovery and second crawl (2026-10-08)
+- Schools with enrollment but no own-domain email (1,401 tried) were matched to websites by name-based domain guessing (`scripts/find_websites.py`); a hit is accepted only if the page contains the school's name words (coverage >= 0.7), its city or ZIP, and >= 3 school-vocabulary words. 187 sites found; output `data/processed/website_guess.csv`.
+- These 187 sites were crawled with `scripts/collect_tuition.py --websites ...` (raw text in `data/raw/school_sites/run2`, ignored by git; evidence `tuition_evidence2.jsonl`, ignored). Result: 79 with tuition evidence, 38 tuition word but no amount, 61 not reached, 8 no website, 1 blocked.
+- The 79 were read and coded by hand (batches 21-22): 39 more `found`, 40 `unclear`. Some site hits belonged to a different school with a similar name and were coded `unclear`.
+- Coverage after this step (`fl_directory_tuition_2026.csv`, 3,540 schools): found 460, unclear 382, network_site_only 23, tuition_word_no_amount 362, not_reached 639, no_website 300, blocked 20, no own-domain email and not searched 922, no enrollment 432.
+- Coded values are sticker tuition for the year shown on the page (mostly 2025-26 or 2026-27); many pages do not state the year (left blank).

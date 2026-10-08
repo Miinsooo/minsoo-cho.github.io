@@ -1,0 +1,41 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+138 |  |  |  |  |  | 0 |  | unclear | learning grant only
+264 | 2021-22 | 36500 | 38500 |  |  | 0 | high | found | page version shows 2021-22: elementary 36,500; middle school 38,500; fees separate
+428 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+717 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+790 |  |  |  |  |  | 0 |  | unclear | the website found belongs to a different school (a Massachusetts boarding school), not coded
+814 |  |  |  |  |  | 0 |  | unclear | no tuition amount
+995 |  |  |  |  |  | 0 |  | unclear | scholarship fundraising only
+1147 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+1149 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+1258 | 2026-27 |  |  |  | 8050 | 0 | medium | found | tuition 8,050 on the fee sheet; preschool 5,920 excluded; grade bands not clear
+1564 | 2026-20 |  |  |  | 12850 | 0 | medium | found | Montessori full-day programme; half day 11,800; grade bands not clear
+1623 |  |  |  |  |  | 0 |  | unclear | tutoring programme priced by days per week
+1765 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+1810 |  |  |  |  |  | 0 |  | unclear | age-based Montessori monthly rates
+1982 | 2026-27 |  |  |  | 10800 | 0 | high | found | annual K-12 tuition; fees separate
+2018 | 2023-24 | 3965 | 4115 |  |  | 0 | high | found | K-5 3,965; 6-8 4,115; page shows 2023-24; fees separate
+2064 |  |  |  |  |  | 0 |  | unclear | only a late fee seen; same page as school 1377
+2323 | 2026-27 |  |  |  | 8300 | 0 | high | found | annual tuition on the monthly plan; 830 per month
+2325 |  |  |  |  |  | 0 |  | unclear | VPK programme only
+2482 | 2026-27 | 15750 | 17170 | 17850 |  | 0 | high | found | tuition by level: K 14,020; 1-5 15,750; 6-8 17,170; 9-12 17,850; a further 1,000 is listed per level and excluded; pre-K excluded
+2619 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+2715 | 2026-27 |  |  |  | 10500 | 0 | high | found | tuition as lump sum or 12 payments; fees separate
+2726 | 2025-26 |  |  |  | 9739 | 0 | high | found | base tuition; registration, books and standardized testing fees separate
+2754 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+2770 | 2026-27 |  |  |  | 18100 | 0 | medium | found | high school tuition 18,100; a second column shows 18,100 and 18,600 for tuition and fees
+2808 | 2026-27 |  |  |  | 17500 | 0 | high | found | regular programme at a high school; Champagnat programme 22,000 excluded
+2898 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+2939 |  |  |  |  |  | 0 |  | unclear | amount with unclear label
+3228 |  |  |  |  |  | 0 |  | unclear | online programme prices
+3374 |  |  |  |  |  | 0 |  | unclear | grades not clear for the two tuition amounts
+3524 |  | 6500 | 6800 | 6900 |  | 0 | high | found | K-6 6,500; 7-8 6,800; 9-12 6,900; year not stated; fees separate
+3555 |  | 8300 |  |  |  | 0 | medium | found | K-5 annual tuition with an asterisk; a second programme at 2,800 per year excluded; year not stated
+3566 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+3598 | 2026-27 | 8395 | 8920 | 8920 |  | 0 | high | found | K-6 8,395; 7-12 8,920; full-time and extended-day options excluded
+3646 |  |  |  |  |  | 0 |  | unclear | only an application fee seen
+3848 | 2025-26 | 9000 | 9600 | 10500 |  | 0 | high | found | K-5 9,000; 6-8 9,600; 9-12 10,500; learning support extra
+3865 |  |  |  |  |  | 0 |  | unclear | early childhood rates by days per week
+3954 | 2026-27 | 8500 | 8900 | 9500 |  | 1 | medium | found | "from" prices: K-5 8,500; 6-8 8,900; 9-12 on campus 9,500 (virtual 6,500)
+4217 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+4252 |  |  |  |  |  | 0 |  | unclear | childcare weekly rates

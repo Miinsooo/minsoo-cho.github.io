@@ -1,0 +1,40 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+4539 | 2026-27 | 12500 | 14000 |  |  | 0 | high | found | K-5 12,500; 6-8 14,000; fees separate
+4663 |  |  |  |  | 34000 | 0 | medium | found | specialised education centre; tuition per academic year; year not stated
+4822 |  |  |  |  |  | 0 |  | unclear | registration and late fees only
+5293 | 2023-24 |  |  |  | 7000 | 0 | medium | found | annual tuition; page shows 2023-24
+5369 |  |  |  |  |  | 0 |  | unclear | registration fee only
+5605 |  |  |  |  |  | 0 |  | unclear | preschool programmes by days per week
+5844 |  |  |  |  |  | 0 |  | unclear | support-group fees, not tuition
+5957 | 2026-27 |  |  |  | 12500 | 0 | high | found | all-inclusive annual tuition; same amount listed for 2027-28
+6065 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+6115 | 2026-27 |  |  |  | 5800 | 0 | medium | found | 580 per month for 10 months; book fee 600 excluded
+6207 |  |  |  |  |  | 0 |  | unclear | deposit only
+6214 |  |  |  |  | 9000 | 0 | high | found | all grades; year not stated; registration and book fees separate
+6338 |  |  |  |  |  | 0 |  | unclear | early childhood monthly rates
+6355 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+6718 | 2026-27 |  |  |  | 9500 | 0 | medium | found | K-12 full day 9,500; VPK 8,500 excluded; registration 500 separate
+6835 |  |  |  |  |  | 0 |  | unclear | two tuition amounts 8,000 and 7,500 without clear grade labels
+7150 |  |  |  |  |  | 0 |  | unclear | fees only
+7375 | 2024-25 |  |  |  | 23750 | 0 | high | found | K-12 tuition; fees separate
+7415 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+7475 |  |  |  |  |  | 0 |  | unclear | preschool monthly rates by days
+7513 | 2026-27 |  |  |  | 11000 | 0 | high | found | 2025-26 was 10,500; registration deposit 250 separate
+7588 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+7910 |  |  |  |  |  | 0 |  | unclear | weekly preschool tuition
+7932 | 2026-27 |  |  |  | 8500 | 0 | high | found | base tuition for all grades; fees separate
+8272 |  |  |  |  |  | 0 |  | unclear | 4-week increments, grades not clear
+8396 | 2025-26 |  |  |  | 8200 | 0 | high | found | base tuition K-10; fees separate; sibling discount excluded
+8425 |  |  |  |  |  | 0 |  | unclear | monthly rates, number of months not stated
+8444 |  |  |  |  |  | 0 |  | unclear | virtual dual enrollment programme price
+8477 |  |  |  |  |  | 0 |  | unclear | monthly rates, months and grades unclear
+8865 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+8882 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+8929 | 2026-27 | 8000 | 8000 | 8000 | 8000 | 0 | high | found | K-8 and 9-12 both 8,000; books and fees separate
+9159 |  | 8500 | 9550 | 10610 |  | 0 | high | found | Edgewater campus K-5 8,500; 6-8 9,550; 9-12 10,610; hybrid and online excluded; year not stated
+9277 | 2025-26 |  |  |  | 18000 | 0 | high | found | annual tuition; registration and technology fee 600 separate
+9335 | 2025-26 |  |  |  | 28000 | 1 | medium | found | standard 28,000; intensive support 37,500 and 47,500; range
+9403 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+9524 | 2026-27 |  |  |  | 8100 | 0 | high | found | full-time tuition; first-year total with fees 9,060
+9753 | 2026-27 | 9000 |  |  |  | 0 | medium | found | K-7 tuition 9,000; half-day programmes excluded
+9785 |  | 8200 |  |  |  | 0 | medium | found | K-5 annual tuition; year not stated; fees separate

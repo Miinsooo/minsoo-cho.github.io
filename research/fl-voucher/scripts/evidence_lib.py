@@ -1,14 +1,27 @@
 """Helpers for reading saved school pages and coding tuition."""
 import glob, json, re
 
-RAW = "data/raw/school_sites/run1"
-EVID = "data/processed/tuition_evidence.jsonl"
+RAWS = ["data/raw/school_sites/run2", "data/raw/school_sites/run1"]  # run2 (websites found by name) takes precedence
+EVIDS = ["data/processed/tuition_evidence.jsonl", "data/processed/tuition_evidence2.jsonl"]  # later files override earlier ones
+
+def load_evidence():
+    import json, os
+    out = {}
+    for f in EVIDS:
+        if os.path.exists(f):
+            for l in open(f):
+                r = json.loads(l); out[r["school_code"]] = r
+    return list(out.values())
 CUE = re.compile(r"tuition|annual|per year|/year|yearly|grade|kinder|\bK\b|\bk-|elementary|middle|high school|month|semester|quarter|full[- ]?day|pre-?k", re.I)
 AMT = re.compile(r"\$\s?\d")
 
 def load_pages(code):
     pages = []
-    for f in sorted(glob.glob(f"{RAW}/{code}/*.txt"), key=lambda p: int(p.rsplit("/", 1)[1].split(".")[0])):
+    files = []
+    for raw in RAWS:
+        files = glob.glob(f"{raw}/{code}/*.txt")
+        if files: break
+    for f in sorted(files, key=lambda p: int(p.rsplit("/", 1)[1].split(".")[0])):
         txt = open(f, errors="ignore").read()
         url, _, body = txt.partition("\n\n")
         pages.append((url.replace("URL: ", "", 1), body))

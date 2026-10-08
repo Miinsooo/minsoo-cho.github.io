@@ -15,6 +15,7 @@ from urllib.parse import urljoin, urlparse
 
 UA = "FLVoucherTuitionResearch/0.1 (academic project; contact via github.com/Miinsooo)"
 RAW = "data/raw/school_sites/run1"
+SITES = {}  # school_code -> verified website (from find_websites.py), used with --websites
 OUT = "data/processed/tuition_evidence.jsonl"
 FREE = {"gmail.com","yahoo.com","aol.com","hotmail.com","outlook.com","icloud.com","comcast.net","bellsouth.net","att.net",
         "msn.com","live.com","me.com","sbcglobal.net","verizon.net","earthlink.net","mac.com","protonmail.com","cox.net",
@@ -108,7 +109,9 @@ def process(s):
     rec = {"school_code": code, "school_name": s["school_name"], "domain": d, "status": "", "home_url": "", "pages": [],
            "windows": [], "years": [], "no_price_hint": False, "notes": []}
     base = home = None
-    for cand in (f"https://www.{d}", f"https://{d}", f"http://www.{d}"):
+    from urllib.parse import urlparse as _up
+    cands = [SITES[code]] if code in SITES else [f"https://www.{d}", f"https://{d}", f"http://www.{d}"]
+    for cand in cands:
         code_, final, ctype, data = curl(cand)
         if code_ == 200 and len(data) > 300 and "html" in ctype:
             base, home, rec["home_url"] = f"{urlparse(final).scheme}://{urlparse(final).netloc}", data.decode("utf8", "ignore"), final
@@ -178,9 +181,17 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--codes"); ap.add_argument("--limit", type=int); ap.add_argument("--workers", type=int, default=8)
     ap.add_argument("--out", default=OUT)
+    ap.add_argument("--websites", help="CSV from find_websites.py (school_code,url); crawl those sites instead of email domains")
+    ap.add_argument("--raw", help="folder for saved page text, default run1")
     a = ap.parse_args()
     schools = list(csv.DictReader(open("data/processed/fl_directory_2026.csv")))
-    pool = [s for s in schools if int(s["enroll_total"]) > 0 and s["email_domain"] and s["email_domain"] not in FREE]
+    global RAW
+    if a.raw: RAW = a.raw
+    if a.websites:
+        SITES.update({r["school_code"]: r["url"] for r in csv.DictReader(open(a.websites))})
+        pool = [s for s in schools if s["school_code"] in SITES]
+    else:
+        pool = [s for s in schools if int(s["enroll_total"]) > 0 and s["email_domain"] and s["email_domain"] not in FREE]
     if a.codes:
         want = set(open(a.codes).read().split()); pool = [s for s in pool if s["school_code"] in want]
     pool.sort(key=lambda s: int(s["school_code"]))
