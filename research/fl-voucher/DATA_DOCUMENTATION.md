@@ -66,3 +66,14 @@ Update this file **whenever a dataset is added or changed**. Never describe a so
 
 ## Build log
 _Add entries as: date · dataset · inputs · script · what changed._
+
+## 6. State and district aggregates (private school annual reports)
+| Item | Value |
+|---|---|
+| Status | collected for 2024-25 report; earlier-year reports not yet obtained |
+| Source | FLDOE Office of Independent Education and Parental Choice, "Florida's Private Schools 2024-25 Annual Report" (PDF), from K-12 Private Schools > Private School Annual Reports |
+| Retrieved | 2026-10-08, downloaded manually by the project owner; `data/raw/fldoe_annual_report/2026-10-08/PS-AnnualReport2025.pdf` (git-ignored) |
+| Contents | State enrollment and number of schools 2015-16 to 2024-25 (p.2); 2024-25 enrollment by grade and by district (p.3-4); 2024-25 number of schools by district |
+| Processed | `data/processed/fl_private_state_totals.csv`, transcribed by hand from p.2 |
+| Used for | state-level trend check (e.g. enrollment 416,084 in 2021-22 to 466,004 in 2023-24); possible district-level demand measure if earlier-year reports are obtained |
+| Known issues | No school-level data. School counts here (3,016 in 2023-24; 3,252 in 2024-25) count schools that submitted survey enrollment data, so they are smaller than the 3,540 rows in the 2026 directory snapshot, which includes zero-enrollment entries. 2020-21 enrollment dips (364,420), likely pandemic-related. Report counts are unverified by FLDOE. |
