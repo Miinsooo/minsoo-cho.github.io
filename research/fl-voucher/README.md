@@ -3,7 +3,7 @@
 Question: how did the 2023 expansion of Florida's scholarship programs (FES-EO/FES-UA) affect private K-12 tuition?
 
 ## Status
-Design stage. Sampling frame under discussion.
+Design stage. See `DATA_DOCUMENTATION.md` for data sources and construction. Collection blocked until network access is enabled.
 
 ## Layout
 - `data/raw/`        source files as downloaded/scraped (do not edit)
