@@ -110,7 +110,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 2134,Brevard,HERITAGE BAPTIST ACADEMY,TITUSVILLE,32780,Yes,Yes,Yes,02-11,11,2026,no_website,,,,,,,,,,,
 3487,Brevard,HOLY FAMILY SCHOOL,MELBOURNE,32935,Yes,Yes,Yes,KG-07,12,2025,not_attempted_no_own_domain,,,,,,,,,,,
 942,Brevard,HOLY NAME OF JESUS CATHOLIC SCHOOL,INDIALANTIC,32903,Yes,Yes,Yes,PK-08,254,2025,not_reached,,,,,,,,,,,
-997,Brevard,HOLY TRINITY EPISCOPAL ACADEMY,MELBOURNE,32940,Yes,Yes,Yes,PK-12,953,2026,no_website,,,,,,,,,,,
+997,Brevard,HOLY TRINITY EPISCOPAL ACADEMY,MELBOURNE,32940,Yes,Yes,Yes,PK-12,953,2026,found,2026-27,18290,22250,24630,,0,https://www.htacademy.org/admission/tuition-and-affordability/tuition-rates,2026-10-08,live,"first-child rates for Preschool-6 18,290; 7-8 22,250; 9-12 24,630; second and third child rates lower; page lists 2025-26 and 2026-27",medium
 7210,Brevard,Ignite Christian Academy Inc,Mims,32754,Yes,Yes,Yes,02-12,5,2025,not_attempted_no_own_domain,,,,,,,,,,,
 7489,Brevard,IN HIS STEPS LA INC,,,Yes,Yes,Yes,KG-03,3,2026,not_attempted_no_own_domain,,,,,,,,,,,
 8715,Brevard,IRC CHRISTIAN ACADEMY,TITUSVILLE,32780,Yes,Yes,Yes,KG-03,65,2025,not_reached,,,,,,,,,,,
@@ -2644,14 +2644,14 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 4066,Palm Beach,AMERICAN HERITAGE SCHOOL OF BOCA/DELRAY,DELRAY BEACH,33484,No,Yes,Yes,PK-12,2022,2025,tuition_word_no_amount,,,,,,,,,,,
 2513,Palm Beach,ARTHUR I MEYER JEWISH ACADEMY,PALM BEACH GARDENS,33418,Yes,Yes,Yes,PK-08,201,2026,found,2026-27,24550,28165,,,0,https://www.meyerprep.org/tuition-fees/,2026-10-08,live,"K and 1 20,900; 2-5 24,550; 6-8 28,165; junior kindergarten excluded",high
 7148,Palm Beach,ARTS AND EDUCATION INTERNATIONAL,LAKE WORTH,33460,No,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
-2279,Palm Beach,ATLANTIC CHRISTIAN ACADEMY OF THE PALM BEAC,WEST PALM BEACH,33415,Yes,Yes,Yes,PK-12,1184,2025,not_attempted_no_own_domain,,,,,,,,,,,
+2279,Palm Beach,ATLANTIC CHRISTIAN ACADEMY OF THE PALM BEAC,WEST PALM BEACH,33415,Yes,Yes,Yes,PK-12,1184,2025,tuition_word_no_amount,,,,,,,,,,,
 2985,Palm Beach,ATLANTIS ACADEMY,WEST PALM BEACH,33406,No,Yes,Yes,KG-12,171,2025,no_website,,,,,,,,,,,
 985,Palm Beach,B-Ready Academy MicroSchool,,,No,No,No,PK-07,35,2026,not_reached,,,,,,,,,,,
 7477,Palm Beach,BAIS YAAKOV OF BOCA RATON,BOCA RATON,33431,Yes,Yes,Yes,09-12,47,2025,found,2024-25,,,,19100,0,https://www.byboca.org/admissions,2026-10-08,live,tuition for the 2024-25 school year,high
 4195,Palm Beach,BALDWIN PREP SCHOOL,NORTH PALM BEACH,33408,No,Yes,Yes,KG-12,79,2026,not_attempted_no_own_domain,,,,,,,,,,,
 3920,Palm Beach,BELLE GLADE CHRISTIAN ACADEMY,BELLE GLADE,33430,Yes,Yes,Yes,PK-12,22,2025,not_attempted_no_own_domain,,,,,,,,,,,
 6952,Palm Beach,Ben Gamla Palm Beach Campus,Boynton Beach,33472,No,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
-1867,Palm Beach,BEREAN CHRISTIAN SCHOOL,WEST PALM BEACH,33411,Yes,Yes,Yes,PK-12,736,2026,no_website,,,,,,,,,,,
+1867,Palm Beach,BEREAN CHRISTIAN SCHOOL,WEST PALM BEACH,33411,Yes,Yes,Yes,PK-12,736,2026,tuition_word_no_amount,,,,,,,,,,,
 3857,Palm Beach,BETHEL JUNIOR ACADEMY,RIVIERA BEACH,33404,Yes,Yes,Yes,KG-08,188,2025,not_attempted_no_own_domain,,,,,,,,,,,
 9335,Palm Beach,BOCA RATON ACHIEVEMENT CENTER,BOCA RATON,33431,No,No,No,KG-12,19,2026,found,2025-26,,,,28000,1,https://bocaratonachievement.org/admissions/,2026-10-08,live,"standard 28,000; intensive support 37,500 and 47,500; range",medium
 3314,Palm Beach,BOCA RATON CHRISTIAN SCHOOL,BOCA RATON,33432,Yes,Yes,Yes,PK-12,876,2026,found,2026-27,15290,16830,19360,,0,https://www.bocachristian.org/admissions/tuition-fees-financial-assistance,2026-10-08,live,"two sets of rates; higher set assumed to be 2026-27 (K 14,190; 1-5 15,290; 6-8 16,830; 9-12 19,360); lower set 14,300/15,730/18,150",medium

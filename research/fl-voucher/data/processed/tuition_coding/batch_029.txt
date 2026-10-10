@@ -1,0 +1,2 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+997 | 2026-27 | 18290 | 22250 | 24630 |  | 0 | medium | found | first-child rates for Preschool-6 18,290; 7-8 22,250; 9-12 24,630; second and third child rates lower; page lists 2025-26 and 2026-27
