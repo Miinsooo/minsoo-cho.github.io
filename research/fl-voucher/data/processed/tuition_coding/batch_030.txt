@@ -1,0 +1,12 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+1289 | 2026-27 | 8600 |  | 9100 |  | 0 | medium | found | 1st-5th 8,600 (kindergarten 8,300); 9th-12th 9,100; 6-8 not clear on the page
+2265 | 2026-27 | 9000 | 9000 |  |  | 0 | high | found | K-8 tuition 9,000
+2364 | 2026-27 | 9023 | 9517 | 9929 |  | 0 | high | found | K5-5th 9,023; 6-8 9,517; 9-12 9,929; K3 4,357 excluded; supply fees separate
+2686 | 2026-27 | 9800 | 10000 |  |  | 0 | high | found | K-5 9,800; 6-8 10,000
+2992 |  |  |  |  | 7200 | 0 | medium | found | annual tuition 7,200 (720 per month); year not stated
+3836 | 2026-27 |  |  |  | 16890 | 0 | medium | found | tuition rate 16,890 for 2026-27; grades not stated on the page
+6946 | 2026-27 | 8800 | 8800 |  |  | 0 | high | found | K-8 tuition 8,800; academic and other fees separate
+2852 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+4916 |  |  |  |  |  | 0 |  | unclear | VPK and fee lines only, 2024-25 page
+7248 |  |  |  |  |  | 0 |  | unclear | weekly preschool rates and fees
+8939 |  |  |  |  |  | 0 |  | unclear | adult high school tuition and quotes

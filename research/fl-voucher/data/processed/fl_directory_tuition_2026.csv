@@ -194,7 +194,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 8657,Broward,ADHERE ACADEMY,HALLANDALE,33009,No,Yes,Yes,PK,15,2025,not_attempted_no_own_domain,,,,,,,,,,,
 2768,Broward,AGAPE GENERATION ACADEMY,POMPANO BEACH,33069,No,Yes,Yes,KG-02,5,2025,not_attempted_no_own_domain,,,,,,,,,,,
 3414,Broward,ALAZHAR SCHOOL,TAMARAC,33321,Yes,Yes,Yes,PK-08,467,2026,not_reached,,,,,,,,,,,
-6946,Broward,ALL SAINTS CATHOLIC SCHOOL,SUNRISE,33351,Yes,Yes,Yes,PK-08,346,2025,no_website,,,,,,,,,,,
+6946,Broward,ALL SAINTS CATHOLIC SCHOOL,SUNRISE,33351,Yes,Yes,Yes,PK-08,346,2025,found,2026-27,8800,8800,,,0,https://allsaintscatholicschool.net/tuition-elementary-middle/,2026-10-08,live,"K-8 tuition 8,800; academic and other fees separate",high
 3570,Broward,ALTERNATIVE EDUCATION INSTITUTE,DAVIE,33314,No,No,No,KG-12,191,2025,not_attempted_no_own_domain,,,,,,,,,,,
 9336,Broward,Alton School,DAVIE,33314,No,Yes,Yes,PK-02,88,2026,not_attempted_no_own_domain,,,,,,,,,,,
 9549,Broward,AMAZING ACHIEVERS ACADEMY LLC.,MIRAMAR,33023,No,No,No,PK,54,2025,no_website,,,,,,,,,,,
@@ -328,7 +328,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 2849,Broward,IMK POMPANO LLC,POMPANO BEACH,33060,No,Yes,Yes,PK-KG,25,2025,not_reached,,,,,,,,,,,
 4489,Broward,INFINITE ADVENTURES ACADEMY,CORAL SPRINGS,33065,No,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 9386,Broward,INTERNATIONAL MONTESSORI KIDS CENTER,DEERFIELD BEACH,33441,No,Yes,Yes,PK-03,50,2025,not_reached,,,,,,,,,,,
-2852,Broward,INTERNATIONAL MONTESSORI SCHOOL,FORT LAUDERDALE,33315,No,No,No,PK-KG,18,2025,not_attempted_no_own_domain,,,,,,,,,,,
+2852,Broward,INTERNATIONAL MONTESSORI SCHOOL,FORT LAUDERDALE,33315,No,No,No,PK-KG,18,2025,unclear,,,,,,0,,2026-10-08,live,no dollar lines found,
 7089,Broward,International Studies Preparatory Academy,Hollywood,33020,No,Yes,Yes,,0,2026,not_attempted_no_enrollment,,,,,,,,,,,
 619,Broward,ITUTOREXPRESS VIRTUAL ACADEMY,HOLLYWOOD,33019,No,No,No,KG-05,15,2025,tuition_word_no_amount,,,,,,,,,,,
 8155,Broward,JACKLYN ACADEMY,FORT LAUDERDALE,33312,No,Yes,Yes,KG-12,58,2025,tuition_word_no_amount,,,,,,,,,,,
@@ -353,7 +353,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 5424,Broward,LIFE ACADEMY,PEMBROKE PINES,33029,Yes,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 4205,Broward,LIGHTHOUSE CHRISTIAN ACADEMY,OAKLAND PARK,33334,Yes,Yes,Yes,02-12,14,2025,not_attempted_no_own_domain,,,,,,,,,,,
 5163,Broward,LIGHTHOUSE CHRISTIAN SCHOOL,POMPANO BEACH,33062,Yes,Yes,Yes,KG-08,211,2025,found,2026-27,12100,12600,,,0,https://lcsmariners.com/wp-content/uploads/2026/01/20252026-Tuition-Fee-Schedule.pdf,2026-10-08,live,"K 11,500; 1-5 12,100; 6-8 12,600; fees separate",high
-1940,Broward,LIL. TREAZURES ACADEMY INC,POMPANO BEACH,33060,No,Yes,Yes,KG-12,48,2025,not_attempted_no_own_domain,,,,,,,,,,,
+1940,Broward,LIL. TREAZURES ACADEMY INC,POMPANO BEACH,33060,No,Yes,Yes,KG-12,48,2025,no_website,,,,,,,,,,,
 4746,Broward,LINDA'S KIDS GARDEN,,,No,No,No,PK,38,2025,not_attempted_no_own_domain,,,,,,,,,,,
 5799,Broward,LITTLE BEE'S ACADEMY,DEERFIELD BEACH,33441,Yes,Yes,Yes,PK-08,144,2025,not_reached,,,,,,,,,,,
 9667,Broward,LITTLE FLOWER MONTESSORI SCHOOL,WILTON MANORS,33305,No,Yes,Yes,PK-04,61,2026,tuition_word_no_amount,,,,,,,,,,,
@@ -436,7 +436,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 5180,Broward,ROHR BAIS CHAYA ACADEMY,TAMARAC,33321,Yes,Yes,Yes,09-12,95,2025,no_website,,,,,,,,,,,
 1037,Broward,ROYAL ACADEMY,Pompano Beach,33060,No,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 7445,Broward,Royalty Academy,Miramar,33025,No,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
-2686,Broward,SAINT AMBROSE,DEERFIELD BEACH,33441,Yes,Yes,Yes,PK-08,272,2026,not_attempted_no_own_domain,,,,,,,,,,,
+2686,Broward,SAINT AMBROSE,DEERFIELD BEACH,33441,Yes,Yes,Yes,PK-08,272,2026,found,2026-27,9800,10000,,,0,https://www.stambrosecs.org/uploads/1/3/7/7/137739114/2026-2027__k-8_tuition_and_fees.pdf,2026-10-08,live,"K-5 9,800; 6-8 10,000",high
 2689,Broward,SAINT ANDREW CATHOLIC SCHOOL,CORAL SPRINGS,33065,Yes,Yes,Yes,PK-08,372,2026,no_website,,,,,,,,,,,
 2694,Broward,SAINT ANTHONY SCHOOL,FORT LAUDERDALE,33301,Yes,Yes,Yes,PK-08,459,2026,no_website,,,,,,,,,,,
 124,Broward,SAINT BARTHOLOMEW SCHOOL,MIRAMAR,33025,Yes,Yes,Yes,PK-08,186,2025,not_reached,,,,,,,,,,,
@@ -560,7 +560,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 1309,Citrus,ST. PAUL'S LUTHERAN SCHOOL,BEVERLY HILLS,34465,Yes,Yes,Yes,KG-08,112,2026,no_website,,,,,,,,,,,
 6297,Citrus,The Hive: Inspiring a Love of Learning,Homosassa,34446,Yes,Yes,Yes,02-04,7,2026,found,2026-27,,,,8400,0,https://thehivelearning.org/,2026-10-08,live,annual tuition; monthly 840 for 10 months,high
 3226,Citrus,TRUE VICTORY ACADEMY,HOMOSASSA,34446,Yes,No,No,04-07,5,2025,not_attempted_no_own_domain,,,,,,,,,,,
-1209,Citrus,WEST COAST CHRISTIAN SCHOOL,CRYSTAL RIVER,34428,Yes,Yes,Yes,KG-12,60,2026,not_attempted_no_own_domain,,,,,,,,,,,
+1209,Citrus,WEST COAST CHRISTIAN SCHOOL,CRYSTAL RIVER,34428,Yes,Yes,Yes,KG-12,60,2026,not_reached,,,,,,,,,,,
 1409,Clay,ANNUNCIATION CATHOLIC SCHOOL,MIDDLEBURG,32068,Yes,Yes,Yes,PK-08,424,2025,no_website,,,,,,,,,,,
 1250,Clay,BEREAN CHRISTIAN ACADEMY,ORANGE PARK,32065,Yes,Yes,Yes,PK-12,81,2025,not_reached,,,,,,,,,,,
 5503,Clay,BrightGate Academy,Green Cove Springs,32043,No,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
@@ -799,7 +799,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 774,Dade,EBENEZER DAY CARE,MIAMI,33134,Yes,Yes,Yes,PK-04,57,2026,not_attempted_no_own_domain,,,,,,,,,,,
 4936,Dade,EBENEZER INTERNATIONAL CHRISTIAN ACADEMY,HIALEAH,33012,Yes,No,No,09-12,210,2025,tuition_word_no_amount,,,,,,,,,,,
 4396,Dade,EDC ACADEMY OF EXCELLENCE,MIAMI,33127,No,Yes,Yes,KG-12,74,2025,not_attempted_no_own_domain,,,,,,,,,,,
-3198,Dade,EDISON PRIVATE SCHOOL,HIALEAH,33013,No,Yes,Yes,PK-12,438,2025,not_attempted_no_own_domain,,,,,,,,,,,
+3198,Dade,EDISON PRIVATE SCHOOL,HIALEAH,33013,No,Yes,Yes,PK-12,438,2025,not_reached,,,,,,,,,,,
 8224,Dade,EDUCATIONAL WORLD LEARNING CENTER,MIAMI LAKES,33014,No,Yes,Yes,PK-03,83,2025,not_attempted_no_own_domain,,,,,,,,,,,
 1710,Dade,EINSTEINS LEARNING CENTER 1 INC,HIALEAH,33010,No,Yes,Yes,PK-02,21,2026,not_attempted_no_own_domain,,,,,,,,,,,
 9519,Dade,ELEV8 SCHOOL #1,MIAMI,33155,No,Yes,Yes,06-12,96,2025,tuition_word_no_amount,,,,,,,,,,,
@@ -866,7 +866,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 2600,Dade,HOLY FAMILY CATHOLIC SCHOOL,NORTH MIAMI,33161,Yes,Yes,Yes,PK-08,252,2025,not_reached,,,,,,,,,,,
 3982,Dade,HOPE ACADEMY,HOMESTEAD,33030,No,Yes,Yes,KG-12,442,2025,not_attempted_no_own_domain,,,,,,,,,,,
 3353,Dade,HOPE AND LIGHT ACADEMY,HIALEAH,33014,No,Yes,Yes,KG-08,72,2025,not_attempted_no_own_domain,,,,,,,,,,,
-468,Dade,HOREB CHRISTIAN SCHOOL,HIALEAH,33014,Yes,Yes,Yes,PK-12,502,2025,no_website,,,,,,,,,,,
+468,Dade,HOREB CHRISTIAN SCHOOL,HIALEAH,33014,Yes,Yes,Yes,PK-12,502,2025,not_reached,,,,,,,,,,,
 5714,Dade,IEXCEL PREPARATORY ACADEMY,MIAMI GARDENS,33056,No,Yes,Yes,PK-05,48,2025,found,2026-27,14550,,,,0,https://excelkidsacademy.com/tuition-%26-sponsorship-op,2026-10-08,live,K-5 annual tuition; lunch and supply fees separate,high
 5294,Dade,ilnido Montessori Preschool Killian Campus,Miami,33186-4769,No,No,No,PK-KG,17,2025,tuition_word_no_amount,,,,,,,,,,,
 7212,Dade,iMater Secondary Campus,Hialeah,33010,No,Yes,Yes,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
@@ -1077,7 +1077,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 4915,Dade,OXFORD INTERNATIONAL HIGH SCHOOL LLC,Miami,33181,No,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 5796,Dade,Palmetto Academy Inc,Miami,33155,No,No,No,PK,12,2025,not_attempted_no_own_domain,,,,,,,,,,,
 4724,Dade,PALMETTO BAY ACADEMY,MIAMI,33157,No,Yes,Yes,05-12,45,2025,tuition_word_no_amount,,,,,,,,,,,
-3729,Dade,PENTAB ACADEMY,MIAMI,33169,Yes,Yes,Yes,PK-08,244,2026,not_attempted_no_own_domain,,,,,,,,,,,
+3729,Dade,PENTAB ACADEMY,MIAMI,33169,Yes,Yes,Yes,PK-08,244,2026,tuition_word_no_amount,,,,,,,,,,,
 329,Dade,PERRINE SDA SCHOOL,MIAMI,33157,Yes,Yes,Yes,KG-08,48,2025,not_reached,,,,,,,,,,,
 668,Dade,PETER PAN CHILD CARE AND LEARNING CENTER,MIAMI,33165,No,Yes,Yes,PK-11,62,2025,not_attempted_no_own_domain,,,,,,,,,,,
 1957,Dade,PETER PAN LEARNING CENTER INC,MIAMI,33165,No,No,No,PK-11,62,2025,not_attempted_no_own_domain,,,,,,,,,,,
@@ -1360,7 +1360,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 7719,Duval,DESTINY PREPARATORY ACADEMY,JACKSONVILLE,32258,No,No,No,PK,15,2025,not_attempted_no_own_domain,,,,,,,,,,,
 2765,Duval,EAGLE'S VIEW ACADEMY,JACKSONVILLE,32221,Yes,Yes,Yes,KG-12,272,2025,unclear,,,,,,0,https://evajax.com/tuition-fees/,2026-10-08,live,amounts without clear labels,
 6996,Duval,EAST POINTE CHRISTIAN ACADEMY,JACKSONVILLE,32225,Yes,Yes,Yes,PK-01,122,2025,not_reached,,,,,,,,,,,
-2992,Duval,ELEVATION COMMUNITY SCHOOL,JACKSONVILLE,32226,Yes,No,No,KG-08,8,2026,not_attempted_no_own_domain,,,,,,,,,,,
+2992,Duval,ELEVATION COMMUNITY SCHOOL,JACKSONVILLE,32226,Yes,No,No,KG-08,8,2026,found,,,,,7200,0,https://elevationcs.org/tuition/,2026-10-08,live,"annual tuition 7,200 (720 per month); year not stated",medium
 1412,Duval,EPHESUS SDA JUNIOR ACADEMY,JACKSONVILLE,32209,Yes,Yes,Yes,KG-12,107,2025,not_attempted_no_own_domain,,,,,,,,,,,
 1620,Duval,EPISCOPAL SCHOOL OF JACKSONVILLE,JACKSONVILLE,32207,Yes,Yes,Yes,06-12,979,2025,found,2026-27,,33750,,,0,https://esj.org/tuition-financial-aid/munnerlyn-tuition-2026-2027/,2026-10-08,live,"grades 6-8 33,750; other grades not read",medium
 1972,Duval,EPISCOPAL SCHOOL OF JACKSONVILLE BEACHES,JACKSONVILLE BEACH,32250,Yes,Yes,Yes,PK-05,251,2025,unclear,,,,,,0,https://esj.org/tuition-financial-aid/munnerlyn-tuition-2026-2027/,2026-10-08,live,page found is another campus's schedule; not coded,
@@ -1563,7 +1563,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 3830,Flagler,UNITED METHODIST CHRISTIAN SCHOOL,PALM COAST,32137,Yes,Yes,Yes,PK-01,58,2026,no_website,,,,,,,,,,,
 7952,Franklin,ED CORPS HIGH SCHOOL,EASTPOINT,32328,No,Yes,Yes,11-12,9,2026,found,,,,,13152,0,https://franklinspromisecoalition.wildapricot.org/ED-Corps-High-School/,2026-10-08,live,"annual tuition at a high school (13,211 for seniors); year not stated",high
 833,Franklin,FIRST BAPTIST CHRISTIAN SCHOOL,APALACHICOLA,32320,Yes,Yes,Yes,PK-11,41,2025,no_website,,,,,,,,,,,
-8704,Gadsden,FRANKLIN ACADEMY INC.,TALLAHASSEE,32304,Yes,Yes,Yes,KG-12,23,2025,not_attempted_no_own_domain,,,,,,,,,,,
+8704,Gadsden,FRANKLIN ACADEMY INC.,TALLAHASSEE,32304,Yes,Yes,Yes,KG-12,23,2025,not_reached,,,,,,,,,,,
 8860,Gadsden,HLC LEADERSHIP ACADEMY,HAVANA,32333,No,Yes,Yes,03-12,12,2025,not_attempted_no_own_domain,,,,,,,,,,,
 9308,Gadsden,NORTH FLORIDA EDUCATION SERVICES,QUINCY,32351,No,Yes,Yes,PK-08,51,2025,not_reached,,,,,,,,,,,
 779,Gadsden,ROBERT F MUNROE DAY SCHOOL,HAVANA,32333,No,Yes,Yes,PK-12,408,2025,found,2026-27,10313,10755,10755,,0,https://rfmunroe.org/tuitionscholarship/,2026-10-08,live,"K-5 10,313; 6-12 10,755",high
@@ -1623,7 +1623,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 8204,Highlands,BUSY KIDS CREATIVE LEARNING CENTER INC.,SEBRING,33870,No,Yes,Yes,PK-01,127,2025,not_attempted_no_own_domain,,,,,,,,,,,
 6875,Highlands,CORNERSTONE CHRISTIAN ACADEMY,AVON PARK,33825,Yes,Yes,Yes,KG-12,170,2025,no_website,,,,,,,,,,,
 9248,Highlands,CRANE BROOK ACADEMICS,LAKE PLACID,33862,No,Yes,Yes,01-12,48,2025,no_website,,,,,,,,,,,
-1350,Highlands,HEARTLAND CHRISTIAN SCHOOL,SEBRING,33870,Yes,Yes,Yes,PK-12,332,2026,no_website,,,,,,,,,,,
+1350,Highlands,HEARTLAND CHRISTIAN SCHOOL,SEBRING,33870,Yes,Yes,Yes,PK-12,332,2026,not_reached,,,,,,,,,,,
 6115,Highlands,INDEPENDENT BAPTIST ACADEMY,SEBRING,33876,Yes,Yes,Yes,KG-11,26,2026,found,2026-27,,,,5800,0,https://independentbaptistacademy.com/tuition-scholarships/,2026-10-08,live,580 per month for 10 months; book fee 600 excluded,medium
 836,Highlands,LAKEVIEW CHRISTIAN SCHOOL,LAKE PLACID,33852,Yes,Yes,Yes,PK-08,149,2026,found,2026-27,7050,7050,,,0,https://www.lakeviewchristianschool.org/tuition.html,2026-10-08,live,"K-8 annual tuition 7,050; curriculum, technology and supply fees separate",high
 5642,Highlands,Life Christian Academy,Avon Park,33825,Yes,Yes,Yes,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
@@ -1806,7 +1806,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 7104,Hillsborough,TAMPA BAY CHRISTIAN ACADEMY OF FLORIDA INC,TAMPA,33604,Yes,Yes,Yes,PK-12,476,2025,unclear,,,,,,0,https://www.tbcarams.org/admissions/tuition-fees.cfm,2026-10-08,live,only aftercare and fees seen; same page as school 1043,
 2200,Hillsborough,TAMPA CATHOLIC HIGH SCHOOL INC.,TAMPA,33603,Yes,Yes,Yes,09-12,812,2026,found,2026-27,,,,16890,0,https://www.tampacatholic.org/apps/pages/index.jsp?uREC_ID=3863569&type=d&pREC_ID=2476738,2026-10-08,live,high school tuition rate,high
 1643,Hillsborough,TAMPA CHRISTIAN ACADEMY,SANFORD,32771,No,Yes,Yes,KG-01,19,2025,not_attempted_no_own_domain,,,,,,,,,,,
-3836,Hillsborough,TAMPA CHRISTIAN COMMUNITY SCHOOL,TAMPA,33694,Yes,No,No,KG-12,105,2025,not_attempted_no_own_domain,,,,,,,,,,,
+3836,Hillsborough,TAMPA CHRISTIAN COMMUNITY SCHOOL,TAMPA,33694,Yes,No,No,KG-12,105,2025,found,2026-27,,,,16890,0,https://www.tampacatholic.org/apps/pages/index.jsp?uREC_ID=3863569&type=d&pREC_ID=2476738,2026-10-08,live,"tuition rate 16,890 for 2026-27; grades not stated on the page",medium
 6958,Hillsborough,TAMPA DAY SCHOOL,TAMPA,33625,No,Yes,Yes,03-08,145,2025,found,2026-27,25600,25600,,,0,https://www.tampadayschool.com/tuition/,2026-10-08,live,"grades 3-8 25,600; K-2 not seen",medium
 7150,Hillsborough,TAMPA PINNACLE ACADEMY LLC,TAMPA,33606,No,Yes,Yes,KG-08,67,2025,unclear,,,,,,0,https://tampapinnacleacademy.com/admissions,2026-10-08,live,fees only,
 2246,Hillsborough,TAMPA PREPARATORY SCHOOL,TAMPA,33606,No,No,No,06-12,698,2025,found,2026-27,,32512,34340,,0,https://tampaprep.org/admissions/fees-and-tuition/,2026-10-08,live,"middle school 32,512; upper school 34,340; ancillary fee for international students excluded",high
@@ -1836,7 +1836,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 8263,Indian River,CHRIST CHURCH ACADEMY,VERO BEACH,32960,Yes,Yes,Yes,PK-04,79,2025,unclear,,,,,,0,,2026-10-08,live,no dollar lines found,
 3107,Indian River,CROSSTYLE ACADEMY,SEBASTIAN,32958,Yes,Yes,Yes,KG-12,24,2025,not_attempted_no_own_domain,,,,,,,,,,,
 7128,Indian River,FIRST METHODIST ACADEMY,VERO BEACH,32960,Yes,Yes,Yes,KG-02,25,2025,no_website,,,,,,,,,,,
-1289,Indian River,GLENDALE CHRISTIAN SCHOOL,VERO BEACH,32968,Yes,Yes,Yes,PK-05,207,2025,not_attempted_no_own_domain,,,,,,,,,,,
+1289,Indian River,GLENDALE CHRISTIAN SCHOOL,VERO BEACH,32968,Yes,Yes,Yes,PK-05,207,2025,found,2026-27,8600,,9100,,0,https://www.glendalechristianschool.com/tuition-and-fees/,2026-10-08,live,"1st-5th 8,600 (kindergarten 8,300); 9th-12th 9,100; 6-8 not clear on the page",medium
 3545,Indian River,GLENDALE CHRISTIAN SCHOOL WEST,VERO BEACH,32968,Yes,Yes,Yes,06-11,63,2025,found,2026-27,8600,9100,9600,,0,https://www.glendalechristianschool.com/tuition-and-fees/,2026-10-08,live,"K 8,300; 1-5 8,600; 6-8 9,100; 9-12 9,600; labels of the last two lines are misaligned in the text, so 6-8 is inferred",medium
 5957,Indian River,Heartwood Academy,Vero Beach,32962,No,No,No,KG-11,23,2025,found,2026-27,,,,12500,0,https://www.heartwoodacademy.net/general-4,2026-10-08,live,all-inclusive annual tuition; same amount listed for 2027-28,high
 4838,Indian River,MASTER'S ACADEMY OF VERO BEACH,VERO BEACH,32966,Yes,Yes,Yes,PK-12,360,2026,tuition_word_no_amount,,,,,,,,,,,
@@ -1855,7 +1855,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 3856,Jackson,SAND BASIN SCHOOLHOUSE,GRAND RIDGE,32442,Yes,No,No,PK-03,7,2025,not_attempted_no_own_domain,,,,,,,,,,,
 443,Jackson,VICTORY CHRISTIAN ACADEMY,SNEADS,32460,Yes,Yes,Yes,PK-12,43,2025,not_reached,,,,,,,,,,,
 446,Jefferson,AUCILLA CHRISTIAN ACADEMY INC.,MONTICELLO,32344,Yes,Yes,Yes,PK-12,483,2026,found,2026-27,,,,13164,0,https://www.aucilla.org/tuition/,2026-10-08,live,"K5-12 13,164 per year (1,097 x 12); PK3-PK4 6,768 excluded",high
-8549,Jefferson,FRANKLIN ACADEMY INC.,TALLAHASSEE,32304,Yes,Yes,Yes,02-11,20,2025,not_attempted_no_own_domain,,,,,,,,,,,
+8549,Jefferson,FRANKLIN ACADEMY INC.,TALLAHASSEE,32304,Yes,Yes,Yes,02-11,20,2025,not_reached,,,,,,,,,,,
 4979,Jefferson,The Village Academy,Monticello,32344,No,Yes,Yes,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 4185,Lafayette,LIGHTHOUSE CHRISTIAN ACADEMY,MAYO,32066,Yes,Yes,Yes,PK-12,80,2026,unclear,,,,,,0,,2026-10-08,live,no dollar lines found,
 2565,Lake,ADONAI ACADEMY INCORPORATED,MOUNT DORA,32757,Yes,Yes,Yes,PK-12,20,2025,not_attempted_no_own_domain,,,,,,,,,,,
@@ -1961,7 +1961,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 1603,Lee,FORT MYERS CHRISTIAN SCHOOL,FORT MYERS,33907,Yes,Yes,Yes,PK-08,352,2025,found,2026-27,12777,13273,,,0,https://fortmyerschristianschool.com/wp-content/uploads/Tuition-Information-26-27.pdf,2026-10-08,live,"K-5 12,777; 6-8 13,273; VPK excluded",high
 6689,Lee,Goddard School of Estero,Estero,33928,No,No,No,PK,11,2025,tuition_word_no_amount,,,,,,,,,,,
 4085,Lee,GOOD SHEPHERD LUTHERAN SCHOOL,NORTH FORT MYERS,33903,Yes,Yes,Yes,KG-08,121,2026,not_reached,,,,,,,,,,,
-1577,Lee,GOSPEL BAPTIST CHRISTIAN SCHOOL,BONITA SPRINGS,34135,Yes,Yes,Yes,PK-12,90,2026,no_website,,,,,,,,,,,
+1577,Lee,GOSPEL BAPTIST CHRISTIAN SCHOOL,BONITA SPRINGS,34135,Yes,Yes,Yes,PK-12,90,2026,tuition_word_no_amount,,,,,,,,,,,
 7495,Lee,GRACE CLASSICAL ACADEMY,BONITA SPRINGS,34133,Yes,Yes,Yes,KG-08,116,2026,found,2026-27,,,,12300,0,https://wearegca.com/tuition-fees/,2026-10-08,live,full-time K-8 paid in full by July 1; 5% finance fee for installments,high
 1844,Lee,GRACE COMMUNITY SCHOOL,BONITA SPRINGS,34135,Yes,Yes,Yes,PK-11,145,2025,unclear,,,,,,0,https://www.gracecommunityschools.com/,2026-10-08,live,preschool and childcare offers,
 4494,Lee,GRACE COMMUNITY SCHOOL OF FORT MYERS INC.,FT. MYERS,33907,Yes,Yes,Yes,PK-12,167,2025,unclear,,,,,,0,https://www.gracecommunityschools.com/,2026-10-08,live,childcare offers only,
@@ -1973,7 +1973,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 3304,Lee,IN YOUR HANDS BEHAVIOR,N FORT MYERS,33903,No,Yes,Yes,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 470,Lee,KINGDOM CHRISTIAN ACADEMY OF EXCELLENCE,LEHIGH ACRES,33936,Yes,No,No,,0,2026,not_attempted_no_enrollment,,,,,,,,,,,
 7698,Lee,LEE AUTISM ACADEMY,FORT MYERS,33901,No,No,No,06-12,10,2026,not_reached,,,,,,,,,,,
-9541,Lee,LEHIGH ACRES CHRISTIAN SCHOOL,LEHIGH ACRES,33970,Yes,Yes,Yes,KG-12,132,2025,not_attempted_no_own_domain,,,,,,,,,,,
+9541,Lee,LEHIGH ACRES CHRISTIAN SCHOOL,LEHIGH ACRES,33970,Yes,Yes,Yes,KG-12,132,2025,not_reached,,,,,,,,,,,
 2324,Lee,LIVING WORD CHRISTIAN SCHOOL,NORTH FORT MYERS,33903,Yes,Yes,Yes,KG-12,71,2025,not_reached,,,,,,,,,,,
 404,Lee,MAIMONIDES HEBREW DAY SCHOOL,FT. MYERS,33919,Yes,Yes,Yes,01-07,5,2025,no_website,,,,,,,,,,,
 7757,Lee,MILLENNIUM CHRISTIAN ACADEMY,FORT MYERS,33905,Yes,Yes,Yes,PK-07,29,2025,not_reached,,,,,,,,,,,
@@ -2019,7 +2019,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 7387,Leon,Epiphany Lutheran Classical School,,,Yes,No,No,PK,68,2025,not_reached,,,,,,,,,,,
 3964,Leon,FAITH BAPTIST CHURCH CHILD DEVELOPMENT CENT,TALLAHASSEE,32311,Yes,No,No,PK,9,2025,no_website,,,,,,,,,,,
 1828,Leon,FAITH PRESBYTERIAN CHURCH PRESCHOOL,TALLAHASSEE,32303,Yes,Yes,Yes,PK-KG,45,2025,not_reached,,,,,,,,,,,
-2260,Leon,FRANKLIN ACADEMY INC.,TALLAHASSEE,32304,Yes,Yes,Yes,KG-12,43,2025,not_attempted_no_own_domain,,,,,,,,,,,
+2260,Leon,FRANKLIN ACADEMY INC.,TALLAHASSEE,32304,Yes,Yes,Yes,KG-12,43,2025,not_reached,,,,,,,,,,,
 8581,Leon,GIANT CAMPUS ACADEMY,Tempe,85281,No,No,No,06-12,22,2025,not_reached,,,,,,,,,,,
 7642,Leon,GRAHAM PRIVATE CHRISTIAN HIGH SCHOOL,TALLAHASSEE,32303,Yes,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 729,Leon,GRASSROOTS FREE SCHOOL,TALLAHASSEE,32311,No,Yes,Yes,KG-09,29,2025,not_attempted_no_own_domain,,,,,,,,,,,
@@ -2051,7 +2051,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 8097,Leon,V.O.W N.O.W ACADEMY,TALLAHASSEE,32312,Yes,Yes,Yes,PK-12,92,2025,found,,,,,13000,0,https://vownowacademy.org/tuition-and-fees/,2026-10-08,live,"standard tuition; international 16,000; year not stated",high
 8247,Levy,Beacon Christian Academy,Chiefland,32644,Yes,No,No,KG-05,11,2025,not_attempted_no_own_domain,,,,,,,,,,,
 9560,Levy,C.I.L. dba Recalibrate Academy,WILLISTON,32696,Yes,Yes,Yes,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
-3500,Levy,CREEKSIDE CHRISTIAN SCHOOL,OTTER CREEK,32683,Yes,Yes,Yes,PK-12,71,2025,not_attempted_no_own_domain,,,,,,,,,,,
+3500,Levy,CREEKSIDE CHRISTIAN SCHOOL,OTTER CREEK,32683,Yes,Yes,Yes,PK-12,71,2025,not_reached,,,,,,,,,,,
 7918,Levy,Legacy Chiefland,Chiefland,32644,Yes,Yes,Yes,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 8314,Levy,NEXT GENERATION,WILLISTON,32696,Yes,Yes,Yes,KG-12,24,2025,not_attempted_no_own_domain,,,,,,,,,,,
 1047,Levy,VISION CHRISTIAN ACADEMY,WILLISTON RALEIGH,32696,Yes,Yes,Yes,KG-11,46,2025,not_attempted_no_own_domain,,,,,,,,,,,
@@ -2305,7 +2305,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 6327,Orange,DISCOVERY ZONE PRESCHOOL,ORLANDO,32825,No,Yes,Yes,KG-01,10,2026,not_attempted_no_own_domain,,,,,,,,,,,
 6068,Orange,DIVINELY ORDERED PREP SCHOOL,ORLANDO,32808,No,Yes,Yes,KG-03,7,2025,not_attempted_no_own_domain,,,,,,,,,,,
 8180,Orange,DREAM BIG ACADEMY OF LEARNING DBA GREAT BEG,APOPKA,32712,Yes,Yes,Yes,PK-11,35,2025,not_attempted_no_own_domain,,,,,,,,,,,
-8939,Orange,DREAMLIGHT HIGH SCHOOL,APOPKA,32703,Yes,No,No,09-12,66,2026,not_attempted_no_own_domain,,,,,,,,,,,
+8939,Orange,DREAMLIGHT HIGH SCHOOL,APOPKA,32703,Yes,No,No,09-12,66,2026,unclear,,,,,,0,https://dreamlighthighschool.com/,2026-10-08,live,adult high school tuition and quotes,
 8540,Orange,E. H. MOTT LEARNING CENTER,ORLANDO,32818,No,Yes,Yes,01-12,12,2025,not_attempted_no_own_domain,,,,,,,,,,,
 1756,Orange,EASTLAND CHRISTIAN SCHOOL,ORLANDO,32825,Yes,Yes,Yes,PK-12,239,2025,not_reached,,,,,,,,,,,
 3517,Orange,EDGEWOOD RANCH ACADEMY,ORLANDO,32835,Yes,Yes,Yes,05-11,20,2025,no_website,,,,,,,,,,,
@@ -2411,8 +2411,8 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 6150,Orange,Montessori Kids Academy of Windermere,,,No,Yes,Yes,PK-KG,12,2025,not_attempted_no_own_domain,,,,,,,,,,,
 8950,Orange,MONTESSORI SCHL OF LAKE NONA DBA NONA PARK,ORLANDO,32827,No,Yes,Yes,PK-08,192,2026,no_website,,,,,,,,,,,
 5087,Orange,MONTESSORI SCHOOL OF EAST ORLANDO,ORLANDO,32826,No,Yes,Yes,PK-08,61,2025,unclear,,,,,,0,,2026-10-08,live,no dollar lines found,
-4916,Orange,MONTESSORI WAY SCHOOL,ORLANDO,32837,No,Yes,Yes,PK-06,87,2025,not_attempted_no_own_domain,,,,,,,,,,,
-2807,Orange,MONTESSORI WORLD SCHOOL,ORLANDO,32836,No,Yes,Yes,PK-06,165,2025,no_website,,,,,,,,,,,
+4916,Orange,MONTESSORI WAY SCHOOL,ORLANDO,32837,No,Yes,Yes,PK-06,87,2025,unclear,,,,,,0,https://montessoriwayschool.com/wp-content/uploads/2025/01/Tuition-Schedule-2024-2025.pdf,2026-10-08,live,"VPK and fee lines only, 2024-25 page",
+2807,Orange,MONTESSORI WORLD SCHOOL,ORLANDO,32836,No,Yes,Yes,PK-06,165,2025,tuition_word_no_amount,,,,,,,,,,,
 1654,Orange,MORNING STAR CATHOLIC SCHOOL,ORLANDO,32804,Yes,Yes,Yes,01-12,69,2025,found,2026-27,,,,21215,0,https://www.morningstarorlando.org/enroll,2026-10-08,live,"special needs school; tuition 21,215 and tuition plus fees 22,465",low
 3633,Orange,MOSES MARY CHRISTIAN ACADEMY CORP,KISSIMMEE,34744,Yes,Yes,Yes,06-12,38,2025,not_attempted_no_own_domain,,,,,,,,,,,
 1416,Orange,MURPHY CHRISTIAN ACADEMY,ORLANDO,32819,Yes,Yes,Yes,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
@@ -2573,7 +2573,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 7277,Osceola,KCBS ADVANCE ACADEMY,SAINT CLOUD,34769,No,Yes,Yes,KG-05,49,2025,tuition_word_no_amount,,,,,,,,,,,
 4177,Osceola,KCBS ADVANCE ACADEMY OF KISSIMMEE,KISSIMMEE,34741,No,No,No,PK,10,2025,not_attempted_no_own_domain,,,,,,,,,,,
 9047,Osceola,KIDSVILLE ACADEMY 2,KISSIMMEE,34744,No,Yes,Yes,PK-12,103,2026,no_website,,,,,,,,,,,
-7248,Osceola,KINGDOM KIDS CHRISTIAN ACADEMY,KISSIMMEE,34741,Yes,Yes,Yes,PK-12,185,2025,not_attempted_no_own_domain,,,,,,,,,,,
+7248,Osceola,KINGDOM KIDS CHRISTIAN ACADEMY,KISSIMMEE,34741,Yes,Yes,Yes,PK-12,185,2025,unclear,,,,,,0,https://www.kingdomkidsca.com/tuition-fees,2026-10-08,live,weekly preschool rates and fees,
 1396,Osceola,KIOMY'S ELITE ACADEMY LLC,KISSIMMEE,34743,Yes,Yes,Yes,PK-12,58,2025,tuition_word_no_amount,,,,,,,,,,,
 8425,Osceola,KISSIMMEE CHRISTIAN ACADEMY,KISSIMMEE,34744,Yes,Yes,Yes,PK-08,205,2025,unclear,,,,,,0,https://kissimmeechristianacademy.org/tuition,2026-10-08,live,"monthly rates, number of months not stated",
 1348,Osceola,LADYBIRD ACADEMY OF ST. CLOUD,SAINT CLOUD,34769,No,No,No,PK,200,2026,not_reached,,,,,,,,,,,
@@ -2593,7 +2593,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 9340,Osceola,NAZARET CHRISTIAN ACADEMY INC.,KISSIMMEE,34744,Yes,Yes,Yes,PK-12,250,2025,not_attempted_no_own_domain,,,,,,,,,,,
 7472,Osceola,NEW DIRECTION ACADEMY,HAINES CITY,33844,No,Yes,Yes,02-12,62,2025,tuition_word_no_amount,,,,,,,,,,,
 4240,Osceola,NEW JERUSALEM ACADEMY,KISSIMMEE,34759,Yes,Yes,Yes,KG-12,117,2025,tuition_word_no_amount,,,,,,,,,,,
-1550,Osceola,NORTH KISSIMMEE CHRISTIAN SCHOOL,KISSIMMEE,34741,Yes,Yes,Yes,PK-12,318,2025,not_attempted_no_own_domain,,,,,,,,,,,
+1550,Osceola,NORTH KISSIMMEE CHRISTIAN SCHOOL,KISSIMMEE,34741,Yes,Yes,Yes,PK-12,318,2025,not_reached,,,,,,,,,,,
 6816,Osceola,OAN CHRISTIAN ACADEMY,KISSIMMEE,34745,Yes,No,No,05-12,6,2025,not_reached,,,,,,,,,,,
 4553,Osceola,ORIGINS RECLAIMED ACADEMY LLC,HARMONY,34773,No,No,No,KG-06,9,2025,not_attempted_no_own_domain,,,,,,,,,,,
 670,Osceola,OSCEOLA ADVENTIST CHRISTIAN SCHOOL,KISSIMMEE,34744,Yes,Yes,Yes,PK-12,117,2026,network_site_only,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",
@@ -2747,7 +2747,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 7576,Palm Beach,PROCHILD LLC,LAKE WORTH,33460,Yes,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 587,Palm Beach,PROJECT INFINITY GROUP LLC,BOCA RATON,33486,No,Yes,Yes,02-12,18,2025,not_reached,,,,,,,,,,,
 7975,Palm Beach,PROVIDENCE EDUCATION GROUP LLC,TEQUESTA,33469,No,Yes,Yes,KG-10,50,2025,found,2026,,,,8400,0,https://providenceschool.education/tuition-scholarships/,2026-10-08,live,"tuition per year 8,400; add-on courses and fees excluded",low
-2912,Palm Beach,RJ HENDLEY CHRISTIAN COMMUNITY SCHOOL,RIVIERA BEACH,33404,Yes,Yes,Yes,PK-08,93,2025,not_attempted_no_own_domain,,,,,,,,,,,
+2912,Palm Beach,RJ HENDLEY CHRISTIAN COMMUNITY SCHOOL,RIVIERA BEACH,33404,Yes,Yes,Yes,PK-08,93,2025,not_reached,,,,,,,,,,,
 1979,Palm Beach,ROSARIAN ACADEMY,WEST PALM BEACH,33401,Yes,Yes,Yes,PK-08,412,2025,unclear,,,,,,0,,2026-10-08,live,no dollar lines found,
 1994,Palm Beach,SACRED HEART SCHOOL,LAKE WORTH,33460,Yes,Yes,Yes,PK-08,206,2026,no_website,,,,,,,,,,,
 2047,Palm Beach,SAINT ANN CATHOLIC SCHOOL,WEST PALM BEACH,33401,Yes,Yes,Yes,PK-08,316,2025,not_reached,,,,,,,,,,,
@@ -2841,13 +2841,13 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 2048,Pasco,GENESIS PREPARATORY SCHOOL OF FLORIDA,NEW PORT RICHEY,34655,No,Yes,Yes,PK-12,211,2025,unclear,,,,,,0,,2026-10-08,live,no dollar lines found,
 8807,Pasco,GODDARD SCHOOL,WESLEY CHAPEL,33544,No,Yes,Yes,PK-KG,43,2025,tuition_word_no_amount,,,,,,,,,,,
 1886,Pasco,GRACE CHRISTIAN SCHOOLS OF PASCO,HUDSON,34669,Yes,Yes,Yes,KG-12,149,2026,not_reached,,,,,,,,,,,
-3334,Pasco,HERITAGE ACADEMY,ZEPHYRHILLS,33541,Yes,Yes,Yes,KG-08,152,2026,no_website,,,,,,,,,,,
+3334,Pasco,HERITAGE ACADEMY,ZEPHYRHILLS,33541,Yes,Yes,Yes,KG-08,152,2026,tuition_word_no_amount,,,,,,,,,,,
 9825,Pasco,HOPE FOR TOMORROW CAMPUS,HUDSON,34667,Yes,Yes,Yes,09-12,33,2025,tuition_word_no_amount,,,,,,,,,,,
 4678,Pasco,HOPE RANCH LEARNING ACADEMY,HUDSON,34667,Yes,Yes,Yes,KG-11,84,2025,tuition_word_no_amount,,,,,,,,,,,
 8276,Pasco,HOPE RANCH LEARNING ACADEMY-LIVING HOPE,HUDSON,34667,Yes,Yes,Yes,06-12,109,2025,tuition_word_no_amount,,,,,,,,,,,
 7157,Pasco,KIDS' STUFF PRESCHOOL AND KINDERGARTEN,LUTZ,33549,No,Yes,Yes,PK-04,39,2025,not_attempted_no_own_domain,,,,,,,,,,,
 1933,Pasco,LAND O' LAKES CHRISTIAN SCHOOL,LAND O' LAKES,34639,Yes,No,No,PK-12,546,2026,not_reached,,,,,,,,,,,
-5638,Pasco,Lighthouse Community School,Wesley Chapel,33545,Yes,Yes,Yes,PK-03,126,2025,not_attempted_no_own_domain,,,,,,,,,,,
+5638,Pasco,Lighthouse Community School,Wesley Chapel,33545,Yes,Yes,Yes,PK-03,126,2025,not_reached,,,,,,,,,,,
 4958,Pasco,LITTLE PEOPLES CHRISTIAN DAYCARE/ ACADEMY,ZEPHYRHILLS,33542,Yes,Yes,Yes,03-10,12,2025,not_attempted_no_own_domain,,,,,,,,,,,
 1346,Pasco,LOLA ACADEMY INC,NEW PORT RICHEY,34655,No,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 145,Pasco,LUMINARY ACADEMY,DADE CITY,33525,No,No,No,KG-09,19,2025,no_website,,,,,,,,,,,
@@ -2892,7 +2892,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 1579,Pinellas,AMBLESIDE SCHOOL OF FAITH CHURCH,SEMINOLE,33772,Yes,Yes,Yes,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 9280,Pinellas,ARQAM'S ACADEMY,ST PETERSBURG,33705,Yes,Yes,Yes,PK-12,82,2025,tuition_word_no_amount,,,,,,,,,,,
 2524,Pinellas,AUTISM INSPIRED ACADEMY,CLEARWATER,33764,No,Yes,Yes,KG-12,128,2025,found,,,,,24000,0,https://autisminspired.org/enrollment-tuition/,2026-10-08,live,tuition per year at a school for autism; page mentions 2024-25 and 2025-26 so the year is not clear,medium
-2265,Pinellas,BAY PINES LUTHERAN SCHOOL,SEMINOLE,33772,Yes,Yes,Yes,PK-08,60,2025,no_website,,,,,,,,,,,
+2265,Pinellas,BAY PINES LUTHERAN SCHOOL,SEMINOLE,33772,Yes,Yes,Yes,PK-08,60,2025,found,2026-27,9000,9000,,,0,https://www.baypineslutheranschool.org/k-8-enrollment/,2026-10-08,live,"K-8 tuition 9,000",high
 9552,Pinellas,BECAUSE YOU CAN LEARN,TREASURE ISLAND,33706,No,Yes,Yes,PK-02,9,2025,not_reached,,,,,,,,,,,
 4229,Pinellas,BETHEL COMMUNITY CHRISTIAN SCHOOL,ST. PETERSBURG,33712,Yes,Yes,Yes,KG-11,53,2025,not_attempted_no_own_domain,,,,,,,,,,,
 1474,Pinellas,BLESSED SACRAMENT CATHOLIC SCHOOL,SEMINOLE,33772,Yes,Yes,Yes,PK-08,326,2026,tuition_word_no_amount,,,,,,,,,,,
@@ -3457,7 +3457,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 2416,Volusia,DELAND MONTESSORI SCHOOL,DELAND,32724,No,Yes,Yes,PK-06,115,2025,tuition_word_no_amount,,,,,,,,,,,
 9362,Volusia,DELAND PREPARATORY ACADEMY,DELAND,32720,No,Yes,Yes,05-12,117,2025,found,2026-27,,7900,8300,,0,https://www.delandprep.org/academics,2026-10-08,live,"grades 5-8 7,900; 9-12 8,300; technology fee separate",high
 1244,Volusia,DELTONA ADVENTIST SCHOOL,DELTONA,32738,Yes,Yes,Yes,PK-08,76,2025,network_site_only,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",
-2364,Volusia,DELTONA CHRISTIAN ACADEMY,DELTONA,32725,Yes,No,No,KG-12,13,2025,not_attempted_no_own_domain,,,,,,,,,,,
+2364,Volusia,DELTONA CHRISTIAN ACADEMY,DELTONA,32725,Yes,No,No,KG-12,13,2025,found,2026-27,9023,9517,9929,,0,https://deltonachristianschool.org/admissions/financial-information,2026-10-08,live,"K5-5th 9,023; 6-8 9,517; 9-12 9,929; K3 4,357 excluded; supply fees separate",high
 4589,Volusia,DELTONA CHRISTIAN SCHOOL,DELTONA,32738,Yes,Yes,Yes,06-12,59,2025,found,2026-27,9023,9517,9929,,0,https://deltonachristianschool.org/admissions/financial-information,2026-10-08,live,"K5-5 9,023; 6-8 9,517; 9-12 9,929 (10 monthly payments); same page as school 1404",high
 1404,Volusia,DELTONA CHRISTIAN SCHOOL,DELTONA,32725,Yes,Yes,Yes,PK-05,118,2025,found,2026-27,9023,9517,9929,,0,https://deltonachristianschool.org/admissions/financial-information,2026-10-08,live,"K5-5 9,023; 6-8 9,517; 9-12 9,929 (10 monthly payments); K3 excluded",high
 1805,Volusia,DISCOVERY ACADEMY,EDGEWATER,32132,No,Yes,Yes,KG-08,129,2025,found,2025-26,,,,8500,0,https://www.discovery-academy.org/admissions/tuition-and-financial-aid,2026-10-08,live,tuition per year,high
@@ -3538,4 +3538,4 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 9788,Washington,GRACE GLORY CHRISTIAN SCHOOL 2,CHIPLEY,32428,Yes,Yes,Yes,PK-02,88,2025,not_attempted_no_own_domain,,,,,,,,,,,
 5718,Washington,HWY 77 MINISTRIES INC.,CHIPLEY,32428,Yes,Yes,Yes,05-10,2,2025,not_attempted_no_own_domain,,,,,,,,,,,
 3546,Washington,TRI COUNTY CHRISTIAN SCHOOL,CHIPLEY,32428,Yes,Yes,Yes,KG,3,2025,not_attempted_no_own_domain,,,,,,,,,,,
-4584,Washington,WASHINGTON COUNTY CHRISTIAN SCHOOL,CHIPLEY,32428,Yes,Yes,Yes,PK-12,207,2025,not_attempted_no_own_domain,,,,,,,,,,,
+4584,Washington,WASHINGTON COUNTY CHRISTIAN SCHOOL,CHIPLEY,32428,Yes,Yes,Yes,PK-12,207,2025,not_reached,,,,,,,,,,,

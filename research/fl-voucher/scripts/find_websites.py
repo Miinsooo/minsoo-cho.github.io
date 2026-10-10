@@ -49,6 +49,20 @@ def slugs(name):
     if len(ac) >= 3: add(ac); add(ac + "school"); add(ac + "fl")
     return out[:9]
 
+EXT_TLDS = [".org", ".com", ".church", ".net", ".school", ".edu", ".us", ".co", ".online"]
+def slugs_ext(name):
+    """Second pass: parish and church-school patterns (stanastasiaschool, stjoancs, ...) and more endings."""
+    w = words(name); core = [x for x in w if x not in STOP]
+    st = ["st" if x == "saint" else x for x in core]
+    nogen = [x for x in st if x not in GENERIC]
+    base = "".join(nogen) or "".join(st)
+    out = []
+    for suf in ["catholicschool", "catholic", "parishschool", "cs", "school", "academy", "christianschool", "ca", "cca", "prep", "ps", "sch"]:
+        for b in (base, "".join(st)):
+            x = re.sub(r"[^a-z0-9]", "", b + suf)
+            if 4 <= len(x) <= 40 and x not in out: out.append(x)
+    return out[:14]
+
 def clean(h):
     h = re.sub(r"<(script|style|noscript).*?</\1>", " ", h, flags=re.S | re.I)
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", h))).lower()
@@ -68,9 +82,10 @@ def verify(s, text):
     edu = len(set(EDU.findall(text)))
     return round(cov, 2) if (city_ok or zip_ok) and edu >= 3 else 0.0
 
+EXT = False
 def find(s):
-    for sl in slugs(s["school_name"]):
-        for tld in TLDS:
+    for sl in (slugs_ext(s["school_name"]) if EXT else slugs(s["school_name"])):
+        for tld in (EXT_TLDS if EXT else TLDS):
             code, final, body = curl(f"https://{sl}{tld}")
             if code == 200 and len(body) > 500:
                 sc = verify(s, clean(body))
@@ -80,7 +95,9 @@ def find(s):
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(); ap.add_argument("--limit", type=int); ap.add_argument("--which", default="both")
     ap.add_argument("--workers", type=int, default=16); ap.add_argument("--sample", action="store_true"); ap.add_argument("--out", default=OUT)
+    ap.add_argument("--ext", action="store_true", help="second pass with parish/church-school patterns and more endings")
     a = ap.parse_args()
+    EXT = a.ext
     schools = list(csv.DictReader(open("data/processed/fl_directory_2026.csv")))
     status = {}
     if os.path.exists("data/processed/tuition_evidence.jsonl"):
@@ -94,7 +111,8 @@ if __name__ == "__main__":
     if os.path.exists(a.out): done = {r["school_code"] for r in csv.DictReader(open(a.out))}
     tried = set()
     if os.path.exists(a.out + ".tried"): tried = set(open(a.out + ".tried").read().split())
-    todo = [s for s in pool if s["school_code"] not in tried]
+    known = {r["school_code"] for r in csv.DictReader(open(OUT))} if os.path.exists(OUT) else set()
+    todo = [s for s in pool if s["school_code"] not in tried and s["school_code"] not in known]
     if a.sample: random.Random(1).shuffle(todo)
     todo = todo[: a.limit]
     print(f"pool {len(pool)}, already tried {len(tried)}, to run {len(todo)}", flush=True)
