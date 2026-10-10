@@ -1,0 +1,15 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+1489 | 2026-27 | 13063 |  |  |  | 0 | medium | found | Montessori elementary full day 13,063 per year (1,333 monthly)
+1583 | 2026-27 | 8705 | 8500 |  |  | 0 | high | found | K-5 8,705; 6-8 8,500; rate without VPK certificate
+1660 | 2026-27 | 9900 | 9900 |  |  | 0 | high | found | K-8 tuition 9,900; academic and activities fee 1,250 separate
+3472 | 2026-27 | 19500 | 19500 |  |  | 0 | high | found | K-8 yearly tuition 19,500
+3529 | 2026-27 | 11000 | 11000 |  |  | 0 | high | found | K-8 programme annual plan 11,000; pre-primary excluded
+3665 | 2026-27 | 28886 | 29573 |  |  | 0 | high | found | K-5 28,886; 6-8 29,573; younger grades excluded
+3949 | 2026-27 | 14850 |  |  |  | 0 | medium | found | Montessori elementary (ages 6-12) 14,850; primary excluded
+5454 | 2026-27 | 11750 | 11750 |  |  | 0 | high | found | K-8 tuition 11,750 (based on cost to educate); PreK excluded
+6092 | 2025-26 | 7131 | 6504 | 6442 |  | 0 | high | found | K5-3 7,131; 4-8 6,504; 9-12 6,442
+6453 | 2026-27 |  |  |  | 14000 | 1 | medium | found | K-12 general education 14,000; service tiers 24,500 to 48,500 excluded
+6836 | 2025-26 | 8000 | 7800 |  |  | 0 | high | found | elementary 8,000; middle 7,800
+708 | 2026-27 | 9100 | 9100 | 9100 |  | 0 | medium | found | lower school K-5 and upper school 6-12 both 9,100; page lists 2025-26 and 2026-27
+9550 | 2026-27 | 9275 | 10375 | 10375 |  | 0 | medium | found | K-6 9,275; 7-10 10,375
+9427 |  | 12600 |  |  |  | 0 | medium | found | 1st-6th grade full time 12,600; year not stated

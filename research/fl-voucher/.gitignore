@@ -1,0 +1,5 @@
+# Raw downloads are large and reproducible from scripts/ + data/raw/SOURCE_LOG.csv
+data/raw/*/
+# Crawl evidence is large and reproducible with scripts/collect_tuition.py; the coded tuition CSV is what gets tracked
+data/processed/tuition_evidence*.jsonl
+data/processed/*.tried

@@ -1,0 +1,40 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+2522 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+2524 |  |  |  |  | 24000 | 0 | medium | found | tuition per year at a school for autism; page mentions 2024-25 and 2025-26 so the year is not clear
+2534 |  | 13590 | 14235 | 14965 |  | 0 | medium | found | K5-5 13,590; 6-8 14,235; 9-12 14,965; page mentions 2026-27 and 2027-28; K2-K4 excluded
+2552 | 2026-27 |  |  | 19725 |  | 0 | medium | found | non-parishioner rate for grades 9-11 (grade 12 20,000); Catholic rate 18,975; page also mentions 2025-26
+2590 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+2597 | 2026-27 | 37200 | 39300 |  |  | 0 | high | found | K 33,000; 1-2 36,000; 3-5 37,200; 6-8 39,300; PK excluded
+2599 |  |  |  |  |  | 0 |  | unclear | boarding rates only
+2609 | 2026-27 |  | 9950 | 11800 |  | 0 | high | found | standard tier: 6-8 9,950; 9-12 11,800; higher remediation tiers excluded
+2618 | 2026-27 |  |  |  | 34000 | 0 | high | found | Plan A pay-in-full 34,000; installment plans total 34,680 and 35,360
+2629 |  |  |  |  |  | 0 |  | unclear | only fees seen
+2630 | 2026-27 |  |  |  | 10050 | 0 | high | found | K-8; PK1-PK4 9,000 excluded
+2644 | 2026-27 | 13505 | 14535 |  |  | 0 | high | found | K-5 13,505; 6-8 14,535; annual tuition credits of 370 and 520 not applied; K-Prep excluded
+2664 |  |  |  |  | 4600 | 0 | low | found | page says basic tuition 4,600 per year but notes the fee may have changed; year not stated
+2677 | 2026-27 |  |  |  | 15000 | 0 | high | found | annual tuition; extra 1,000 for the CCREST program
+2678 |  |  |  |  |  | 0 |  | unclear | amounts without clear labels
+2690 |  |  |  |  |  | 0 |  | unclear | aftercare and fees only
+2693 | 2026-27 | 12000 | 12000 | 12000 |  | 0 | high | found | academic program rates; special programs 9,000-16,000 and pre-K excluded
+2695 | 2026-27 | 46200 | 53800 | 56400 |  | 0 | high | found | grades 1-4 46,200; 5 50,100; 6-8 53,800; 9-12 56,400; early childhood 43,600 excluded
+2707 | 2026-27 | 9579 | 10200 | 10200 |  | 0 | high | found | K-5 9,579; 6-12 10,200; preschool excluded
+2713 |  |  |  |  |  | 0 |  | unclear | two amounts with unclear labels
+2765 |  |  |  |  |  | 0 |  | unclear | amounts without clear labels
+2786 |  |  |  |  |  | 0 |  | unclear | exam fee only
+2796 |  |  |  |  | 57300 | 0 | medium | found | tuition including lunch; page mentions 2026-27 and 2027-28
+2802 |  | 30430 |  |  |  | 0 | medium | found | derived: 10 installments of 3,043 for grades 1-5; K 2,481 x 10
+2818 |  |  |  |  |  | 0 |  | unclear | international service fee only
+2822 | 2026-27 | 9475 | 9075 |  |  | 0 | high | found | annual fee includes tuition, textbooks and materials: K-3 9,475; 4-8 9,075; pre-K excluded
+2832 | 2026-27 |  |  |  | 10753 | 0 | high | found | all other families; participating Catholic families 10,003
+2836 | 2026-27 | 8950 | 8750 |  |  | 0 | high | found | PreK2-3 8,950; 4-8 8,750
+2842 | 2026-27 | 7995 | 7495 | 7495 |  | 0 | high | found | K-3 7,995; 4-12 7,495; part-week programs excluded
+2844 |  |  |  |  |  | 0 |  | unclear | after-school program only
+2846 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+2856 |  |  |  |  |  | 0 |  | unclear | several years of rates on the page
+2864 | 2026-27 |  |  |  | 10800 | 0 | high | found | first child; additional children 8,640
+2866 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+2879 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+2880 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
+2884 |  |  |  |  |  | 0 |  | unclear | application fee only
+2886 | 2027-28 |  |  |  | 7800 | 0 | high | found | K-8
+2896 | 2026-27 | 10500 | 11000 |  |  | 0 | high | found | K-5 10,500; 6-8 11,000; PK2-PK4 9,500; Coral Way campus K-8 19,900 listed separately

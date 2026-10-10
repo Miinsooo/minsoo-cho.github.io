@@ -1,0 +1,39 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+4139 | 2026-27 | 8300 | 8500 | 8800 |  | 0 | high | found | K-5 8,300; 6-8 8,500; 9-12 8,800 (annual); fees separate
+4174 | 2026-27 |  |  |  | 15750 | 0 | high | found | annual tuition per student
+4185 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+4254 |  |  |  |  |  | 0 |  | unclear | tuition levels (10,000 and 20,000) are programme levels, not grades
+4262 | 2026-27 |  |  |  | 16250 | 0 | high | found | one rate for high school; international students 19,625
+4263 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+4265 |  |  |  |  | 15000 | 0 | high | found | annual tuition and materials fee for all students; year not stated
+4272 | 2026-27 | 11000 |  |  |  | 0 | high | found | K-5 per year; VPK excluded
+4283 | 2026-27 |  |  |  | 10600 | 0 | high | found | full tuition, 10-month program; same page as school 1663
+4295 | 2026-27 | 10445 | 11325 | 12425 |  | 0 | high | found | K and 1-5 10,445; 6-8 11,325; 9-12 12,425; 3-year-olds and homeschool classes excluded
+4296 | 2026-27 |  |  |  | 8000 | 0 | high | found | per year; page also mentions 2027-28
+4358 |  |  |  |  |  | 0 |  | unclear | monthly tuition mixed with totals of fees
+4365 | 2020-21 | 7350 |  |  |  | 0 | medium | found | only kindergarten amount visible; page shows 2020-21
+4378 | 2026-27 | 12400 |  |  |  | 0 | high | found | grammar school K-5 12,400; grade 6 12,665; other middle grades not read
+4380 | 2026-27 | 14040 | 14440 | 16840 |  | 0 | high | found | K 10,640; 1-5 14,040; 6-8 14,440; 9-12 16,840; registration and supply fee separate
+4387 | 2026-27 |  |  |  | 11000 | 0 | medium | found | 11,000 per school year in 10 payments; tuition varies by attendance option
+4457 | 2026-27 |  |  |  | 10500 | 0 | high | found | total cost per year including registration, books and testing
+4459 | 2026-27 |  |  |  | 10500 | 0 | high | found | total cost per year including registration, books and testing
+4483 | 2026-27 |  |  |  | 11900 | 0 | high | found | before Step Up scholarship dollars
+4494 |  |  |  |  |  | 0 |  | unclear | childcare offers only
+4533 |  |  |  |  |  | 0 |  | unclear | part-time learning programme
+4540 |  |  |  |  |  | 0 |  | unclear | monthly online access fee and per-course fees
+4585 | 2026-27 |  |  |  | 9000 | 0 | high | found | K-8
+4589 | 2026-27 | 9023 | 9517 | 9929 |  | 0 | high | found | K5-5 9,023; 6-8 9,517; 9-12 9,929 (10 monthly payments); same page as school 1404
+4593 | 2026-27 | 10900 | 10900 |  |  | 0 | high | found | elementary and middle school 10,900; non-VPK pre-K 3,000 excluded
+4614 |  |  |  |  |  | 0 |  | unclear | hybrid part-time tracks, not full-time tuition
+4625 | 2026-27 |  |  |  | 10900 | 0 | high | found | same 10,900 for grammar, logic and rhetoric; preschool excluded
+4645 |  |  |  |  |  | 0 |  | unclear | 2024-25 Montessori rates by programme
+4648 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+4649 |  |  |  |  |  | 0 |  | unclear | online diploma programme fees
+4672 |  |  |  |  |  | 0 |  | unclear | three columns of rates without clear labels
+4683 |  |  |  |  |  | 0 |  | unclear | age-based Montessori monthly rates
+4696 |  |  |  |  |  | 0 |  | unclear | amounts without clear labels
+4697 |  |  |  |  |  | 0 |  | unclear | international fee only
+4713 |  |  |  |  |  | 0 |  | unclear | registration fee only
+4726 |  |  |  |  | 12415 | 0 | medium | found | annual tuition for the school day at this school; part-time and enrichment programmes excluded; year not stated
+4736 |  |  |  |  |  | 0 |  | unclear | tuition of 400 per year for a homeschool-style programme
+4749 | 2026-27 |  |  |  | 7800 | 0 | high | found | tuition per year; curriculum fee 300 separate
