@@ -12,6 +12,7 @@ For each school and each year 2021-2026:
    - `YYYY_snapshot_date`: the copy's date from the address bar.
 3. Annual amounts only (monthly x number of payments is fine, note it). Exclude fees, deposits, preschool/VPK, after-care, international rates, sibling or parish discounts.
 4. If the copy shows no tuition or the page is missing, write `NA` in `YYYY_overall`. If the copy shows the wrong school year (for example next year's rates posted in spring), record the year printed on the page, not the year of the link.
-5. If the tuition page moved, try the school's other pages from that copy (Admissions, Tuition & Fees) and note the address in `notes`.
+5. If the page link says "The Wayback Machine has not archived that URL": that only means the exact current address was never saved (the page may have had another address earlier). Do not mark NA yet. Open the `YYYY home` link (the school's front page saved around that date) and follow its Admissions / Tuition menu; or open the `all` link, which lists every saved address of the school's site, and pick the tuition-like one. Mark `NA` only if the front page has no saved copy for that year or no tuition page can be reached from it.
+6. If the tuition page moved, try the school's other pages from that copy (Admissions, Tuition & Fees) and note the address in `notes`.
 
 When done, send the file back; the values will be merged into a school-by-year file (`fl_tuition_panel_sample.csv`) with the source address and snapshot date for each value.
