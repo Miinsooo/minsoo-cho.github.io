@@ -1,0 +1,37 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+5952 | 2026-27 | 12900 | 15900 |  |  | 0 | medium | found | Montessori programmes mapped to grades: lower elementary 12,900; upper elementary 13,900; adolescent 15,900; full-day primary 11,700 excluded
+5959 | 2026-27 |  | 37900 | 45600 |  | 0 | high | found | middle school 37,900; upper school 45,600; fees separate
+5980 |  |  |  |  |  | 0 |  | unclear | only the cost of the programme seen
+6037 |  |  |  |  | 26500 | 0 | medium | found | tuition marked with an asterisk; year not stated; same page as school 5169
+6064 |  |  |  |  | 10250 | 0 | medium | found | traditional learning programme, full-time in-person K-12; other programmes cost more; year not stated
+6079 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+6100 |  |  |  |  |  | 0 |  | unclear | programme of another operator; scholarship focus
+6104 | 2027-28 |  |  |  | 14700 | 0 | high | found | K-12 five days, books included; three-day 14,200; page also mentions 2026-27
+6165 |  |  |  |  |  | 0 |  | unclear | childcare offers only
+6174 | 2026-27 | 20051 | 20051 | 20327 |  | 0 | high | found | grades 1-8 tuition 20,051 (20,551 with registration fee); grades 9-12 20,327 (20,827 with registration fee)
+6258 | 2026-27 | 13118 | 13660 | 13721 |  | 0 | high | found | K-2 13,118; 3-6 13,300; 7-8 13,660; 9-12 13,721; preschool excluded
+6278 | 2026-27 | 9525 | 9770 | 9920 |  | 0 | high | found | K-5 9,525; 6-8 9,770; 9-12 9,920; fees separate
+6297 | 2026-27 |  |  |  | 8400 | 0 | high | found | annual tuition; monthly 840 for 10 months
+6298 | 2026-27 | 41900 | 43260 | 44100 |  | 0 | high | found | K-2 41,900; 3-5 42,750 (tied, lower rate used); 6-8 43,260; 9-12 44,100; school for students with autism
+6302 | 2026-27 | 9145 | 9695 | 10135 |  | 0 | high | found | K-3 9,145; 4-5 9,195; 6-8 9,695; 9-11 10,135
+6308 |  |  |  |  | 12566 | 0 | high | found | full-time traditional and hybrid, same for 1-5, 6-8 and 9-12; part-time and half-day options excluded; year not stated
+6323 | 2025-26 |  |  |  | 11950 | 0 | medium | found | total cost of tuition; families pay a need-based share starting at 250; same page as school 1313
+6330 | 2026-27 |  |  |  | 9500 | 0 | high | found | base tuition for all grades; total with fees 10,200
+6336 | 2026-27 | 11500 | 12000 | 13000 |  | 0 | high | found | K-5 11,500; 6-8 12,000; 9-12 13,000
+6363 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+6378 | 2026-27 | 16475 | 17525 |  |  | 0 | high | found | K 15,180; 1-4 16,475; 5-8 17,525; preschool excluded; activity and technology fee separate
+6427 | 2026-27 |  |  |  | 9500 | 0 | high | found | published full-time annual tuition; same page as school 1484
+6445 | 2025-26 |  |  |  | 21500 | 0 | medium | found | annual tuition; page mentions the June 2025 to May 2026 payment schedule
+6469 | 2026-27 |  |  |  | 29750 | 0 | high | found | standard annual tuition at a hockey academy; goalie 14,875 and inaugural class 25,000 excluded
+6522 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
+6525 | 2026-27 | 18425 | 19155 | 19155 |  | 0 | high | found | grades 1-4 18,425; 5-8 and 9-11 19,155; 2025-26 rates also shown
+6545 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+6572 | 2026-27 | 10200 | 10900 |  |  | 0 | high | found | K-5 10,200; middle school 10,900; part-week programmes excluded
+6596 | 2026-27 | 12625 |  |  |  | 0 | high | found | K-5; PreK excluded
+6641 |  |  |  |  |  | 0 |  | unclear | tutoring rates
+6690 | 2025-26 |  |  |  | 16000 | 1 | medium | found | classroom tuition ranges 16,000 to 25,000 by level of support; lower figure recorded
+6704 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+6719 | 2026-27 | 9700 |  |  |  | 0 | medium | found | kindergarten 9,700; other programmes priced weekly
+6738 | 2023-24 |  |  |  | 15000 | 0 | high | found | K-12 for 2023-24
+6743 |  |  |  |  |  | 0 |  | unclear | bank draft fee only
+6748 |  |  |  |  | 14000 | 0 | high | found | 1,400 per month or 14,000 annually; year not stated

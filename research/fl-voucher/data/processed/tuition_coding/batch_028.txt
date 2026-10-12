@@ -1,0 +1,18 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+176 | 2023-24 |  |  |  | 15000 | 0 | low | found | former tuition page dated 2023-24: 15,000; registration 500 separate
+9538 | 2023-24 |  |  |  | 15000 | 0 | low | found | former tuition page dated 2023-24: 15,000; registration 500 separate
+965 | 2026-27 |  |  |  | 15900 | 0 | high | found | tuition for 2026-27 is 15,900; high school; fees separate
+6148 | 2024-25 |  |  |  | 10950 | 1 | low | found | annual tuition between 10,400 and 11,500 (midpoint); page dated 2024-25
+6333 | 2024-25 |  |  |  | 10950 | 1 | low | found | annual tuition between 10,400 and 11,500 (midpoint); page dated 2024-25
+388 |  |  |  |  |  | 0 |  | unclear | fees only
+993 |  |  |  |  |  | 0 |  | unclear | tuition table not in the text; fees only
+1965 |  |  |  |  |  | 0 |  | unclear | registration fee only
+3283 |  |  |  |  |  | 0 |  | unclear | tuition table not in the text; fees only
+3654 |  |  |  |  |  | 0 |  | unclear | fees and deposit only
+4769 |  |  |  |  |  | 0 |  | unclear | tuition table not in the text; fees only
+5663 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
+6289 |  |  |  |  |  | 0 |  | unclear | first-child 6,250 and later-child 5,500 rates without year or grade labels
+6856 |  |  |  |  |  | 0 |  | unclear | 25 dollar base fee, not tuition
+8359 |  |  |  |  |  | 0 |  | unclear | late fees only
+8771 |  |  |  |  |  | 0 |  | unclear | donation tiers only
+9840 |  |  |  |  |  | 0 |  | unclear | no dollar lines found

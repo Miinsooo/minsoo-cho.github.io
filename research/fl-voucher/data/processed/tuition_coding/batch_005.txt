@@ -1,0 +1,36 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+1366 | 2026-27 |  |  |  | 28330 | 0 | high | found | commuter academic tuition at a school with residential programs; residential rates 53,580 and 60,577 excluded
+1375 |  |  |  |  |  | 0 |  | unclear | umbrella or virtual program fees
+1376 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+1377 |  |  |  |  |  | 0 |  | unclear | only application form text seen
+1397 | 2025-26 |  |  |  | 9350 | 0 | high | found | K-8 tuition rate per student; fees separate
+1398 |  |  |  |  |  | 0 |  | unclear | no tuition amount
+1404 | 2026-27 | 9023 | 9517 | 9929 |  | 0 | high | found | K5-5 9,023; 6-8 9,517; 9-12 9,929 (10 monthly payments); K3 excluded
+1406 | 2026-27 | 9000 | 9000 | 10000 |  | 0 | high | found | K-8 9,000; 9-12 10,000; Pre-K excluded
+1413 |  |  |  |  |  | 0 |  | unclear | umbrella school priced 200-350 per year
+1420 | 2026-27 | 12497 | 12497 | 12997 |  | 0 | medium | found | K 10,716; 1-8 12,497; 9-12 12,997; column meaning inferred from table
+1422 |  |  |  |  |  | 0 |  | network_site_only | only the FLCOE network site was found: range 7,000-14,000 per year
+1426 |  |  |  |  |  | 0 |  | unclear | international student tuition only
+1429 | 2026-27 | 22600 | 27900 | 32650 |  | 0 | medium | found | layout inferred: early childhood 20,950; grades 1-4 22,600; 5-6 26,600; 7-8 27,900; 9-12 32,650
+1433 |  |  |  |  |  | 0 |  | unclear | only cost to educate seen
+1436 | 2026-27 | 27145 | 30950 | 33550 |  | 0 | high | found | K 24,645; 1-5 27,145; 6-8 30,950; 9-12 33,550; pre-K excluded
+1445 |  |  |  |  |  | 0 |  | unclear | online and homeschool tuition only
+1448 | 2026-27 |  |  |  | 10294 | 0 | high | found | full-day K-12; junior kindergarten excluded
+1449 |  |  |  |  |  | 0 |  | unclear | no tuition amount seen
+1459 | 2026-27 | 12250 | 12350 | 13100 |  | 0 | high | found | K-5 12,250; 6-8 12,350; 9th 12,500; 10-12 13,100; PreK excluded
+1475 |  |  |  |  | 8400 | 0 | high | found | elementary and middle school full day; preschool excluded; year not stated
+1483 |  |  |  |  |  | 0 |  | unclear | same Montessori plan table as school 447; not coded
+1484 | 2026-27 |  |  |  | 9500 | 0 | high | found | published full-time annual tuition; books 700 separate
+1485 |  |  |  |  |  | 0 |  | unclear | 2024-25 Montessori rates by program; not coded
+1500 | 2026-27 |  |  |  | 9830 | 0 | high | found | per student; fees separate
+1514 |  |  |  |  |  | 0 |  | unclear | childcare monthly rates only
+1515 | 2026-27 | 9000 |  |  |  | 0 | high | found | K-5 yearly tuition; preschool and infant rates excluded
+1529 |  |  |  |  |  | 0 |  | unclear | only discounts seen
+1533 | 2026-27 | 8450 | 8550 | 8650 |  | 0 | high | found | K-3 8,450; 4-5 8,375; 6-8 8,550; 9-12 8,650 (10 monthly payments)
+1534 | 2026-27 | 16150 | 17250 |  |  | 0 | high | found | K-5 16,150; 6-8 17,250; early childhood excluded
+1536 |  |  |  |  |  | 0 |  | unclear | no tuition amount
+1555 | 2026-27 |  |  |  | 9995 | 0 | high | found | PreK-8 annual tuition per child
+1560 |  | 20840 | 21000 | 21260 |  | 0 | high | found | elementary 20,840; middle 21,000; high 21,260; year not stated
+1578 |  |  |  |  |  | 0 |  | unclear | childcare-style four-week rate
+1598 |  |  |  |  |  | 0 |  | unclear | scholarship information only
+1599 | 2026-27 |  |  |  | 23920 | 0 | high | found | high school tuition; fees separate

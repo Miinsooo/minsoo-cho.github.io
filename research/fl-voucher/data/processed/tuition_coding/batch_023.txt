@@ -1,0 +1,22 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+195 |  | 9200 | 9400 |  |  | 0 | medium | found | K-7 9,200; 8th grade 9,400 (includes promotion fee); 10 payments; year not stated; pre-K excluded
+786 | 2026-27 | 8900 | 8300 | 8100 |  | 0 | high | found | K5-3 8,900; 4-8 8,300; 9-12 8,100; K3-K4 excluded
+850 |  | 9000 |  |  | 9000 | 0 | medium | found | Montessori; K-5 9,000 per year (ten payments of 900); primary ages 3-4 also 9,000; year not stated
+1277 | 2026-27 |  |  |  | 11462 | 0 | medium | found | ten monthly payments of 1,146.20 starting July 2026; school page also describes K-6 scholarship use
+1428 | 2026-27 | 11500 | 13500 | 13500 |  | 0 | high | found | K5-5th 11,500; 6th-12th 13,500; preschool excluded; fees separate
+1603 | 2026-27 | 12777 | 13273 |  |  | 0 | high | found | K-5 12,777; 6-8 13,273; VPK excluded
+1799 | 2025-26 | 9293 | 9448 | 9681 |  | 0 | high | found | K-5 9,293; 6-8 9,448; 9-12 9,681; early education excluded
+2312 | 2026-27 | 14760 | 15420 | 15420 |  | 0 | medium | found | 1,230 per month for ages 6-11 and 1,285 for ages 12-18, 12 payments; registration 950 separate
+2397 | 2026-27 | 12677 | 13670 | 14991 |  | 0 | high | found | first-child rates; K-5 12,677; 6-8 13,670; 9-12 14,991; sibling discounts exist
+3847 | 2026-27 | 8000 | 7400 | 7200 |  | 0 | high | found | traditional enrollment: K-3 8,000; 4-8 7,400; 9-12 7,200; academic services programmes excluded
+4158 | 2023-24 | 11700 |  |  |  | 0 | low | found | 1,170 per month for 10 payments (Aug-May); page text dated 2022-23/2023-24; K-5 and 6th
+5519 | 2026-27 | 15900 | 16300 |  |  | 0 | medium | found | K4 without VPK and K-5 15,900; 6th-7th 16,300; 8th not seen
+5616 | 2026-27 | 10400 | 10600 | 10800 |  | 0 | high | found | K-3 10,400; 4-8 10,600; 9-12 10,800; tuition includes books and fees
+6320 | 2026-27 | 10805 | 10805 |  |  | 0 | high | found | elementary and middle school tuition 10,805; curriculum fee 500 separate
+6542 | 2025-26 | 18000 |  |  |  | 0 | low | found | kindergarten and first grade only: 18,000 per year
+7246 | 2026-27 | 18500 | 22000 | 23500 |  | 0 | high | found | K-5 18,500; 6th 20,000; 7-8 22,000; 9-12 23,500; early childhood excluded
+7935 | 2026-27 | 8750 | 9200 |  |  | 1 | medium | found | annual tuition K-2 8,750; 3-5 8,900; 6th 9,200
+7975 | 2026 |  |  |  | 8400 | 0 | low | found | tuition per year 8,400; add-on courses and fees excluded
+8291 | 2026-27 |  |  |  | 15000 | 0 | high | found | KG-12 tuition 15,000; PK3-PK4 12,000 excluded
+8501 | 2026-27 |  | 7850 | 7700 |  | 1 | medium | found | tier 1: 6-8 7,850 and 9-12 7,700; tier 2: 8,250 and 8,100
+1654 | 2026-27 |  |  |  | 21215 | 0 | low | found | special needs school; tuition 21,215 and tuition plus fees 22,465

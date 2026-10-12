@@ -1,0 +1,3 @@
+# code | year | elem | mid | high | overall | range | confidence | status | note
+1549 | 2026-27 | 8771 | 8796 |  |  | 0 | high | found | K-5 8,771; 6-8 8,796; VPK full day excluded
+8882 | 2026-27 | 8975 | 8975 | 8975 |  | 0 | high | found | tuition 8,975 for all grades (K-12); totals with fees 9,640-9,810
