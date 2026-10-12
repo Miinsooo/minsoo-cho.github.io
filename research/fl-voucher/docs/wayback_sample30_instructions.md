@@ -1,3 +1,5 @@
+> UPDATE 2026-10-12: the first 30-school sample (`wayback_sample30.xlsx`) was drawn at random without knowing which pages Wayback had saved, so many links say "No URL has been captured". Use `data/processed/wayback_sample_checked.xlsx` instead (15 schools, one per website). For these, an earlier check of the Wayback index (2026-10-11) showed saved copies of the same page in at least 3 of the years 2021-2026, including 2021, 2022 or 2023; the column `years_with_saved_copy_of_this_page` lists them. Instructions below apply to both files.
+
 # Wayback sample (30 schools): how to fill in past-year tuition by hand
 
 File: `data/processed/wayback_sample30.xlsx` (same content as `wayback_sample30.csv`).
