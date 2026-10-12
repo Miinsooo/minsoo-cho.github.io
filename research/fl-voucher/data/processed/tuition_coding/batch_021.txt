@@ -9,7 +9,7 @@
 1147 |  |  |  |  |  | 0 |  | unclear | no dollar lines found
 1149 |  |  |  |  |  | 0 |  | unclear | scholarship information only
 1258 | 2026-27 |  |  |  | 8050 | 0 | medium | found | tuition 8,050 on the fee sheet; preschool 5,920 excluded; grade bands not clear
-1564 | 2026-20 |  |  |  | 12850 | 0 | medium | found | Montessori full-day programme; half day 11,800; grade bands not clear
+1564 | 2026-27 |  |  |  | 12850 | 0 | medium | found | Montessori full-day programme; half day 11,800; grade bands not clear
 1623 |  |  |  |  |  | 0 |  | unclear | tutoring programme priced by days per week
 1765 |  |  |  |  |  | 0 |  | unclear | scholarship information only
 1810 |  |  |  |  |  | 0 |  | unclear | age-based Montessori monthly rates

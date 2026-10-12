@@ -8,7 +8,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 2300,Alachua,COUNTRYSIDE CHRISTIAN SCHOOL,GAINESVILLE,32606,Yes,Yes,Yes,PK-12,302,2026,no_website,,,,,,,,,,,
 4456,Alachua,FAMILY LIFE ACADEMY,ARCHER,32618,Yes,Yes,Yes,KG-12,41,2026,not_attempted_no_own_domain,,,,,,,,,,,
 5305,Alachua,FIRST CHRISTIAN ACADEMY,HIGH SPRINGS,32643,Yes,Yes,Yes,KG-12,458,2025,not_reached,,,,,,,,,,,
-1564,Alachua,FLOWERS MONTESSORI SCHOOL,GAINESVILLE,32605,No,Yes,Yes,PK-01,39,2026,found,2026-20,,,,12850,0,https://www.flowersmontessori.com/admission,2026-10-08,live,"Montessori full-day programme; half day 11,800; grade bands not clear",medium
+1564,Alachua,FLOWERS MONTESSORI SCHOOL,GAINESVILLE,32605,No,Yes,Yes,PK-01,39,2026,found,2026-27,,,,12850,0,https://www.flowersmontessori.com/admission,2026-10-08,live,"Montessori full-day programme; half day 11,800; grade bands not clear",medium
 5960,Alachua,Foundations Academy of Learning LLC,GAINESVILLE,32601,No,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 234,Alachua,FRAZER SCHOOL,Gainesville,32606,No,Yes,Yes,KG-12,349,2025,found,2026-27,12500,12000,12000,,0,https://frazerschool.org/tuition-and-fees,2026-10-08,live,"K-3 12,500; 4-12 12,000 (early-pay discount 500); a separate parent contribution of 3,500-4,000 is listed and excluded",high
 5968,Alachua,GAINESVILLE CHRISTIAN PREPARATORY SCHOOL,GAINESVILLE,32609,Yes,Yes,Yes,KG-12,91,2025,tuition_word_no_amount,,,,,,,,,,,
@@ -1251,7 +1251,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 4467,Dade,TRINITY CHRISTIAN ACADEMY H.S.,HIALEAH,33014,No,Yes,Yes,KG-12,45,2025,not_attempted_no_own_domain,,,,,,,,,,,
 8462,Dade,TRINITY CHRISTIAN ACADEMY MIDDLE SCHOOL,HIALEAH,33014,No,Yes,Yes,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 1487,Dade,TRU PREP ACADEMY,MIAMI,33055,No,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
-275,Dade,TRUE NORTH CLASSICAL PREPARATORY,MIAMI,33173,No,Yes,Yes,08-12,24,2026,tuition_word_no_amount,,,,,,,,,,,
+275,Dade,TRUE NORTH CLASSICAL PREPARATORY,MIAMI,33173,No,Yes,Yes,08-12,24,2026,not_reached,,,,,,,,,,,
 456,Dade,TUTOR ME DAYCARE ACADEMY,HIALEAH,33016,No,Yes,Yes,KG-05,50,2025,not_attempted_no_own_domain,,,,,,,,,,,
 5227,Dade,TUTOR ME DAYCARE AND PRESCHOOL  2,MIAMI LAKES,33016,No,Yes,Yes,PK-12,178,2026,not_attempted_no_own_domain,,,,,,,,,,,
 5980,Dade,TVC ACADEMY,N. MIAMI BEACH,33180,No,Yes,Yes,KG-12,27,2025,unclear,,,,,,0,https://thevictoryschool.org/admissions/,2026-10-08,live,only the cost of the programme seen,
@@ -2096,7 +2096,7 @@ school_code,district,school_name,city,zip,religious,fes_eo,ftc,grade_levels,enro
 7715,Manatee,The Academy of Preprofessional Ballet &  The International Diplomatic Preparatory School,MIAMI GARDENS,33055,No,No,No,09,1,2026,not_reached,,,,,,,,,,,
 6673,Manatee,TWIN ANGELS ACADEMY PREPARATORY SCHOOL,PALMETTO,34221,No,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
 5529,Manatee,VICTORY CHRISTIAN ACADEMY,BRADENTON,34208,Yes,No,No,,0,2025,not_attempted_no_enrollment,,,,,,,,,,,
-187,Manatee,VISIONS PREPARATORY ACADEMY OF NORTH RIVER,SARASOTA,34234,No,Yes,Yes,08-12,11,2025,tuition_word_no_amount,,,,,,,,,,,
+187,Manatee,VISIONS PREPARATORY ACADEMY OF NORTH RIVER,SARASOTA,34234,No,Yes,Yes,08-12,11,2025,not_reached,,,,,,,,,,,
 1422,Manatee,WEST COAST CHRISTIAN ACADEMY,BRADENTON,34203,Yes,Yes,Yes,KG-12,49,2025,network_site_only,,,,,,0,https://www.flcoe.org/,2026-10-08,live,"only the FLCOE network site was found: range 7,000-14,000 per year",
 7657,Manatee,WOODLAND EARLY CHILDHOOD CENTER,BRADENTON,34202,Yes,Yes,Yes,PK-08,471,2025,not_reached,,,,,,,,,,,
 3878,Marion,AMBLESIDE MAGNOLIA,OCALA,34470,Yes,Yes,Yes,KG-05,77,2026,found,2026-27,8737,10571,11136,,0,https://amblesidemagnolia.com/tuition/,2026-10-08,live,"rounded from 8,736.55 / 10,073.40 / 10,570.89 / 11,136.36: K-2 8,737 (K-5 tied, lower rate used); 3-5 10,073; 6-8 10,571; high school 11,136",high
