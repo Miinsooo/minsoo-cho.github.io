@@ -28,7 +28,7 @@ listing:
 
 <div class="page__content">
 
-<p><a href="/files/CV_260827.pdf" class="btn">Download Full CV (PDF)</a></p>
+<p><a href="/files/CV_261122.pdf" class="btn">Download Full CV (PDF)</a></p>
 
 ## Education
 
@@ -44,7 +44,7 @@ listing:
 
 ## Fields of Interest
 
-Public Economics, Labor Economics, Health Economics, Urban Economics
+Public Economics, Urban Economics, Labor Economics, Health Economics
 
 ## Publications
 
@@ -79,7 +79,7 @@ Public Economics, Labor Economics, Health Economics, Urban Economics
 
 ## Conference and Seminar Presentations
 
-* Southern Economic Association Annual Meetings, Houston, TX — scheduled, November 2026
+* 2026: Southern Economic Association Annual Meetings, Houston, TX
 
 ## Work Experience
 
